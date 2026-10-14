@@ -1,0 +1,1596 @@
+One Hundred Grand | Foster City, CA
+
+
+
+
+ EARNINGS RELEASE &
+ SUPPLEMENTAL DATA
+ SECOND QUARTER 2025
+                                       SECOND QUARTER 2025
+                             EARNINGS RELEASE AND SUPPLEMENTAL DATA
+
+
+
+Table of Contents
+Earnings Press Release ........................................................................................................ Pages 1 - 9
+Consolidated Operating Results ............................................................................................ S-1 & S-2
+Consolidated Funds from Operations ............................................................................................... S-3
+Consolidated Balance Sheets ........................................................................................................... S-4
+Debt Summary ............................................................................................................................... S-5
+Capitalization Data, Public Bond Covenants, Credit Ratings and Selected Credit Ratios ..................... S-6
+Portfolio Summary by County ......................................................................................................... S-7
+Operating Income by Quarter .......................................................................................................... S-8
+Same-Property Revenue Results by County, Quarter-to-Date ............................................................ S-9
+Same-Property Revenue Results by County, Year-to-Date.............................................................. S-9.1
+Same-Property Operating Expenses, Quarter and Year-to-Date ....................................................... S-10
+Development Pipeline ................................................................................................................... S-11
+Capital Expenditures .................................................................................................................... S-12
+Co-Investments and Preferred Equity Investments .......................................................................... S-13
+Summary of Apartment Community Acquisitions and Dispositions Activity..................................... S-14
+Assumptions for 2025 FFO Guidance Range .................................................................................. S-15
+Reconciliation of Projected EPS, FFO and Core FFO per diluted share ......................................... S-15.1
+MSA Level Supply Forecast: 2025E – 2026E ................................................................................. S-16
+Reconciliations of Non-GAAP Financial Measures and Other Terms ............................... S-17.1 – S-17.4
+
+
+
+
+                      1100 Park Place Suite 200 San Mateo California 94403 telephone 650 655 7800 facsimile 650 655 7810
+                                                                  www.essex.com
+                        ESSEX ANNOUNCES SECOND QUARTER 2025 RESULTS
+                             AND RAISES FULL-YEAR 2025 GUIDANCE
+
+  San Mateo, California—July 29, 2025—Essex Property Trust, Inc. (NYSE: ESS) (the “Company”) announced
+  today its second quarter 2025 earnings results and related business activities.
+
+  Net Income, Funds from Operations (“FFO”), and Core FFO per diluted share for the three and six-month
+  periods ended June 30, 2025 are detailed below.
+
+                                Three Months Ended                                Six Months Ended
+                                      June 30,                    %                    June 30,                       %
+                                 2025           2024            Change            2025          2024                Change
+Per Diluted Share
+ Net Income                      $3.44          $1.45           137.2%            $6.59         $5.69               15.8%
+ Total FFO                       $4.03          $3.89            3.6%             $8.00         $8.49               -5.8%
+ Core FFO                        $4.03          $3.94            2.3%             $8.00         $7.77                3.0%
+
+
+  Second Quarter 2025 Highlights:
+         • Reported Net Income per diluted share for the second quarter of 2025 of $3.44, compared to $1.45
+            in the second quarter of 2024. The increase was primarily driven by a gain on sale of real estate.
+
+          •    Grew Core FFO per diluted share by 2.3% compared to the second quarter of 2024, exceeding the
+               midpoint of the Company’s guidance range by $0.07. The outperformance was primarily driven by
+               higher same-property revenue growth and favorable property taxes in Washington.
+
+          •    Achieved same-property revenue and net operating income (“NOI”) growth of 3.2% and 3.3%,
+               respectively, compared to the second quarter of 2024. On a sequential basis, same-property revenue
+               and NOI improved 1.0% and 2.5%, respectively.
+
+          •    Acquired two apartment home communities located in Northern California for a total contract price
+               of $240.5 million. Disposed of one apartment home community located in Southern California for
+               a contract price of $239.6 million.
+
+          •    Raised full-year 2025 guidance range as detailed in the table below:
+
+                                                              Revised                  Revised               Change at
+              Full-Year 2025 Revised Guidance
+                                                               Range                   Midpoint              Midpoint
+              Net Income per diluted share                 $10.05 - $10.29              $10.17                +$0.73
+              Core FFO per diluted share                   $15.80 - $16.02                $15.91               +$0.10
+              Same-Property Revenues                       2.90% to 3.40%                 3.15%               +0.15%
+              Same-Property Operating Expenses             3.00% to 3.50%                 3.25%               (0.50%)
+              Same-Property NOI                            2.70% to 3.50%                 3.10%               +0.40%
+
+
+
+               1100 Park Place Suite 200 San Mateo California 94403 telephone 650 655 7800 facsimile 650 655 7810
+                                                        www.essex.com
+                                                                                                                     Table of Contents
+
+
+                                                     SAME-PROPERTY OPERATIONS
+
+        Same-property operating results exclude any properties that are not comparable for the periods presented. The
+        table below illustrates the percentage change in same-property revenue on a year-over-year basis for the three
+        and six-month periods ended June 30, 2025 and on a sequential basis for the three-month period ended June
+        30, 2025:
+
+                                                                     Revenue Change
+                                                      Q2 2025           YTD 2025                Q2 2025             % of Total Q2
+                                                    vs. Q2 2024        vs. YTD 2024           vs. Q1 2025           2025 Revenues
+        Southern California
+         Los Angeles County                              2.8%                 3.5%                 0.0%                   18.4%
+         Orange County                                   3.5%                 3.6%                 0.9%                    9.2%
+         San Diego County                                3.3%                 3.1%                 1.6%                    9.3%
+         Ventura County                                  3.2%                 4.2%                -0.6%                    4.3%
+            Total Southern California                    3.1%                 3.5%                0.5%                    41.2%
+        Northern California
+         Santa Clara County                              3.4%                 3.4%                1.6%                     20.1%
+         Alameda County                                  2.8%                 2.8%                1.0%                      7.3%
+         San Mateo County                                4.2%                 4.7%                1.8%                      4.7%
+         Contra Costa County                             1.9%                 2.5%                0.0%                      5.5%
+         San Francisco                                   6.5%                 6.6%                0.7%                      3.1%
+            Total Northern California                    3.4%                 3.5%                1.2%                     40.7%
+        Seattle Metro                                    2.8%                 2.5%                1.5%                     18.1%
+        Same-Property Portfolio                          3.2%                 3.3%                1.0%                    100.0%
+
+
+
+        The table below illustrates the components that drove the change in same-property revenue on a year-over-year
+        basis for the three and six-month periods ended June 30, 2025 and on a sequential basis for the three-month
+        period ended June 30, 2025:
+
+                                                                    Q2 2025                     YTD 2025                    Q2 2025
+      Same-Property Revenue Components                            vs. Q2 2024                 vs. YTD 2024                vs. Q1 2025
+       Scheduled Rents                                                  2.3%                        2.2%                    0.9%
+       Delinquency (1)                                                  0.5%                        0.7%                    0.1%
+       Cash Concessions                                                 0.0%                        0.1%                   -0.1%
+       Vacancy                                                         -0.2%                       -0.1%                   -0.1%
+       Other Income                                                     0.6%                        0.4%                    0.2%
+      Q2 2025 Same-Property Revenue Growth                             3.2%                        3.3%                     1.0%
+(1)   Same-Property delinquency as a percentage of scheduled rent was 0.5% and 1.0% in the three-month periods ended June 30, 2025 and
+      2024, respectively, and 0.5% and 1.1% in the six-month periods ended June 30, 2025 and 2024, respectively.
+
+
+
+
+                                                                      -2-
+                                                                                           Table of Contents
+
+
+                                  Year-Over-Year Change                     Year-Over-Year Change
+                               Q2 2025 compared to Q2 2024              YTD 2025 compared to YTD 2024
+                                         Operating                                 Operating
+                              Revenues    Expenses    NOI               Revenues   Expenses     NOI
+Southern California             3.1%         5.5%     2.1%                3.5%        4.8%     2.9%
+Northern California             3.4%         5.7%     2.5%                3.5%        3.7%     3.4%
+Seattle Metro                   2.8%        -9.2%     7.8%                2.5%       -0.8%     3.9%
+Same-Property Portfolio         3.2%        2.9%      3.3%                3.3%       3.3%      3.3%
+
+
+                                                          Sequential Change
+                                                     Q2 2025 compared to Q1 2025
+                                                               Operating
+                                                Revenues        Expenses         NOI
+               Southern California                0.5%             0.6%          0.5%
+               Northern California                1.2%            -0.7%          2.0%
+               Seattle Metro                      1.5%           -14.1%          8.5%
+               Same-Property Portfolio           1.0%             -2.6%         2.5%
+
+
+                                                         Financial Occupancies
+                                                            Quarter Ended
+                                                6/30/2025         3/31/2025       6/30/2024
+               Southern California                95.7%             95.8%           95.8%
+               Northern California                96.6%             96.8%           96.3%
+               Seattle Metro                      96.5%             96.3%           97.1%
+               Same-Property Portfolio            96.2%             96.3%           96.2%
+
+
+
+
+                                         INVESTMENT ACTIVITY
+
+Acquisitions
+
+In May, the Company acquired two apartment home communities comprising 420 apartment homes located in
+Santa Clara County for a total contract price of $240.5 million.
+
+Dispositions
+
+In April, the Company sold a 350-unit apartment home community located in Santa Ana, CA for a contract
+price of $239.6 million. The Company recorded a gain on sale of real estate of $126.2 million in the second
+quarter, which has been excluded from Total and Core FFO.
+
+Subsequent to quarter end, the Company sold a 243-unit apartment home community located in Oakland, CA
+for a contract price of $97.5 million.
+
+
+
+
+                                                   -3-
+                                                                                                Table of Contents
+
+
+Other Investments
+
+Subsequent to quarter end, the Company formed a new joint venture, Wesco VII LLC (“Wesco VII”), with the
+State of Wisconsin Investment Board with a total commitment from each partner of $50.0 million to fund new
+structured finance investments. Essex has a 50% ownership interest in the venture. In July, Wesco VII
+originated a $42.6 million preferred equity investment for the development of a 480-unit apartment home
+community located in South San Francisco, CA. The investment has an initial preferred return of 13.5% and is
+expected to be fully funded by the fourth quarter of 2025.
+
+
+                                      BALANCE SHEET AND LIQUIDITY
+
+Balance Sheet
+
+In May, the Company obtained a $300.0 million unsecured term loan which is scheduled to mature in May
+2028 with two one-year extension options, exercisable at the Company’s option. The loan is priced at SOFR
+plus 0.850%, with $150.0 million of the loan swapped to an all-in fixed rate of 4.1% through April 2030. The
+loan includes a 12-month delayed draw feature with $150.0 million in proceeds drawn as of June 30, 2025. The
+remaining portion will be drawn based on the Company’s future financing needs.
+
+In May, the Company established a commercial paper program which allows the issuance, from time to time,
+of unsecured commercial paper notes up to a maximum aggregate principal amount outstanding of $750.0
+million. The Company’s unsecured line of credit facilities will serve as a liquidity backstop for issuances under
+the program, and the proceeds will be utilized for general corporate and working capital purposes. As of June
+30, 2025, an aggregate of $365.0 million was outstanding under the commercial paper program.
+
+Subsequent to quarter end, the Company increased its unsecured credit facility from $1.2 billion to $1.5 billion
+and extended the maturity date to January 2030 with two six-month extension options, exercisable at the
+Company’s option. Pricing on the credit facility is SOFR plus 0.775%.
+
+Common Stock and Liquidity
+
+During the second quarter, the Company did not issue any shares of common stock through its equity
+distribution program, exercise any of its previously disclosed forward sale agreements, or repurchase any shares
+through its stock repurchase plan.
+
+As of July 25, 2025, the Company had approximately $1.5 billion in liquidity via available capacity on its
+unsecured credit facilities, cash and cash equivalents, and marketable securities.
+
+
+
+
+                                                      -4-
+                                                                                                                     Table of Contents
+
+
+                                                                 GUIDANCE
+
+        For the second quarter of 2025, the Company exceeded the midpoint of the guidance range provided in its first
+        quarter 2025 earnings release for Core FFO by $0.07 per diluted share. The outperformance was primarily
+        driven by higher same-property revenue growth and favorable property taxes in Washington.
+
+        The following table provides a reconciliation of second quarter 2025 Core FFO per diluted share to the midpoint
+        of the guidance provided in the Company’s first quarter 2025 earnings release.
+
+                                                                                                             Per Diluted
+                                                                                                               Share
+                   Guidance midpoint of Core FFO per diluted share for Q2 2025                        $         3.96
+                     Consolidated NOI                                                                           0.05
+                     G&A and Other                                                                              0.02
+                   Core FFO per diluted share for Q2 2025 reported                                    $         4.03
+
+
+                                         2025 FULL-YEAR AND THIRD QUARTER GUIDANCE
+
+                                                     Previous                   Revised                Revised              Change at
+Per Diluted Share                                     Range                      Range                 Midpoint             Midpoint
+ Net Income                                        $9.19 - $9.69             $10.05 - $10.29            $10.17               +$0.73
+ Total FFO                                        $15.56 - $16.06            $15.77 - $16.01            $15.89               +$0.08
+ Core FFO                                         $15.56 - $16.06            $15.80 - $16.02            $15.91               +$0.10
+ Q3 2025 Core FFO                                      N/A                    $3.89 - $3.99              $3.94                N/A
+
+Same-Property Portfolio Growth (1)
+ Revenues                                        2.25% to 3.75%              2.90% to 3.40%               3.15%              +0.15%
+ Operating Expenses                              3.25% to 4.25%              3.00% to 3.50%               3.25%              (0.50%)
+ Net Operating Income                            1.40% to 4.00%              2.70% to 3.50%               3.10%              +0.40%
+  2025 Blended Rate Growth                       2.50% to 3.50%              2.60% to 3.00%               2.80%              (0.20%)
+    Excluding Los Angeles County                      N/A                    2.80% to 3.20%               3.00%                N/A
+(1)   Reflects guidance on a cash basis. On a GAAP basis, the midpoints of the Company’s same-property revenue and NOI guidance are
+      3.20% and 3.20%, respectively.
+
+
+                  SEQUENTIAL COMPONENTS TO 2025 THIRD QUARTER CORE FFO GUIDANCE MIDPOINT
+
+                                                                                                             Per Diluted
+                                                                                                               Share
+                   Core FFO per diluted share for Q2 2025 reported                                    $         4.03
+                     Consolidated Revenues                                                                      0.05
+                     Consolidated Operating Expenses                                                           (0.11)
+                     Structured Finance Investments                                                            (0.02)
+                     G&A and Other                                                                             (0.01)
+                   Guidance midpoint of Core FFO per diluted share for Q3 2025                        $         3.94
+
+        For additional details regarding the Company’s 2025 FFO guidance range, see page S-15 of the supplemental
+        financial information.
+                                                                     -5-
+                                                                                                 Table of Contents
+
+
+                                  CONFERENCE CALL WITH MANAGEMENT
+
+The Company will host an earnings conference call with management to discuss its quarterly results on
+Wednesday, July 30, 2025 at 9 a.m. PT (12 p.m. ET), which will be broadcast live via the Internet at
+www.essex.com, and accessible via phone by dialing toll-free, (877) 407-0784, or toll/international, (201) 689-
+8560. No passcode is necessary.
+
+A rebroadcast of the live call will be available online for 30 days and digitally for 7 days. To access the replay
+online, go to www.essex.com and select the second quarter 2025 earnings link. To access the replay, dial (844)
+512-2921 using the replay pin number 13754643. If you are unable to access the information via the Company’s
+website, please contact the Investor Relations Department at investors@essex.com or calling (650) 655-7800.
+
+                                            CORPORATE PROFILE
+
+Essex Property Trust, Inc., an S&P 500 company, is a fully integrated real estate investment trust (REIT) that
+acquires, develops, redevelops, and manages multifamily residential properties in selected West Coast markets.
+Essex currently has ownership interests in 258 apartment communities comprising over 62,000 apartment
+homes with an additional property in active development. Additional information about the Company can be
+found on the Company’s website at www.essex.com.
+
+This press release and accompanying supplemental financial information has been furnished to the Securities
+and Exchange Commission electronically on Form 8-K and can be accessed from the Company’s website at
+www.essex.com. If you are unable to obtain the information via the Web, please contact the Investor Relations
+Department at (650) 655-7800.
+
+                                            FFO RECONCILIATION
+
+FFO, as defined by the National Association of Real Estate Investment Trusts (“Nareit”), is generally
+considered by industry analysts as an appropriate measure of performance of an equity REIT. Generally, FFO
+adjusts the net income of equity REITs for non-cash charges such as depreciation and amortization of rental
+properties, impairment charges, gains on sales of real estate and extraordinary items. Management considers
+FFO and FFO which excludes non-core items, which is referred to as “Core FFO,” to be useful supplemental
+operating performance measures of an equity REIT because, together with net income and cash flows, FFO and
+Core FFO provide investors with additional bases to evaluate the operating performance and ability of a REIT
+to incur and service debt and to fund acquisitions and other capital expenditures and to pay dividends. By
+excluding gains or losses related to sales of depreciated operating properties and land and excluding real estate
+depreciation (which can vary among owners of identical assets in similar condition based on historical cost
+accounting and useful life estimates), FFO can help investors compare the operating performance of a real
+estate company between periods or as compared to different companies. By further adjusting for items that are
+not considered part of the Company’s core business operations, Core FFO allows investors to compare the core
+operating performance of the Company to its performance in prior reporting periods and to the operating
+performance of other real estate companies without the effect of items that by their nature are not comparable
+from period to period and tend to obscure the Company’s actual operating results. FFO and Core FFO do not
+represent net income or cash flows from operations as defined by U.S. generally accepted accounting principles
+(“GAAP”) and are not intended to indicate whether cash flows will be sufficient to fund cash needs. These
+measures should not be considered as alternatives to net income as an indicator of the REIT's operating
+performance or to cash flows as a measure of liquidity. FFO and Core FFO do not measure whether cash flow
+is sufficient to fund all cash needs including principal amortization, capital improvements and distributions to
+stockholders. FFO and Core FFO also do not represent cash flows generated from operating, investing or
+financing activities as defined under GAAP. Management has consistently applied the Nareit definition of FFO
+to all periods presented. However, there is judgment involved and other REITs’ calculation of FFO may vary
+from the Nareit definition for this measure, and thus their disclosures of FFO may not be comparable to the
+Company’s calculation.
+                                                       -6-
+                                                                                                                             Table of Contents
+
+
+         The following table sets forth the Company’s calculation of FFO and Core FFO per diluted share for the three
+         and six-month periods ended June 30, 2025 and 2024 (dollars in thousands, except for share and per share
+         amounts):
+
+                                                                                    Three Months Ended                          Six Months Ended
+                                                                                          June 30,                                   June 30,
+                                                                                   2025            2024                      2025             2024
+Net income available to common stockholders                                $        221,362 $       92,914          $         424,472 $        365,645
+Adjustments:
+Depreciation and amortization                                                       151,501             145,613              302,788                  285,346
+Gains not included in FFO                                                         (126,174)                   -            (237,534)                (138,326)
+Impairment loss from unconsolidated co-investments                                        -                   -                    -                    3,726
+Depreciation and amortization from unconsolidated co-
+investments                                                                          14,406              17,380                28,784                 35,850
+Noncontrolling interest related to Operating Partnership units                        7,781               3,270                15,060                 12,869
+Depreciation attributable to third party ownership and other                           (38)               (390)                  (84)                  (779)
+    FFO attributable to common stockholders and
+    unitholders                                                            $        268,838 $           258,787     $        533,486      $          564,331
+    FFO per share – diluted                                                $           4.03 $               3.89 $               8.00     $              8.49
+Expensed acquisition and investment related costs                          $              - $                  - $                  -     $                68
+Tax benefit on unconsolidated technology co-investments                               (232)                (807)                (395)                   (758)
+Realized and unrealized gains on marketable securities, net                         (2,492)              (1,597)              (2,401)                 (4,948)
+Provision for credit losses                                                              14                   19                   11                      66
+Equity loss (income) from unconsolidated technology
+co-investments                                                                          104                  143              (1,612)                 (5,727)
+Loss on early retirement of debt                                                          -                    -                  762                       -
+Co-investment promote income                                                              -                    -                    -                 (1,531)
+General and administrative and other, net (1)                                         2,661                5,906                3,937                   8,447
+Insurance reimbursements, legal settlements, and other, net (2)                       (339)                (486)                (700)                (43,300)
+    Core FFO attributable to common stockholders and
+    unitholders                                                            $       268,554 $           261,965      $        533,088      $       516,648
+    Core FFO per share – diluted                                           $          4.03 $              3.94      $           8.00      $          7.77
+Weighted average number of shares outstanding diluted (3)                       66,670,784          66,486,464            66,663,894           66,477,724
+
+
+         (1)   Includes political advocacy costs of $0.3 million and $0.4 million for the three and six months ended June 30, 2025, respectively,
+               and $5.3 million and $7.2 million for the three and six months ended June 30, 2024, respectively.
+         (2)   There were no material gains from legal settlements during the three and six months ended June 30, 2025 and the three months
+               ended June 30, 2024. During the six months ended June 30, 2024, the Company settled two lawsuits related to construction defects
+               at two communities and received cash recoveries of $42.5 million. The Company determined that all uncertainties were resolved
+               upon receipt of cash and recorded a gain which was excluded from Core FFO.
+         (3)   Assumes conversion of all outstanding limited partnership units in Essex Portfolio, L.P. (the “Operating Partnership”) into shares
+               of the Company’s common stock and excludes DownREIT limited partnership units.
+
+
+
+
+                                                                           -7-
+                                                                                               Table of Contents
+
+
+            NET OPERATING INCOME (“NOI”) AND SAME-PROPERTY NOI RECONCILIATIONS
+
+NOI and Same-Property NOI are considered by management to be important supplemental performance
+measures to earnings from operations included in the Company’s consolidated statements of income. The
+presentation of same-property NOI assists with the presentation of the Company’s operations prior to the
+allocation of depreciation and any corporate-level or financing-related costs. NOI reflects the operating
+performance of a community and allows for an easy comparison of the operating performance of individual
+communities or groups of communities. In addition, because prospective buyers of real estate have different
+financing and overhead structures, with varying marginal impacts to overhead by acquiring real estate, NOI is
+considered by many in the real estate industry to be a useful measure for determining the value of a real estate
+asset or group of assets. The Company defines same-property NOI as same-property revenues less same-
+property operating expenses, including property taxes. Please see the reconciliation of earnings from operations
+to NOI and same-property NOI, which in the table below is the NOI for stabilized properties consolidated by
+the Company for the periods presented (dollars in thousands):
+
+
+                                                     Three Months Ended                   Six Months Ended
+                                                           June 30,                            June 30,
+                                                     2025           2024                2025            2024
+Earnings from operations                       $     279,700 $ 137,450            $     536,781    $    269,809
+Adjustments:
+   Corporate-level property management
+                                                       12,220         11,622             24,552            22,721
+   expenses
+   Depreciation and amortization                     151,501         145,613            302,788          285,346
+   Management and other fees from affiliates          (2,223)         (2,573)            (4,717)          (5,286)
+   General and administrative                         17,157          21,136             33,449           38,307
+   Expensed acquisition and investment
+                                                            -               -                  -               68
+  related costs
+   Gain on sale of real estate and land             (126,174)              -          (237,204)                 -
+     NOI                                              332,181        313,248            655,649           610,965
+   Less: Non-same property NOI                       (41,325)       (31,667)           (81,130)          (54,858)
+Same-Property NOI                              $      290,856   $    281,581      $     574,519    $      556,107
+
+
+          SAFE HARBOR STATEMENT UNDER THE PRIVATE LITIGATION REFORM ACT OF 1995:
+
+This press release includes “forward-looking statements” within the meaning of Section 27A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-
+looking statements are statements which are not historical facts, including statements regarding the Company's
+expectations, estimates, assumptions, hopes, intentions, beliefs and strategies regarding the future. Words such
+as “expects,” “assumes,” “anticipates,” “may,” “will,” “intends,” “plans,” “projects,” “believes,” “seeks,”
+“future,” “estimates,” and variations of such words and similar expressions are intended to identify such
+forward-looking statements. Such forward-looking statements include, among other things, statements
+regarding the Company’s third quarter and full-year 2025 guidance (including net income, Total FFO and Core
+FFO, same-property growth and related assumptions) and anticipated yield on certain investments. While the
+Company's management believes the assumptions underlying its forward-looking statements are reasonable,
+such forward-looking statements involve known and unknown risks, uncertainties and other factors, many of
+which are beyond the Company’s control, which could cause the actual results, performance or achievements
+of the Company to be materially different from any future results, performance or achievements expressed or
+implied by such forward-looking statements. The Company cannot assure the future results or outcome of the
+matters described in these statements; rather, these statements merely reflect the Company’s current
+expectations of the approximate outcomes of the matters discussed.
+
+
+                                                      -8-
+                                                                                                 Table of Contents
+
+
+Factors that might cause the Company’s actual results, performance or achievements to differ materially from
+those expressed or implied by these forward-looking statements include, but are not limited to, the following:
+assumptions related to our third quarter and full-year 2025 guidance; occupancy rates and rental demand may
+be adversely affected by competition and local economic and market conditions; there may be increased interest
+rates, inflation, escalated operating costs and possible recessionary impacts; tariffs, geopolitical tensions and
+regional conflicts, and the related impacts on macroeconomic conditions, including, among other things,
+interest rates and inflation; the terms of any refinancing may not be as favorable as the terms of existing
+indebtedness; the Company’s inability to maintain its investment grade credit rating with the rating agencies;
+the Company may be unsuccessful in the management of its relationships with its co-investment partners; the
+Company may fail to achieve its business objectives; time of actual completion and/or stabilization of
+development and redevelopment projects; estimates of future income from an acquired property may prove to
+be inaccurate; future cash flows may be inadequate to meet operating requirements and/or may be insufficient
+to provide for dividend payments in accordance with REIT requirements; changes in laws or regulations and
+the anticipated or actual impact of future changes in laws or regulations; unexpected difficulties in leasing of
+future development projects; volatility in financial and securities markets; the Company’s failure to successfully
+operate acquired properties; unforeseen consequences from cyber-intrusion; government approvals, actions and
+initiatives, including the need for compliance with environmental requirements; and those further risks, special
+considerations, and other factors referred to in the Company’s annual report on Form 10-K for the year ended
+December 31, 2024, quarterly reports on Form 10-Q, and those risk factors and special considerations set forth
+in the Company's other filings with the SEC which may cause the actual results, performance or achievements
+of the Company to be materially different from any future results, performance or achievements expressed or
+implied by such forward-looking statements. All forward-looking statements are made as of the date hereof,
+the Company assumes no obligation to update or supplement this information for any reason, and therefore,
+they may not represent the Company’s estimates and assumptions after the date of this press release.
+
+
+                                    DEFINITIONS AND RECONCILIATIONS
+
+Non-GAAP financial measures and certain other capitalized terms, as used in this earnings release and
+supplemental financial information, are defined and further explained on pages S-17.1 through S-17.4,
+"Reconciliations of Non-GAAP Financial Measures and Other Terms," of the accompanying supplemental
+financial information. The supplemental financial information is available on the Company's website at
+www.essex.com.
+
+
+Contact Information
+Loren Rainey
+Sr. Director, Investor Relations
+(650) 655-7800
+lrainey@essex.com
+
+
+
+
+                                                      -9-
+                                                                                                                                                       Table of Contents
+
+
+
+
+                                                                                                        Three Months Ended                   Six Months Ended
+                                                                                                              June 30,                             June 30,
+                                                                                                       2025              2024              2025               2024
+
+Revenues:
+  Rental and other property                                                                        $     467,610     $     439,782     $     929,699     $      863,997
+  Management and other fees from affiliates                                                                2,223             2,573             4,717              5,286
+                                                                                                         469,833           442,355           934,416            869,283
+Expenses:
+  Property operating                                                                                     135,429           126,534           274,050            253,032
+  Corporate-level property management expenses                                                            12,220            11,622            24,552             22,721
+  Depreciation and amortization                                                                          151,501           145,613           302,788            285,346
+  General and administrative                                                                              17,157            21,136            33,449             38,307
+  Expensed acquisition and investment related costs                                                            -                 -                 -                 68
+                                                                                                         316,307           304,905           634,839            599,474
+Gain on sale of real estate and land                                                                     126,174                 -           237,204                  -
+Earnings from operations                                                                                 279,700           137,450           536,781            269,809
+Interest expense, net (1)                                                                                (64,191)          (58,491)         (125,723)          (113,628)
+Interest and other income                                                                                  6,808             9,568            11,097             66,843
+Equity income from co-investments                                                                          8,977             9,652            22,186             22,018
+Tax benefit on unconsolidated technology co-investments                                                      232               807               395                758
+Loss on early retirement of debt                                                                               -                 -              (762)                 -
+Gain on remeasurement of co-investment                                                                         -                 -               330            138,326
+  Net income                                                                                             231,526            98,986           444,304            384,126
+Net income attributable to noncontrolling interest                                                       (10,164)           (6,072)          (19,832)           (18,481)
+  Net income available to common stockholders                                                      $     221,362     $      92,914     $     424,472     $      365,645
+
+
+Net income per share - basic                                                                       $          3.44   $          1.45   $          6.60   $           5.69
+
+Shares used in income per share - basic                                                                64,385,988        64,209,878        64,350,640         64,207,482
+
+Net income per share - diluted                                                                     $          3.44   $          1.45   $          6.59   $           5.69
+
+Shares used in income per share - diluted                                                              64,407,613        64,227,651        64,378,953         64,218,911
+(1) Refer to page S-17.2, the section titled "Interest Expense, Net" for additional information.
+
+
+
+
+                                    See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                         S-1
+                                                                                                                                    Table of Contents
+
+
+
+
+                                                                                              Three Months Ended               Six Months Ended
+                                                                                                    June 30,                        June 30,
+                                                                                             2025            2024            2025            2024
+
+Rental and other property
+  Rental income                                                                         $     460,686    $    432,141    $    916,546    $    849,377
+  Other property                                                                                6,924           7,641          13,153          14,620
+    Rental and other property                                                           $     467,610    $    439,782    $    929,699    $    863,997
+
+Property operating expenses
+  Real estate taxes                                                                     $      49,035    $     47,312    $    101,629    $     94,232
+  Administrative                                                                               14,932          15,290          30,192          29,099
+  Maintenance and repairs                                                                      16,130          13,940          30,872          28,790
+  Personnel costs                                                                              26,744          24,536          52,995          48,960
+  Utilities                                                                                    28,588          25,456          58,362          51,951
+     Property operating expenses                                                        $     135,429    $    126,534    $    274,050    $    253,032
+
+Interest and other income
+   Marketable securities and other income                                               $       3,976    $      7,510    $      7,992    $     18,685
+   Realized and unrealized gains on marketable securities, net                                  2,492           1,597           2,401           4,948
+   Provision for credit losses                                                                    (14)            (19)            (11)            (66)
+   Insurance reimbursements, legal settlements, and other, net                                    354             480             715          43,276
+      Interest and other income                                                         $       6,808    $      9,568    $     11,097    $     66,843
+
+Equity income from co-investments
+  Equity loss from co-investments                                                       $        (221)   $     (2,322)   $       (523)   $     (5,874)
+  Income from preferred equity investments                                                      9,317          12,111          21,112          24,336
+  Equity (loss) income from unconsolidated technology co-investments                             (104)           (143)          1,612           5,727
+  Insurance reimbursements, legal settlements, and other, net                                     (15)              6             (15)             24
+  Impairment loss from unconsolidated co-investment                                                 -               -               -          (3,726)
+  Co-investment promote income                                                                      -               -               -           1,531
+     Equity income from co-investments                                                  $       8,977    $      9,652    $     22,186    $     22,018
+
+Noncontrolling interest
+  Limited partners of Essex Portfolio, L.P.                                             $       7,781    $      3,270    $     15,060    $     12,869
+  DownREIT limited partners' distributions                                                      2,339           2,291           4,678           4,583
+  Third-party ownership interest                                                                   44             511              94           1,029
+    Noncontrolling interest                                                             $      10,164    $      6,072    $     19,832    $     18,481
+
+
+
+                                   See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                        S-2
+                                                                                                                                                                                    Table of Contents
+
+
+
+
+                                                                                                          Three Months Ended                                      Six Months Ended
+                                                                                                                June 30,                                               June 30,
+                                                                                                        2025                 2024          % Change            2025                2024          % Change
+
+Funds from operations attributable to common stockholders and
+   unitholders (FFO)
+Net income available to common stockholders                                                       $        221,362     $        92,914                   $       424,472     $       365,645
+Adjustments:
+  Depreciation and amortization                                                                            151,501             145,613                           302,788              285,346
+  Gains not included in FFO                                                                               (126,174)                  -                          (237,534)            (138,326)
+  Impairment loss from unconsolidated co-investments                                                             -                   -                                 -                3,726
+  Depreciation and amortization from unconsolidated co-investments                                          14,406              17,380                            28,784               35,850
+  Noncontrolling interest related to Operating Partnership units                                             7,781               3,270                            15,060               12,869
+  Depreciation attributable to third party ownership and other                                                 (38)               (390)                              (84)                (779)
+    Funds from operations attributable to common stockholders and unitholders                     $        268,838     $       258,787                   $       533,486     $        564,331
+     FFO per share-diluted                                                                        $            4.03    $            3.89      3.6%       $            8.00   $            8.49     -5.8%
+
+Components of the change in FFO
+Non-core items:
+Expensed acquisition and investment related costs                                                 $               -    $              -                  $             -     $            68
+Tax benefit on unconsolidated technology co-investments                                                        (232)               (807)                            (395)               (758)
+Realized and unrealized gains on marketable securities, net                                                  (2,492)             (1,597)                          (2,401)             (4,948)
+Provision for credit losses                                                                                      14                  19                               11                  66
+Equity loss (income) from unconsolidated technology co-investments                                              104                 143                           (1,612)             (5,727)
+Loss on early retirement of debt                                                                                  -                   -                              762                   -
+Co-investment promote income                                                                                      -                   -                                -              (1,531)
+General and administrative and other, net (2)                                                                 2,661               5,906                            3,937               8,447
+Insurance reimbursements, legal settlements, and other, net (3)                                                (339)               (486)                            (700)            (43,300)
+     Core funds from operations attributable to common stockholders and unitholders               $        268,554     $       261,965                   $       533,088     $       516,648
+     Core FFO per share-diluted                                                                   $            4.03    $            3.94      2.3%       $            8.00   $            7.77     3.0%
+                                                          (4)
+Weighted average number of shares outstanding diluted                                                   66,670,784           66,486,464                        66,663,894          66,477,724
+(1) Refer to page S-17.2, the section titled "Funds from Operations ("FFO") and Core FFO" for additional information on the Company's definition and use of FFO and Core FFO.
+
+(2) Includes political advocacy costs of $0.3 million and $0.4 million for the three and six months ended June 30, 2025, respectively, and $5.3 million and $7.2 million for the three and six months ended
+
+  June 30, 2024, respectively.
+(3) There were no material gains from legal settlements during the three and six months ended June 30, 2025 and the three months ended June 30, 2024. During the six months ended June 30, 2024,
+
+    the Company settled two lawsuits related to construction defects at two communities and received cash recoveries of $42.5 million. The Company determined that all uncertainties were resolved
+    upon receipt of cash and recorded a gain which was excluded from Core FFO.
+(4) Assumes conversion of all outstanding limited partnership units in the Operating Partnership into shares of the Company's common stock and excludes DownREIT limited partnership units.
+
+
+
+
+                                       See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                            S-3
+                                                                                            Table of Contents
+
+
+
+
+                                                                      June 30, 2025     December 31, 2024
+Real estate investments:
+  Land and land improvements                                      $        3,320,696    $        3,246,789
+  Buildings and improvements                                              14,652,727            14,342,729
+                                                                          17,973,423            17,589,518
+  Less: accumulated depreciation                                          (6,263,819)           (6,150,618)
+                                                                          11,709,604            11,438,900
+Real estate under development                                                105,591                52,682
+Co-investments                                                               895,821               935,014
+Real estate held for sale                                                     47,653                     -
+                                                                          12,758,669            12,426,596
+Cash and cash equivalents, including restricted cash                          67,884                75,846
+Marketable securities                                                         82,162                69,794
+Notes and other receivables                                                  138,096               206,706
+Operating lease right-of-use assets                                           52,519                51,556
+Prepaid expenses and other assets                                             82,160                96,861
+     Total assets                                                 $       13,181,490    $       12,927,359
+
+Unsecured debt, net                                               $        5,519,922    $         5,473,788
+Mortgage notes payable, net                                                  874,532                989,884
+Lines of credit and commercial paper                                         365,000                137,945
+Distributions in excess of investments in co-investments                      89,389                 79,273
+Operating lease liabilities                                                   53,266                 52,473
+Other liabilities                                                            440,545                442,757
+      Total liabilities                                                    7,342,654              7,176,120
+Redeemable noncontrolling interest                                            32,922                 30,849
+Equity:
+  Common stock                                                                     6                     6
+  Additional paid-in capital                                               6,685,714             6,668,047
+  Distributions in excess of accumulated earnings                         (1,062,146)           (1,155,662)
+  Accumulated other comprehensive income, net                                 11,675                24,655
+    Total stockholders' equity                                             5,635,249             5,537,046
+  Noncontrolling interest                                                    170,665               183,344
+    Total equity                                                           5,805,914             5,720,390
+     Total liabilities and equity                                 $       13,181,490    $       12,927,359
+
+
+
+
+          See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                               S-4
+                                                                                                                                                                          Table of Contents
+
+
+
+
+                                                                                                 Scheduled principal payments, unamortized premiums (discounts) and (debt issuance costs)
+                                                                                                 are as follows - excludes lines of credit and commercial paper:
+                                                                                                                                                                    Weighted
+                                                                        Weighted Average                                                                             Average     Percentage
+                                                           Balance      Interest   Maturity                                                                          Interest     of Total
+                                                          Outstanding     Rate     in Years                                 Unsecured         Secured        Total     Rate         Debt
+Unsecured Debt, net
+  Bonds public - fixed rate                           $     5,100,000     3.6%             7.4            2025        $       -    $       98,110 $     98,110             3.3%           1.5%
+             (1)
+  Term loan                                                   450,000     4.2%             3.2            2026           450,000          194,405     644,405              3.6%          10.0%
+  Unamortized discounts and debt                                                                          2027           650,000           84,397     734,397              3.9%          11.4%
+     issuance costs, net                                     (30,078)      -           -                  2028           450,000           68,332     518,332              2.2%           8.1%
+        Total unsecured debt, net                          5,519,922      3.6%             7.0            2029           500,000             1,456    501,456              4.1%           7.8%
+Mortgage Notes Payable, net                                                                               2030           700,000             1,592    701,592              3.4%          10.9%
+  Fixed rate - secured                                       560,880      4.4%             5.0            2031           600,000             1,740    601,740              2.3%           9.4%
+  Variable rate - secured (2)                                316,301      3.8%             9.0            2032           650,000             1,903    651,903              2.6%          10.2%
+  Unamortized premiums and debt                                                                           2033                -           330,126     330,126              5.0%           5.1%
+    issuance costs, net                                       (2,649)      -           -                  2034           550,000             2,275    552,275              5.5%           8.6%
+       Total mortgage notes payable, net                     874,532      4.2%             6.4            2035           400,000             2,487    402,487              5.5%           6.3%
+Unsecured Lines of Credit and Commercial Paper                                                         Thereafter        600,000           90,358     690,358              3.6%          10.7%
+  Line of credit (3)                                              -       5.3%         N/A              Subtotal        5,550,000          877,181   6,427,181             3.7%         100.0%
+  Line of credit (4)                                              -       5.3%         N/A        Debt Issuance Costs     (29,117)          (2,293)    (31,410)             -              -
+  Commercial paper (5)                                      365,000       4.6%         N/A       (Discounts)/Premiums        (961)            (356)     (1,317)             -              -
+       Total lines of credit and commercial paper           365,000       4.6%         N/A               Total        $ 5,519,922 $        874,532 $ 6,394,454             3.7%         100.0%
+        Total debt, net                               $    6,759,454      3.7%         6.6
+
+
+Capitalized interest for the three and six months ended June 30, 2025 was approximately $0.7 million and $1.4 million, respectively.
+(1) In May 2025, the Company obtained a new $300.0 million unsecured term loan priced at SOFR plus 0.85% with a 12-month delayed draw feature. The term loan matures in May 2028
+
+    with two 12-month extension options, exercisable at the Company's option. In April 2025, the Company entered into floating-to-fixed interest rate swaps to fix the interest rate for $150.0
+    million of the new term loan facility to an all-in fixed rate of 4.1% through April 2030. The Company also has a $300.0 million unsecured term loan outstanding with a variable interest
+    rate of Adjusted SOFR plus 0.85% which matures in October 2025 with two remaining 12-month extension options, exercisable at the Company’s option. This loan has been swapped to
+    an all-in fixed rate of 4.2% through October 2026.
+(2) $220.4 million of variable rate debt is tax exempt to the note holders. $47.5 million of SOFR-based variable rate debt is swapped at a fixed rate of 2.83% through March 2026.
+
+(3) In July 2025, the Company amended its revolving credit facility increasing the borrowing capacity to $1.5 billion from the existing $1.2 billion and extended its maturity from January 2029
+
+    to January 2030 with two 6-month extension options, exercisable at the Company's option. The underlying interest rate on this new line of credit facility is SOFR plus 0.775% which is
+    based on a tiered rate structure tied to the Company's long-term unsecured credit ratings.
+(4) The unsecured line of credit facility has a capacity of $75.0 million and a scheduled maturity date in July 2026. The underlying interest rate on this line is Adjusted SOFR plus 0.775%,
+
+    which is based on a tiered rate structure tied to the Company's corporate ratings.
+(5) In May 2025, the Company entered into a commercial paper program under which it can issue unsecured short-term notes, up to $750 million, which are backstopped by and reduce the
+
+    borrowing capacity of the Company's unsecured line of credit facilities.
+
+
+                                     See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                          S-5
+                                                                                                                                                       Table of Contents
+
+
+
+
+Capitalization Data                                                                    Public Bond Covenants (1)                              Actual        Requirement
+Total debt, net                                                    $      6,759,454
+Common stock and potentially dilutive securities                                       Debt to Total Assets:                                   35%             < 65%
+  Common stock outstanding                                                   64,404
+  Limited partnership units (1)                                               2,256    Secured Debt to Total Assets:                            4%             < 40%
+  Options-treasury method                                                        22
+Total shares of common stock and potentially dilutive securities             66,682    Interest Coverage:                                      524%            > 150%
+
+Common stock price per share as of June 30, 2025                   $         283.40    Unsecured Debt Ratio (2):                               288%            > 150%
+
+Total equity capitalization                                        $     18,897,679    Selected Credit Ratios (3)                             Actual
+
+Total market capitalization                                        $     25,657,133    Net Indebtedness Divided by Adjusted EBITDAre,
+                                                                                         normalized and annualized:                             5.5
+Ratio of debt to total market capitalization                                  26.3%
+
+Credit Ratings                                                                         Unencumbered NOI to Adjusted Total NOI:                 93%
+Rating Agency            Rating                Outlook
+                                                                                       (1) Refer to page S-17.4 for additional information on the Company's Public Bond
+Moody's                  Baa1                  Stable
+                                                                                         Covenants.
+                                                                                       (2) Unsecured Debt Ratio is unsecured assets (excluding investments in co-
+Standard & Poor's        BBB+                  Stable
+                                                                                         investments) divided by unsecured indebtedness.
+(1) Assumes conversion of all outstanding limited partnership units in the Operating   (3) Refer to pages S-17.1 to S-17.4, the section titled "Reconciliations of Non-
+
+  Partnership into shares of the Company's common stock.                                 GAAP Financial Measures and Other Terms" for additional information on the
+                                                                                         Company's Selected Credit Ratios.
+
+
+
+
+                                  See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                       S-6
+                                                                                                                                                                           Table of Contents
+
+
+
+
+                                                   Apartment Homes                                  Average Monthly Rental Rate (1)                             Percent of NOI (2)
+
+                                                                   Apartment
+                                              Unconsolidated       Homes in                                     Unconsolidated                                     Unconsolidated
+Region - County               Consolidated    Co-investments     Development (3)    Total    Consolidated      Co-investments (4)    Total (4)   Consolidated     Co-investments (4)   Total (4)
+
+Southern California
+  Los Angeles County                 9,288               1,586                -     10,874   $       2,684    $             2,569   $ 2,674            15.1%                   19.1%     15.4%
+  Orange County                      5,734                 265                -      5,999           2,693                  2,488     2,688            10.8%                    3.2%     10.3%
+  San Diego County                   5,444                 443                -      5,887           2,688                  3,066     2,703            10.3%                    6.1%     10.0%
+  Ventura County and Other           2,756                 373                -      3,129           2,511                  3,207     2,562             5.1%                    6.4%      5.1%
+Total Southern California           23,222               2,667                -     25,889           2,667                  2,729     2,670            41.3%                   34.8%     40.8%
+Northern California
+  Santa Clara County (5)            10,185                 997                -     11,182           3,129                  3,062      3,125           21.4%                   13.6%     20.9%
+  Alameda County                     4,384               1,328                -      5,712           2,611                  2,603      2,610            7.1%                   16.5%      7.7%
+  San Mateo County                   2,483                 195             543       3,221           3,371                  3,863      3,390            5.5%                    4.3%      5.4%
+  Contra Costa County                2,619                   -                -      2,619           2,758                      -      2,758            4.7%                    0.0%      4.4%
+  San Francisco                      1,356                 537                -      1,893           2,927                  3,351      2,997            2.3%                    7.7%      2.7%
+Total Northern California           21,027               3,057              543     24,627           2,990                  2,945      2,987           41.0%                   42.1%     41.1%
+Seattle Metro                       10,899               1,970                -     12,869           2,258                  2,181      2,251           17.7%                   23.1%     18.1%
+Total                               55,148               7,694              543     63,385   $       2,709    $             2,677   $ 2,707           100.0%                  100.0%    100.0%
+(1) Average monthly rental rate is defined as the total scheduled monthly rental income (actual rent for occupied apartment homes plus market rent for vacant apartment homes) for the quarter
+
+  ended June 30, 2025, divided by the number of apartment homes as of June 30, 2025.
+(2) Represents the percentage of actual NOI for the quarter ended June 30, 2025. See section titled "Net Operating Income ("NOI") and Same-Property NOI Reconciliations" on page S-17.3.
+
+(3) Includes development communities with no rental income.
+
+(4) At Company's pro rata share.
+
+(5) Includes all communities in Santa Clara County and one community in Santa Cruz County.
+
+
+
+
+                                    See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                         S-7
+                                                                                                                         Table of Contents
+
+
+
+
+                                                    Apartment
+                                                     Homes           Q2 '25          Q1 '25           Q4 '24         Q3 '24           Q2 '24
+Rental and other property revenues:
+     Same-property                                     49,203    $    410,948    $    406,986     $    400,756   $     402,999    $    398,293
+                    (2)
+     Acquisitions                                       4,930          41,784          34,770           26,772          16,964          12,824
+                                  (3)
+     Non-residential/other, net                         1,015          14,711          20,721           23,745          28,399          29,176
+                                        (4)                 -             167             (388)            780            (227)           (511)
+     Straight-line rent concessions
+Total rental and other property revenues               55,148         467,610         462,089          452,053         448,135         439,782
+
+Property operating expenses:
+     Same-property                                                    120,092         123,323          119,681         123,078         116,712
+                    (2)
+     Acquisitions                                                      12,365          10,393            7,848           4,870           3,585
+                                  (3) (5)
+     Non-residential/other, net                                         2,972           4,905            6,183           6,844           6,237
+Total property operating expenses                                     135,429         138,621          133,712         134,792         126,534
+
+Net operating income (NOI):
+     Same-property                                                    290,856         283,663          281,075         279,921         281,581
+                    (2)
+     Acquisitions                                                      29,419          24,377           18,924          12,094           9,239
+                                  (3) (5)
+     Non-residential/other, net                                        11,739          15,816           17,562          21,555          22,939
+                                        (4)                               167             (388)            780            (227)           (511)
+     Straight-line rent concessions
+Total NOI                                                        $    332,181    $    323,468     $    318,341   $     313,343    $    313,248
+Same-property metrics
+   Operating margin                                                       71%             70%              70%            69%               71%
+     Annualized turnover                                                  39%             35%              36%            45%               41%
+
+     Financial occupancy                                                96.2%           96.3%            95.9%           96.2%           96.2%
+                                              (6)
+     Delinquency as a % of scheduled rent                                0.5%             0.5%            1.3%            0.7%              1.0%
+
+Same-property net effective rate growth (7)
+     New lease                                                           0.7%             1.0%           -1.9%           0.6%             1.6%
+        Excluding Los Angeles County                                     1.4%             1.2%           -1.8%           1.6%             2.8%
+     Renewal                                                             4.2%             3.8%            3.8%           3.8%             4.6%
+        Excluding Los Angeles County                                     4.4%             3.9%            4.1%           4.1%             4.9%
+     Blended                                                             3.0%             2.8%            1.6%           2.5%             3.4%
+        Excluding Los Angeles County                                     3.3%             2.9%            1.9%           3.2%             4.1%
+
+
+
+
+(1) Includes consolidated communities only.
+
+(2) Acquisitions include properties acquired which did not have comparable stabilized results as of January 1, 2024.
+
+(3) Non-residential/other, net consists of revenues generated from retail space, commercial properties, held for sale properties, disposition
+
+    properties, properties undergoing significant construction activities that do not meet our redevelopment criteria and two communities
+    located in the California counties of Santa Barbara and Santa Cruz, which the Company does not consider its core markets.
+(4) Represents straight-line concessions for residential operating communities. Same-property revenues reflect concessions on a cash
+
+    basis. Total Rental and Other Property Revenues reflect concessions on a straight-line basis in accordance with U.S. GAAP.
+(5) Includes other expenses and intercompany eliminations pertaining to self-insurance.
+
+(6) In the fourth quarter of 2024, the Company recorded a non-cash charge to fully eliminate its remaining $2.8 million residential accounts
+
+  receivable balance. Excluding this adjustment, reported delinquency would have been 0.6% for the fourth quarter of 2024. There were no
+  non-cash charges recorded for all other periods.
+(7) Represents the percentage change in similar term lease tradeouts, including the impact of leasing incentives.
+
+
+
+
+             See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                  S-8
+                                                                                                                                                                   Table of Contents
+
+
+
+
+                                                                                                                                                                       Sequential Gross
+                                                         Average Monthly Rental Rate         Financial Occupancy                        Gross Revenues
+                                          Q2 '25                                                                                                                          Revenues
+                            Apartment      % of                                   %                              %                                          %                       %
+Region - County              Homes      Actual NOI       Q2 '25        Q2 '24   Change   Q2 '25      Q2 '24    Change          Q2 '25           Q2 '24    Change       Q1 '25     Change
+
+Southern California
+  Los Angeles County           9,288       17.0%     $    2,684    $    2,654    1.1%     95.1%       95.0%         0.1%   $    75,787      $    73,729    2.8%    $    75,770      0.0%
+  Orange County                4,523        9.6%          2,719         2,635    3.2%     96.3%       96.5%        -0.2%        37,677           36,401    3.5%         37,340      0.9%
+  San Diego County             4,588        9.8%          2,710         2,637    2.8%     96.1%       96.2%        -0.1%        38,360           37,129    3.3%         37,743      1.6%
+  Ventura County               2,255        4.6%          2,486         2,398    3.7%     96.0%       96.7%        -0.7%        17,458           16,918    3.2%         17,570     -0.6%
+Total Southern California     20,654       41.0%          2,676         2,618    2.2%     95.7%       95.8%        -0.1%       169,282          164,177    3.1%        168,423      0.5%
+
+Northern California
+  Santa Clara County           8,653       20.8%          3,092         3,003    3.0%     96.7%       96.7%        0.0%         82,743           80,006    3.4%         81,480      1.6%
+  Alameda County               3,716        6.9%          2,584         2,569    0.6%     96.3%       95.7%        0.6%         30,059           29,235    2.8%         29,757      1.0%
+  San Mateo County             1,864        4.5%          3,293         3,202    2.8%     96.8%       96.3%        0.5%         19,283           18,512    4.2%         18,947      1.8%
+  Contra Costa County          2,619        5.3%          2,758         2,725    1.2%     96.2%       96.2%        0.0%         22,398           21,974    1.9%         22,408      0.0%
+  San Francisco                1,356        2.6%          2,927         2,884    1.5%     96.8%       95.1%        1.8%         12,646           11,871    6.5%         12,561      0.7%
+Total Northern California     18,208       40.1%          2,949         2,886    2.2%     96.6%       96.3%        0.3%        167,129          161,598    3.4%        165,153      1.2%
+
+Seattle Metro                 10,341       18.9%          2,265         2,193    3.3%     96.5%       97.1%        -0.6%        74,537           72,518    2.8%         73,410      1.5%
+
+Total Same-Property           49,203     100.0%      $    2,690    $    2,628    2.4%     96.2%       96.2%        0.0%    $ 410,948        $ 398,293      3.2%    $ 406,986        1.0%
+
+
+
+
+                                    See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                         S-9
+                                                                                                                                                    Table of Contents
+
+
+
+
+                                                         Average Monthly Rental Rate         Financial Occupancy                          Gross Revenues
+                                        YTD 2025
+                            Apartment      % of                                  %                               %                                             %
+Region - County              Homes      Actual NOI   YTD 2025      YTD 2024    Change   YTD 2025    YTD 2024   Change          YTD 2025           YTD 2024   Change
+
+Southern California
+  Los Angeles County           9,288       17.3%     $    2,679    $   2,656     0.9%     95.2%       95.3%        -0.1%   $    151,557       $    146,498     3.5%
+  Orange County                4,523        9.7%          2,711        2,622     3.4%     96.2%       96.5%        -0.3%         75,017             72,444     3.6%
+  San Diego County             4,588        9.8%          2,701        2,621     3.1%     96.0%       96.4%        -0.4%         76,103             73,842     3.1%
+  Ventura County               2,255        4.7%          2,476        2,382     3.9%     96.5%       96.7%        -0.2%         35,028             33,621     4.2%
+Total Southern California     20,654       41.5%          2,669        2,611     2.2%     95.7%       95.9%        -0.2%        337,705            326,405     3.5%
+Northern California
+  Santa Clara County           8,653       20.7%          3,072        2,990     2.7%     96.7%       96.7%        0.0%         164,223            158,899     3.4%
+  Alameda County               3,716        6.8%          2,575        2,569     0.2%     96.4%       95.6%        0.8%          59,816             58,180     2.8%
+  San Mateo County             1,864        4.5%          3,264        3,190     2.3%     97.1%       96.0%        1.1%          38,230             36,516     4.7%
+  Contra Costa County          2,619        5.5%          2,751        2,713     1.4%     96.5%       96.3%        0.2%          44,806             43,709     2.5%
+  San Francisco                1,356        2.6%          2,916        2,876     1.4%     96.9%       95.1%        1.9%          25,207             23,650     6.6%
+Total Northern California     18,208       40.1%          2,933        2,876     2.0%     96.7%       96.3%        0.4%         332,282            320,954     3.5%
+Seattle Metro                 10,341       18.4%          2,252        2,182     3.2%     96.4%       97.1%        -0.7%        147,947            144,302     2.5%
+Total Same-Property           49,203     100.0%      $    2,679    $   2,619     2.3%     96.2%       96.3%        -0.1%   $    817,934       $    791,661     3.3%
+
+
+
+
+                               See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                   S-9.1
+                                                                                      Table of Contents
+
+
+
+
+                                Based on 49,203 apartment homes
+
+                                                                                            % of
+                                                                                          Operating
+                                                   Q2 '25        Q2 '24    % Change       Expense
+Same-property operating expenses:
+  Real estate taxes                            $    42,192   $    43,792       -3.7%           35.1%
+  Utilities                                         24,900        22,648        9.9%           20.7%
+  Personnel costs                                   23,637        22,274        6.1%           19.7%
+  Maintenance and repairs                           14,363        12,636       13.7%           12.0%
+  Administrative                                     6,566         6,880       -4.6%            5.5%
+  Insurance and other                                8,434         8,482       -0.6%            7.0%
+Total same-property operating expenses         $ 120,092     $ 116,712         2.9%           100.0%
+
+
+                                                                                            % of
+                                                                                          Operating
+                                                YTD 2025     YTD 2024      % Change       Expense
+Same-property operating expenses:
+  Real estate taxes                            $    88,114   $    87,528        0.7%           36.2%
+  Utilities                                         50,959        46,859        8.7%           20.9%
+  Personnel costs                                   46,756        44,759        4.5%           19.2%
+  Maintenance and repairs                           27,257        26,192        4.1%           11.2%
+  Administrative                                    13,286        13,560       -2.0%            5.5%
+  Insurance and other                               17,043        16,656        2.3%            7.0%
+Total same-property operating expenses         $ 243,415     $ 235,554         3.3%           100.0%
+
+
+
+
+      See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                          S-10
+                                                                                                                                                                             Table of Contents
+
+
+
+
+                                                                              Estimated     Estimated                                               Cost per
+                                                                Ownership     Apartment    Commercial     Incurred to    Remaining    Estimated    Apartment   Construction   Initial   Stabilized
+Project Name - Location                                            %           Homes         sq. feet       Date (1)      Costs       Total Cost    Home (2)      Start     Occupancy   Operations
+Development Projects - Consolidated
+   7 South Linden - South San Francisco, CA                        100%              543           -      $       61    $      250    $      311   $    573     Q1 2025     Q2 2028      Q1 2030
+Total Development Projects - Consolidated                                            543           -              61           250           311        573
+
+Land Held for Future Development - Consolidated
+   Other Projects - Various                                        100%              -             -              45           -              45
+Total Development Pipeline - Consolidated                                            543           -      $      106    $      250    $      356
+
+
+
+(1)   For the second quarter of 2025, the Company's cost includes $0.7 million of capitalized interest and $0.6 million of capitalized overhead.
+(2)   Net of the estimated allocation to the retail component of the project, as applicable.
+
+
+
+
+                                         See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                             S-11
+                                                                                                         Table of Contents
+
+
+
+
+                                                                                                                Trailing 4
+Revenue Generating Capital Expenditures (2)                                                   Q2 '25            Quarters
+
+Same-property portfolio                                                                   $     18,181      $       73,077
+Non-same property portfolio                                                                      1,836               7,882
+Total revenue generating capital expenditures                                             $     20,017      $       80,959
+
+Number of same-property interior renovations                                                       872               2,997
+Number of total consolidated interior renovations                                                  980               3,258
+                                                                                                                Trailing 4
+Non-Revenue Generating Capital Expenditures (3)                                               Q2 '25            Quarters
+
+Non-revenue generating capital expenditures                                               $     35,822      $     118,674
+Average apartment homes in quarter                                                              55,113             54,428
+Capital expenditures per apartment home                                                   $        650      $       2,180
+
+
+
+(1) The Company incurred less than $0.1 million of capitalized interest, $4.7 million of capitalized overhead and less
+
+  than $0.1 million of co-investment fees related to redevelopment in Q2 2025.
+(2) Represents revenue generating expenditures, such as full-scale redevelopments, interior unit turn renovations,
+
+  enhanced amenities and certain sustainability initiatives that generate higher revenues or expense savings.
+(3) Represents roof replacements, paving, building and mechanical systems, exterior painting, siding, etc. Non-revenue
+
+  generating capital expenditures does not include costs related to retail, furniture and fixtures, expenditures in which
+  the Company has been reimbursed or expects to be reimbursed, and expenditures incurred due to changes in
+  governmental regulation that the Company would not have incurred otherwise.
+
+
+
+
+          See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                              S-12
+                                                                                                                                                                                         Table of Contents
+
+
+
+
+                                                                     Weighted
+                                                                     Average                                                                    Weighted
+                                                                      Essex                        Total                                         Average      Remaining         Three Months       Six Months
+                                                                    Ownership     Apartment    Undepreciated        Debt           Essex        Borrowing    Term of Debt      Ended June 30,    Ended June 30,
+                                                                    Percentage     Homes        Book Value         Amount        Book Value       Rate (1)    (in Years)            2025              2025
+
+Operating and Other Unconsolidated Joint Ventures                                                                                                                                            NOI
+  Wesco I, III, IV, V, VI (2)                                          54%             5,976   $ 2,180,074      $ 1,374,618     $   127,826          3.3%             1.4     $        30,828  $          61,029
+  BEX IV, 500 Folsom                                                   50%               732       616,652          176,400         141,712          3.7%            21.0               5,308             10,988
+  Other (3)                                                            53%               986       385,837          291,476          91,383          3.7%            12.0               5,699             11,099
+Total Operating and Other Unconsolidated Joint Ventures                                7,694   $ 3,182,563      $ 1,842,494     $   360,921          3.4%             5.0     $        41,835   $         83,116
+
+
+                                                                                                                                                                                 Essex Portion of NOI and
+                                                                                                                                                                                        Expenses
+  NOI                                                                                                                                                                          $     22,831   $       45,359
+  Depreciation                                                                                                                                                                      (14,406)         (28,784)
+  Interest expense and other, net                                                                                                                                                    (8,646)         (17,098)
+  Equity (loss) income from unconsolidated technology co-investments                                                                                                                   (104)           1,612
+  Insurance reimbursements, legal settlements, and other, net                                                                                                                           (15)             (15)
+     Net income from operating and other co-investments                                                                                                                        $       (340) $         1,074
+                                                                                                                                                Weighted      Weighted
+                                                                                                                                                Average       Average
+                                                                                                                                                Preferred     Expected           Income from Preferred Equity
+                                                                                                                                                 Return         Term                     Investments
+  Income from preferred equity investments                                                                                                                                     $       9,317    $      21,112
+Preferred Equity Investments (4)                                                                                                $   445,511          9.2%             1.4      $        9,317    $        21,112
+
+Total Co-investments                                                                                                            $   806,432                                    $        8,977    $        22,186
+(1) Represents the year-to-date annual weighted average borrowing rate.
+
+(2) As of June 30, 2025, the Company’s investments in Wesco I, Wesco III, and Wesco IV were classified as a liability of $86.9 million due to distributions received in excess of the Company's investment.
+
+(3) As of June 30, 2025, the Company’s investment in Expo was classified as a liability of $2.5 million due to distributions received in excess of the Company's investment. The weighted average Essex
+
+  ownership percentage excludes our investments in unconsolidated technology co-investments.
+(4) As of June 30, 2025, the Company is invested in 16 preferred equity investments.
+
+
+
+
+                                        See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                            S-13
+                                                                                                                                                                                           Table of Contents
+
+
+
+
+Acquisitions
+                                                                                             Essex                                               Total Contract
+                                                            Apartment                       Ownership                                               Price at                    Price per             Average
+Property Name                Location                        Homes             Year Built   Percentage          Entity           Date            Pro Rata Share            Apartment Home (1)       Monthly Rent
+
+The Plaza                    Foster City, CA                             307     2013          100%             EPLP            Jan-25       $             161,375     $                  512   $           3,310
+One Hundred Grand (2)        Foster City, CA                             166     2016           N/A             EPLP            Feb-25                     105,250                        615               3,881
+ROEN Menlo Park              Menlo Park, CA                              146     2017          100%             EPLP            Feb-25                      78,750                        539               3,647
+                             Q1 2025                                     619                                                                 $             345,375     $                  546
+
+
+Revere Campbell (2)          Campbell, CA                                168     2015           N/A             EPLP           May-25        $             118,000     $                  664   $           4,014
+The Parc at Pruneyard        Campbell, CA                                252     1968          100%             EPLP           May-25                      122,500                        486               3,104
+                             Q2 2025                                     420                                                                 $             240,500     $                  573
+
+
+                             2025 Total                              1,039                                                                   $             585,875     $                  551
+
+
+
+
+Dispositions
+                                                                                              Essex                                              Total Contract
+                                                            Apartment                       Ownership                                               Price at                    Price per
+Property Name                Location                        Homes             Year Built   Percentage          Entity           Date            Pro Rata Share            Apartment Home (1)
+Highridge (2)                Rancho Palos Verdes, CA                     255     1972           N/A             EPLP            Feb-25       $             127,000     $                  498
+                             Q1 2025                                     255                                                                 $             127,000     $                  498
+
+
+Essex Skyline                Santa Ana, CA                               350     2008          100%             EPLP            Apr-25       $             239,580     $                  685
+                             Q2 2025                                     350                                                                 $             239,580     $                  685
+
+                             2025 Total                                  605                                                                 $             366,580     $                  606
+
+(1) Price per apartment home excludes value allocated to retail space.
+
+(2) The noncontrolling members’ ownership interest in Highridge, a community owned by consolidated DownREIT entities prior to its disposition, were transferred to One Hundred Grand and Revere Campbell pursuant
+
+  to the like-kind exchange rules under Section 1031 of the Internal Revenue Code of 1986, as amended.
+
+
+
+
+                                          See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                              S-14
+                                                                                                                                                                                           Table of Contents
+
+
+
+
+The guidance projections below are based on current expectations and are forward-looking. The guidance on this page is given for Net Operating Income ("NOI") and Total and Core FFO. See pages S-17.1
+to S-17.4 for the definitions of non-GAAP financial measures and other terms.
+
+                                                                                  Six Months Ended       2025 Full-Year Guidance Range
+                                                                                   June 30, 2025 (1)       Low End          High End                     Comments about 2025 Full-Year Guidance
+                                                                                                                                               Includes a range of same-property NOI growth of 2.7% to 3.5%.
+Total NOI from Consolidated Communities                                       $              655,649     $   1,311,400     $    1,322,400                  Reflects investment activity through July
+Management Fees                                                               $                4,717              9,000             9,600
+Interest Expense
+Interest expense, before capitalized interest                                               (127,220)         (257,400)          (256,000)             Updated to reflect investment activity through July
+Interest capitalized                                                                           1,497             3,400              4,000
+ Net interest expense                                                                       (125,723)         (254,000)          (252,000)
+Recurring Income and Expenses
+Interest and other income                                                                      7,992            16,400             17,400
+                                                                                                                                               Guidance assumes $200M in preferred equity redemptions for the
+FFO from co-investments                                                                       49,373            90,700             92,700            full year, of which $27M has occurred through July
+General and administrative                                                                   (29,512)          (61,000)           (63,000)
+Corporate-level property management expenses                                                 (24,552)          (48,600)           (49,400)
+Non-controlling interest                                                                      (4,856)          (10,000)            (9,400)
+ Total recurring income and expenses                                                          (1,555)          (12,500)           (11,700)
+Non-Core Income and Expenses
+Tax benefit on unconsolidated technology co-investments                                           395               395               395
+Realized and unrealized gains on marketable securities, net                                     2,401             2,401             2,401
+Provision for credit losses                                                                       (11)              (11)              (11)
+Equity income from unconsolidated technology co-investments                                     1,612             1,612             1,612
+Loss on early retirement of debt, net                                                            (762)             (762)             (762)
+General and administrative and other, net                                                      (3,937)           (6,500)           (5,000)
+Insurance reimbursements, legal settlements, and other, net                                       700               700               700
+ Total non-core income and expenses                                                               398            (2,165)             (665)
+Funds from Operations (2)                                                     $              533,486     $   1,051,735     $    1,067,635
+Funds from Operations per diluted Share                                       $                 8.00     $        15.77    $        16.01
+% Change - Funds from Operations                                                                -5.8%             -1.4%               0.1%
+Core Funds from Operations (excludes non-core items)                          $              533,088     $   1,053,900     $    1,068,300
+Core Funds from Operations per diluted Share                                  $                 8.00     $        15.80    $        16.02
+% Change - Core Funds from Operations                                                           3.0%               1.3%               2.7%
+EPS - Diluted                                                                 $                 6.59     $        10.05    $        10.29
+Weighted average shares outstanding - FFO calculation                                         66,664            66,700             66,700
+
+(1) All non-core items are excluded from the 2025 actuals and included in the non-core income and expense section of the FFO reconciliation.
+
+(2) 2025 guidance excludes inestimable projected gain on sale of marketable securities, loss on early retirement of debt, political/legislative costs, and promote income until they are realized within the
+
+  reporting period presented in the report.
+
+
+
+
+                                        See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                            S-15
+                                                                                                                                                        Table of Contents
+
+
+
+
+With respect to the Company's guidance regarding its projected FFO and Core FFO, which guidance is set forth in the earnings release and on page S-15 of this
+supplement, a reconciliation of projected net income per share to projected FFO per share and projected Core FFO per share, as set forth in such guidance, is
+presented in the table below.
+                                                                                                                              2025 Guidance Range (1)
+                                                                                       Six Months
+                                                                                     Ended June 30,             3rd Quarter 2025                   Full-Year 2025
+                                                                                          2025                Low             High               Low            High
+  EPS - diluted                                                                  $               6.59    $        2.05    $          2.15    $     10.05     $      10.29
+   Conversion from GAAP share count                                                             (0.23)           (0.07)             (0.07)         (0.35)           (0.35)
+   Depreciation and amortization                                                                 4.97             2.49               2.49           9.95             9.95
+   Noncontrolling interest related to Operating Partnership units                                0.23             0.07               0.07           0.34             0.34
+   Gain on sale of real estate and land                                                         (3.56)           (0.66)             (0.66)         (4.22)           (4.22)
+  FFO per share - diluted                                                        $              8.00     $        3.88    $          3.98    $     15.77     $      16.01
+  Tax benefit on unconsolidated technology co-investments                                       (0.01)             -                  -             (0.01)          (0.01)
+  Realized and unrealized gains on marketable securities, net                                   (0.04)             -                  -             (0.04)          (0.04)
+  Equity income from unconsolidated technology co-investments                                   (0.01)             -                  -             (0.02)          (0.02)
+  Loss on early retirement of debt, net                                                          0.01              -                  -              0.01            0.01
+  General and administrative and other, net                                                      0.06             0.01               0.01            0.10            0.08
+  Insurance reimbursements, legal settlements, and other, net                                   (0.01)             -                  -             (0.01)          (0.01)
+  Core FFO per share - diluted                                                   $              8.00     $        3.89    $          3.99    $     15.80     $      16.02
+  (1) 2025 guidance excludes inestimable projected gain on sale of real estate and land, gain on sale of marketable securities, loss on early retirement of debt,
+
+     political/legislative costs, and promote income until they are realized within the reporting period presented in the report.
+
+
+
+
+                                See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                   S-15.1
+                                                                                                                                                                  Table of Contents
+ESSEX PROPERTY TRUST, INC.
+
+MSA Level Supply Forecast: 2025E – 2026E
+
+
+
+                                                                            Residential Supply Forecast (1)
+
+                                                                            2025E                                                                   2026E
+
+
+
+                                                Multifamily           Total MF/SF       Total Supply as a                 Multifamily           Total MF/SF        Total Supply as a
+                                                 Supply                 Supply             % of Stock                      Supply                 Supply              % of Stock
+Market
+
+Los Angeles                                        8,900                    15,300              0.4%                          5,900                11,700                  0.3%
+Orange County                                      1,800                    4,300               0.4%                          2,600                 5,400                  0.5%
+San Diego                                          5,100                    7,900               0.6%                          4,700                 7,400                  0.6%
+Ventura                                              300                     600                0.2%                           800                  1,200                  0.4%
+Southern California                                16,100                   28,100              0.4%                         14,000                25,700                  0.4%
+
+
+San Francisco                                      1,300                    1,700               0.2%                          1,200                 1,700                  0.2%
+Oakland                                            1,200                    3,200               0.3%                           800                  3,400                  0.3%
+San Jose                                           3,800                    5,800               0.8%                          1,100                 3,000                  0.4%
+Northern California                                6,300                    10,700              0.4%                          3,100                 8,100                  0.3%
+
+
+Seattle                                            10,200                   14,300              1.0%                          4,300                 8,800                  0.6%
+
+
+Total                                              32,600                   53,100              0.5%                         21,400                42,600                  0.4%
+
+Data based on Essex Data Analytics forecasts and third-party projections.
+
+(1) Residential Supply: Total supply includes the Company's estimate of multifamily (“MF”) deliveries of properties with 50+ units and excludes student, senior and 100% affordable
+    housing communities. Multifamily estimates incorporate a methodological enhancement ("delay-adjusted supply") to reflect the anticipated impact of continued construction
+    delays in Essex markets. Single-family (“SF”) estimates are based on trailing single-family permits.
+
+
+
+
+                                     See Company’s Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                                         S-16
+                                                                                                                                   Table of Contents
+
+
+
+
+Adjusted EBITDAre Reconciliation
+The National Association of Real Estate Investment Trusts ("Nareit”) defines earnings before interest, taxes, depreciation and amortization for real
+estate ("EBITDAre") (September 2017 White Paper) as net income (computed in accordance with U.S. generally accepted accounting principles ("U.S.
+GAAP")) before interest expense, income taxes, depreciation and amortization expense, and further adjusted for gains and losses from sales of
+depreciated operating properties, impairment write-downs of depreciated operating properties, impairment write-downs of investments in
+unconsolidated entities caused by a decrease in value of depreciated operating properties within the joint venture and adjustments to reflect the
+Company’s share of EBITDAre of investments in unconsolidated entities.
+
+The Company believes that EBITDAre is useful to investors, creditors and rating agencies as a supplemental measure of the Company’s ability to incur
+and service debt because it is a recognized measure of performance by the real estate industry, and by excluding gains or losses related to sales or
+impairment of depreciated operating properties, EBITDAre can help compare the Company’s credit strength between periods or as compared to
+different companies.
+
+Adjusted EBITDAre represents EBITDAre further adjusted for non-comparable items and is a component of the credit ratio, "Net Indebtedness Divided
+by Adjusted EBITDAre, normalized and annualized," presented on page S-6, in the section titled "Selected Credit Ratios," and it is not intended to be a
+measure of free cash flow for management’s discretionary use, as it does not consider certain cash requirements such as income tax payments, debt
+service requirements, capital expenditures and other fixed charges.
+
+Adjusted EBITDAre is an important metric in evaluating the credit strength of the Company and its ability to service its debt obligations. The Company
+believes that Adjusted EBITDAre is useful to investors, creditors and rating agencies because it allows investors to compare the Company’s credit
+strength to prior reporting periods and to other companies without the effect of items that by their nature are not comparable from period to period and
+tend to obscure the Company’s actual credit quality.
+
+EBITDAre and Adjusted EBITDAre are not recognized measurements under U.S. GAAP. Because not all companies use identical calculations, the
+Company's presentation of EBITDAre and Adjusted EBITDAre may not be comparable to similarly titled measures of other companies.
+
+
+The reconciliations of Net Income available to common stockholders to EBITDAre and Adjusted EBITDAre are presented in the table below:
+                                                                                       Three
+                                                                                    Months Ended
+                                                                                      June 30,
+  (Dollars in thousands)                                                                2025
+
+  Net income available to common stockholders                                       $     221,362
+  Adjustments:
+    Net income attributable to noncontrolling interest                                     10,164
+     Interest expense, net (1)                                                             64,191
+     Depreciation and amortization                                                        151,501
+     Income tax provision                                                                    (684)
+     Gain on sale of real estate and land                                                (126,174)
+     Co-investment EBITDAre adjustments                                                    22,896
+        EBITDAre                                                                          343,256
+
+    Realized and unrealized gains on marketable securities, net                            (2,492)
+    Provision for credit losses                                                                14
+    Equity loss from unconsolidated technology co-investments                                 104
+    Tax benefit on unconsolidated technology co-investments                                  (232)
+    General and administrative and other, net                                               2,661
+    Insurance reimbursements, legal settlements, and other, net                              (339)
+  Adjusted EBITDAre                                                                 $     342,972
+  (1) Interest expense, net includes items such as gains on derivatives and the amortization of deferred charges.
+
+
+
+
+           See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                              S-17.1
+                                                                                                                                  Table of Contents
+
+
+
+
+Annualized Turnover
+Annualized turnover is defined as the number of apartment homes turned over during the quarter, annualized, divided by the total number of apartment
+homes.
+
+Financial Occupancy
+Financial occupancy is defined as the percentage resulting from dividing actual rental income by total scheduled rental income. Actual rental income
+represents contractual rental income pursuant to leases without considering delinquency and concessions. Total scheduled rental income represents
+the value of all apartment homes, with occupied apartment homes valued at contractual rental rates pursuant to leases and vacant apartment homes
+valued at estimated market rents.
+
+New Lease Net Effective Rate Growth and Renewal Net Effective Rate Growth
+New lease net effective rate growth and renewal net effective rate growth represent the percentage change in similar term lease tradeouts, including
+the impact of leasing incentives.
+
+Disposition Yield
+Net operating income that the Company anticipates giving up in the next 12 months less an estimate of property management costs allocated to the
+project divided by the gross sales price of the asset.
+
+Acquisition Yield
+Net operating income that the Company expects to achieve in the next 12 months less an estimate of property management costs allocated to the
+project and less an estimate for capital expenditures per unit divided by the gross sales price of the asset.
+
+Encumbered
+Encumbered means any mortgage, deed of trust, lien, charge, pledge, security interest, security agreement or other encumbrance of any kind.
+
+Funds From Operations ("FFO") and Core FFO
+FFO, as defined by Nareit, is generally considered by industry analysts as an appropriate measure of performance of an equity REIT. Generally, FFO
+adjusts the net income of equity REITs for non-cash charges such as depreciation and amortization of rental properties, impairment charges, gains on
+sales of real estate and extraordinary items. Management considers FFO and FFO which excludes non-core items, which is referred to as “Core FFO,”
+to be useful supplemental operating performance measures of an equity REIT because, together with net income and cash flows, FFO and Core FFO
+provide investors with additional bases to evaluate the operating performance and ability of a REIT to incur and service debt and to fund acquisitions
+and other capital expenditures and to pay dividends. By excluding gains or losses related to sales of depreciated operating properties and land and
+excluding real estate depreciation (which can vary among owners of identical assets in similar condition based on historical cost accounting and useful
+life estimates), FFO can help investors compare the operating performance of a real estate company between periods or as compared to different
+companies. By further adjusting for items that are not considered part of the Company’s core business operations, Core FFO allows investors to
+compare the core operating performance of the Company to its performance in prior reporting periods and to the operating performance of other real
+estate companies without the effect of items that by their nature are not comparable from period to period and tend to obscure the Company’s actual
+operating results.
+
+FFO and Core FFO do not represent net income or cash flows from operations as defined by U.S. GAAP and are not intended to indicate whether cash
+flows will be sufficient to fund cash needs. These measures should not be considered as alternatives to net income as an indicator of the REIT's
+operating performance or to cash flows as a measure of liquidity. FFO and Core FFO do not measure whether cash flow is sufficient to fund all cash
+needs including principal amortization, capital improvements and distributions to stockholders. FFO and Core FFO also do not represent cash flows
+generated from operating, investing or financing activities as defined under GAAP. Management has consistently applied the Nareit definition of FFO to
+all periods presented. However, there is judgment involved and other REITs’ calculation of FFO may vary from the Nareit definition for this measure,
+and thus their disclosures of FFO may not be comparable to the Company’s calculation.
+
+The reconciliations of FFO and Core FFO per diluted share are detailed on page S-3 in the section titled "Consolidated Funds From Operations".
+Interest Expense, Net
+Interest expense, net is presented on page S-1 in the section titled "Consolidated Operating Results". Interest expense, net includes items such as
+gains on derivatives and the amortization of deferred charges and is presented in the table below:
+
+                                                                                          Three Months Ended                  Six Months Ended
+                                                                                        June 30,       June 30,           June 30,        June 30,
+  (Dollars in thousands)                                                                  2025           2024               2025            2024
+
+  Interest expense                                                                  $      65,262    $      59,120    $     127,994    $     115,053
+  Adjustments:
+     Total return swap income                                                              (1,071)            (629)          (2,271)          (1,425)
+  Interest expense, net                                                             $      64,191    $      58,491    $     125,723    $     113,628
+
+
+
+
+           See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                              S-17.2
+                                                                                                                                    Table of Contents
+
+
+
+
+Net Indebtedness Divided by Adjusted EBITDAre
+This credit ratio is presented on page S-6 in the section titled "Selected Credit Ratios." This credit ratio is calculated by dividing net indebtedness by
+Adjusted EBITDAre, as annualized based on the most recent quarter, and adjusted for estimated net operating income from properties acquired or
+disposed of during the quarter. This ratio is presented by the Company because it provides rating agencies and investors an additional means of
+comparing the Company's ability to service debt obligations to that of other companies. Net indebtedness is total debt, net less unamortized premiums,
+discounts, debt issuance costs, unrestricted cash and cash equivalents, and marketable securities. The reconciliation of Adjusted EBITDAre is set forth
+in "Adjusted EBITDAre Reconciliation" on page S-17.1 The calculation of this credit ratio and a reconciliation of net indebtedness to total debt at pro
+rata share for co-investments, net is presented in the table below:
+                                                                                         June 30,
+  (Dollars in thousands)                                                                  2025
+  Total consolidated debt, net                                                       $   6,759,454
+  Total debt from co-investments at pro rata share                                       1,005,851
+  Adjustments:
+    Consolidated unamortized premiums, discounts, and debt issuance costs                   32,727
+    Pro rata co-investments unamortized premiums, discounts,
+       and debt issuance costs                                                               3,332
+    Consolidated cash and cash equivalents-unrestricted                                    (58,679)
+    Pro rata co-investment cash and cash equivalents-unrestricted                          (35,599)
+    Marketable securities                                                                  (82,162)
+       Net Indebtedness                                                              $   7,624,924
+
+  Adjusted EBITDAre, annualized (1)                                                  $   1,371,888
+  Other EBITDAre normalization adjustments, net, annualized (2)                              5,602
+      Adjusted EBITDAre, normalized and annualized                                   $   1,377,490
+
+  Net Indebtedness Divided by Adjusted EBITDAre, normalized and annualized                      5.5
+  (1) Based on the amount for the most recent quarter, multiplied by four.
+
+  (2) Adjustments made for properties in lease-up, acquired, or disposed during the most recent quarter and other partial quarter activity, multiplied by
+
+     four.
+
+Net Operating Income ("NOI") and Same-Property NOI Reconciliations
+NOI and same-property NOI are considered by management to be important supplemental performance measures to earnings from operations
+included in the Company’s consolidated statements of income. The presentation of same-property NOI assists with the presentation of the Company’s
+operations prior to the allocation of depreciation and any corporate-level or financing-related costs. NOI reflects the operating performance of a
+community and allows for an easy comparison of the operating performance of individual communities or groups of communities.
+
+In addition, because prospective buyers of real estate have different financing and overhead structures, with varying marginal impacts to overhead by
+acquiring real estate, NOI is considered by many in the real estate industry to be a useful measure for determining the value of a real estate asset or
+group of assets. The Company defines same-property NOI as same-property revenues less same-property operating expenses, including property
+taxes. Please see the reconciliation of earnings from operations to NOI and same-property NOI, which in the table below is the NOI for stabilized
+properties consolidated by the Company for the periods presented:
+
+                                                                                           Three Months Ended                   Six Months Ended
+                                                                                         June 30,       June 30,            June 30,        June 30,
+  (Dollars in thousands)                                                                   2025           2024                2025            2024
+
+  Earnings from operations                                                           $     279,700    $     137,450     $     536,781     $    269,809
+  Adjustments:
+    Corporate-level property management expenses                                            12,220           11,622            24,552           22,721
+    Depreciation and amortization                                                          151,501          145,613           302,788          285,346
+    Management and other fees from affiliates                                               (2,223)          (2,573)           (4,717)          (5,286)
+    General and administrative                                                              17,157           21,136            33,449           38,307
+    Expensed acquisition and investment related costs                                            -                -                 -               68
+    Gain on sale of real estate and land                                                  (126,174)               -          (237,204)               -
+       NOI                                                                                 332,181          313,248           655,649          610,965
+    Less: Non-same property NOI                                                            (41,325)         (31,667)          (81,130)         (54,858)
+  Same-Property NOI                                                                  $     290,856    $     281,581     $     574,519     $    556,107
+
+
+
+
+             See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                                S-17.3
+                                                                                                                                   Table of Contents
+
+
+
+
+Public Bond Covenants
+Public Bond Covenants refer to certain covenants set forth in instruments governing the Company's unsecured indebtedness. These instruments
+require the Company to meet specified financial covenants, including covenants relating to net worth, fixed charge coverage, debt service coverage,
+the amounts of total indebtedness and secured indebtedness, leverage and certain investment limitations. These covenants may restrict the
+Company's ability to expand or fully pursue its business strategies. The Company's ability to comply with these covenants may be affected by changes
+in the Company's operating and financial performance, changes in general business and economic conditions, adverse regulatory developments or
+other events adversely impacting it. The breach of any of these covenants could result in a default under the Company's indebtedness, which could
+cause those and other obligations to become due and payable. If any of the Company's indebtedness is accelerated, the Company may not be able to
+repay it. For risks related to failure to comply with these covenants, see "Item 1A: Risk Factors - Risks Related to Our Indebtedness and Financings" in
+the Company's annual report on Form 10-K and other reports filed by the Company with the Securities and Exchange Commission ("SEC").
+
+The ratios set forth on page S-6 in the section titled "Public Bond Covenants" are provided only to show the Company's compliance with certain
+specified covenants that are contained in indentures related to the Company's issuance of Senior Notes, which indentures are filed by the Company
+with the SEC. See, for example, the indenture and supplemental indenture dated February 18, 2025, filed by the Company as Exhibit 4.1 and Exhibit
+4.2 to the Company's Form 8-K, filed on February 18, 2025. These ratios should not be used for any other purpose, including without limitation to
+evaluate the Company's financial condition or results of operations, nor do they indicate the Company's covenant compliance as of any other date or
+for any other period. The capitalized terms in the disclosure are defined in the indentures filed by the Company with the SEC and may differ materially
+from similar terms used by other companies that present information about their covenant compliance.
+
+Same-Property Revenue Growth with Concessions on a GAAP basis
+
+                                                                                          Three Months Ended                 Six Months Ended
+                                                                                        June 30,       June 30,          June 30,        June 30,
+  (Dollars in millions)                                                                   2025           2024              2025            2024
+  Reported rental revenue (1)                                                         $      410.9   $      398.3      $      818.0    $      791.6
+  Straight-line rent impact to rental revenue                                                  0.2            (0.5)             (0.3)           (0.5)
+  GAAP rental revenue                                                                 $      411.1   $      397.8      $      817.7    $      791.1
+
+  % change - reported rental revenue                                                             3.2%                           3.3%
+  % change - GAAP rental revenue                                                                 3.4%                           3.4%
+  (1) Same-property rental revenue reflects concessions on a cash basis.
+
+
+Secured Debt
+Secured Debt means debt of the Company or any of its subsidiaries which is secured by an encumbrance on any property or assets of the Company or
+any of its subsidiaries. The Company's total amount of Secured Debt is set forth on page S-5.
+
+Unencumbered NOI to Adjusted Total NOI
+This ratio is presented on page S-6 in the section titled "Selected Credit Ratios". Unencumbered NOI means the sum of NOI for those real estate
+assets which are not subject to an encumbrance securing debt. The ratio of Unencumbered NOI to Adjusted Total NOI for the three months ended
+June 30, 2025, annualized, is calculated by dividing Unencumbered NOI, annualized for the three months ended June 30, 2025 and as further adjusted
+for pro forma NOI for properties acquired or sold during the recent quarter, by Adjusted Total NOI as annualized. The calculation and reconciliation of
+NOI is set forth in "Net Operating Income ("NOI") and Same-Property NOI Reconciliations" above. This ratio is presented by the Company because it
+provides rating agencies and investors an additional means of comparing the Company's ability to service debt obligations to that of other companies.
+
+
+The calculation of this ratio is presented in the table below:
+
+                                                                                          Annualized
+  (Dollars in thousands)                                                                  Q2 '25 (1)
+  NOI                                                                                 $     1,328,724
+  Adjustments:
+    Pro forma NOI from real estate assets sold and/or acquired                                  6,007
+    Other, net (2)                                                                            (11,064)
+      Adjusted Total NOI                                                                    1,323,667
+    Less: Encumbered NOI                                                                      (96,058)
+  Unencumbered NOI                                                                    $     1,227,609
+
+    Encumbered NOI                                                                    $        96,058
+    Unencumbered NOI                                                                        1,227,609
+  Adjusted Total NOI                                                                  $     1,323,667
+
+  Unencumbered NOI to Adjusted Total NOI                                                          93%
+  (1) This table is based on the amounts for the most recent quarter, multiplied by four.
+
+  (2) Includes intercompany eliminations pertaining to self-insurance and other expenses.
+
+
+
+
+            See Company's Form 10-K and Form 10-Qs filed with the SEC for additional information
+                                               S-17.4
+
