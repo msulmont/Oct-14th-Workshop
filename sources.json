@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "ess-2q26-earnings-package",
+    "title": "Essex Property Trust Q2 2026 Earnings Release",
+    "url": "https://s203.q4cdn.com/488215793/files/doc_financials/2026/q2/ESS-2Q26-Earnings-Package.pdf",
+    "original": "sources/ess-2q26-earnings-package.pdf",
+    "capture": "captures/ess-2q26-earnings-package.txt",
+    "extractor": "pdftotext -layout",
+    "sha256": "e243d79a30609efad45bdd46fe39138cf48434ee36263c0f958d30d6dc8830a3",
+    "capture_sha256": "d53d4113131686bae2b7655176e3c952358794ce9800e3b43a1cb1aeb20a13fe",
+    "added_on": "2026-10-14"
+  }
+]
