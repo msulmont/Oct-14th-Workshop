@@ -1,0 +1,1786 @@
+                                                                                                                                                      Exhibit 99.2
+
+
+
+
+For Immediate News Release
+July 27, 2022
+
+                               AVALONBAY COMMUNITIES, INC. ANNOUNCES
+                             SECOND QUARTER 2022 OPERATING RESULTS AND
+                         THIRD QUARTER AND FULL YEAR 2022 FINANCIAL OUTLOOK
+(Arlington, VA) AvalonBay Communities, Inc. (NYSE: AVB)                              The following table compares the Company’s actual results
+(the “Company”) reported today that Net Income                                       for EPS, FFO per share and Core FFO per share for the
+Attributable to Common Stockholders for the three months                             three months ended June 30, 2022 to its April 2022 outlook:
+ended June 30, 2022 was $138,691,000. This resulted in a
+decrease in Earnings per Share – diluted (“EPS”) for the
+three months ended June 30, 2022 of 69.2% to $0.99 from                                      Q2 2022 Results Compared to April 2022 Outlook
+$3.21 for the prior year period, primarily attributable to a                                                                                  Per Share
+                                                                                                                                   EPS          FFO        Core FFO
+decrease in gain on sale of real estate, partially offset by an
+increase in Same Store Residential NOI, as detailed in the                           Projected per share (1)                   $      2.26 $       2.29 $      2.31
+table below.                                                                          Same Store Residential NOI (2)                  0.11         0.11        0.11
+                                                                                      Development and Other Stabilized
+                                                                                      Residential NOI                                 0.01         0.01        0.01
+Funds from Operations attributable to common                                          Overhead and other                             (0.03)       (0.03)       (0.02)
+stockholders - diluted (“FFO”) per share for the three                                Capital markets and transaction
+                                                                                      activity                                           —            —        0.01
+months ended June 30, 2022 increased 22.3% to $2.41
+                                                                                      Unconsolidated investment income
+from $1.97 for the prior year period. Core FFO per share                              and other                                       0.02         0.02        0.01
+(as defined in this release) for the three months ended June                          Income taxes                                    0.01         0.01          —
+                                                                                      Gain on sale of real estate and
+30, 2022 increased 22.7% to $2.43 from $1.98 for the prior                            depreciation expense                           (1.39)           —          —
+year period.                                                                         Q2 2022 per share reported results        $      0.99 $       2.41 $      2.43
+
+                                                                                     (1) The mid-point of the Company's April 2022 outlook.
+The following table compares the Company’s actual results                            (2) Consists of $0.09 for revenue and $0.02 for operating expenses.
+for EPS, FFO per share and Core FFO per share for the
+three months ended June 30, 2022 to its results for the prior
+year period:                                                                         For the six months ended June 30, 2022, EPS decreased
+                                                                                     32.4% to $2.86 from $4.23 for the prior year period, FFO
+                                                                                     per share increased 18.9% to $4.65 from $3.91 for the prior
+              Q2 2022 Results Compared to Q2 2021                                    year period, and Core FFO per share increased 19.3% to
+                                                        Per Share (1)                $4.69 from $3.93 for the prior year period.
+                                              EPS           FFO         Core FFO
+ Q2 2021 per share reported results       $      3.21 $        1.97 $       1.98     The following table compares the Company’s actual results
+ Same Store Residential NOI (2)                  0.41          0.41         0.41
+                                                                                     for EPS, FFO per share and Core FFO per share for the six
+ Development and Other Stabilized
+ Residential NOI                                 0.17          0.17         0.17     months ended June 30, 2022 to its results for the prior year
+ Commercial NOI                                  0.01          0.01         0.01     period:
+ Overhead and other                             (0.08)        (0.08)        (0.06)
+ Capital markets and transaction
+ activity                                       (0.08)        (0.08)        (0.09)
+ Unconsolidated investment income                0.01          0.01         0.01
+ Gain on sale of real estate and
+ depreciation expense                           (2.66)            —           —
+ Q2 2022 per share reported results       $      0.99 $        2.41 $       2.43
+
+(1) For additional detail on reconciling items between EPS, FFO and Core FFO,
+see Attachment 13, table 3.
+(2) Consists of increases of $0.46 in revenue and $0.05 in operating expenses.
+
+
+
+
+                                      Copyright © 2022 AvalonBay Communities, Inc. All Rights Reserved
+                                                                   1
+             YTD 2022 Results Compared to YTD 2021                                                         Q2 2022 Compared to Q2 2021
+                                                         Per Share (1)                                                     Same Store Residential
+                                               EPS           FFO         Core FFO                                                                               Rental
+                                                                                                          Rental                                   % of        Revenue
+ YTD 2021 per share reported results $            4.23 $        3.91 $        3.93                       Revenue        Opex                      Q2 2022        cash
+                                                                                                           (1)           (2)           NOI         NOI         basis (3)
+ Same Store Residential NOI (2)                   0.68          0.68          0.68
+                                                                                      New England           13.1 %         6.8 %       16.5 %       14.6 %        14.9 %
+ Development and Other Stabilized
+ Residential NOI                                  0.35          0.35          0.35    Metro NY/NJ           12.2 %         5.8 %       15.3 %       20.0 %        14.2 %
+
+ Commercial NOI                                   0.04          0.04          0.04    Mid-Atlantic            7.7 %        2.8 %       10.2 %       14.7 %         7.9 %
+
+ Overhead and other                               (0.11)       (0.11)        (0.11)   Southeast FL          22.6 %         3.8 %       35.5 %         1.6 %       20.7 %
+
+ Capital markets and transaction                                                      Denver, CO            13.8 %        (8.1)%       24.5 %         1.3 %       13.1 %
+ activity                                         (0.20)       (0.20)        (0.21)   Pacific NW            17.0 %         2.1 %       24.2 %         6.4 %       14.6 %
+ Unconsolidated investment income                 0.01          0.01          0.01    N. California           9.2 %        5.0 %       11.0 %       18.2 %         7.4 %
+ Income taxes                                     (0.03)       (0.03)           —     S. California         18.7 %         5.0 %       25.3 %       23.2 %        17.5 %
+ Gain on sale of real estate and                                                          Total             12.9 %         4.8 %       17.0 %      100.0 %        12.9 %
+ depreciation expense                             (2.11)           —            —
+ YTD 2022 per share reported results $            2.86 $        4.65 $        4.69    (1) See Attachment 4, Quarterly Residential Rental Revenue and Occupancy
+                                                                                      Changes, for additional detail.
+(1) For additional detail on reconciling items between EPS, FFO and Core FFO,         (2) See Attachment 7, Residential Operating Expenses ("Opex"), for discussion
+see Attachment 13, table 3.                                                           of variances.
+(2) Consists of increases of $0.80 in revenue and $0.12 in operating expenses.        (3) The change in Residential Rental Revenue with Concessions on a Cash
+                                                                                      Basis.
+
+
+
+Same Store Operating Results for the Three Months
+                                                                                      Same Store Operating Results for the Six Months
+Ended June 30, 2022 Compared to the Prior Year Period
+                                                                                      Ended June 30, 2022 Compared to the Prior Year Period
+
+Same Store total revenue increased $65,965,000, or
+                                                                                      Same Store total revenue increased $109,262,000, or
+13.1%, to $568,176,000. Residential revenue increased
+                                                                                      10.9%, to $1,109,423,000. Residential revenue increased
+$64,523,000, or 13.0%, to $562,169,000. Same Store
+                                                                                      $106,505,000, or 10.7%, to $1,097,308,000. Same Store
+Residential rental revenue increased 12.9%, as detailed in
+                                                                                      Residential rental revenue increased 10.7%, as detailed in
+the following table:
+                                                                                      the following table:
+
+
+        Same Store Residential Rental Revenue Change
+                                                                                               Same Store Residential Rental Revenue Change
+                       Q2 2022 Compared to Q2 2021
+                                                                                                           YTD 2022 Compared to YTD 2021
+Residential rental revenue
+                                                                                      Residential rental revenue
+ Lease rates                                                                 7.6 %
+                                                                                       Lease rates                                                                 6.3 %
+ Concessions and other discounts                                             2.3 %
+                                                                                       Concessions and other discounts                                             1.7 %
+ Economic occupancy                                                          0.2 %
+                                                                                       Economic occupancy                                                          0.5 %
+ Other rental revenue                                                        1.0 %
+                                                                                       Other rental revenue                                                        0.8 %
+ Uncollectible lease revenue (excluding rent relief) (1)                    (0.6)%
+                                                                                       Uncollectible lease revenue (excluding rent relief) (1)                    (1.1)%
+ Rent relief (2)                                                             2.4 %
+                                                                                       Rent relief (2)                                                             2.5 %
+Total Residential rental revenue                                           12.9 %
+                                                                                      Total Residential rental revenue                                           10.7 %
+(1) Adjusting to remove the impact of rent relief, uncollectible lease revenue as a
+percentage of total Residential rental revenue increased to 3.27% in Q2 2022          (1) Adjusting to remove the impact of rent relief, uncollectible lease revenue as a
+from 3.10% in Q2 2021.                                                                percentage of total Residential rental revenue increased to 3.79% in YTD 2022
+                                                                                      from 3.19% in YTD 2021.
+(2) The Company recognized $14,973,000 and $2,997,000 from government
+rent relief programs during Q2 2022 and Q2 2021, respectively.                        (2) The Company recognized $28,272,000 and $3,755,000 from government
+                                                                                      rent relief programs during YTD 2022 and YTD 2021, respectively.
+
+
+
+
+Same Store Residential operating expenses increased
+                                                                                      Same Store Residential operating expenses increased
+$7,760,000, or 4.8%, to $170,543,000 and Same Store
+                                                                                      $15,294,000, or 4.7%, to $338,131,000 and Same Store
+Residential NOI increased $56,763,000, or 17.0%, to
+                                                                                      Residential NOI increased $91,211,000, or 13.7%, to
+$391,626,000.
+                                                                                      $759,177,000.
+
+The following table presents percentage changes in Same
+                                                                                      The following table presents percentage changes in Same
+Store Residential rental revenue, operating expenses and
+                                                                                      Store Residential rental revenue, operating expenses and
+NOI for the three months ended June 30, 2022 compared to
+                                                                                      NOI for the six months ended June 30, 2022 compared to
+the three months ended June 30, 2021:
+                                                                                      the six months ended June 30, 2021:
+
+
+
+
+                                       Copyright © 2022 AvalonBay Communities, Inc. All Rights Reserved
+                                                                    2
+                  YTD 2022 Compared to YTD 2021                                    At June 30, 2022, the Company had 16 consolidated
+                                    Same Store Residential
+                                                                                   Development communities under construction that are
+                                                                        Rental
+                   Rental                                  % of        Revenue     expected to contain 4,919 apartment homes and 56,000
+                  Revenue        Opex                      YTD           cash
+                    (1)           (2)          NOI       2022 NOI      basis (3)   square feet of commercial space. Estimated Total Capital
+New England           11.1 %        6.7 %       13.6 %       14.4 %       13.6 %   Cost at completion for these Development communities is
+Metro NY/NJ           10.4 %        6.5 %       12.2 %       20.2 %       12.8 %
+                                                                                   $2,069,000,000.
+Mid-Atlantic           6.3 %        3.5 %        7.7 %       14.9 %        7.1 %
+Southeast FL          23.9 %        2.6 %       39.0 %        1.6 %       22.7 %
+Denver, CO            12.8 %       (5.6)%       21.0 %        1.3 %       11.6 %
+                                                                                   The projected Total Capital Cost of Development Rights at
+Pacific NW            14.5 %        0.8 %       21.3 %        6.4 %       14.0 %   June 30, 2022 was $4.7 billion.
+N. California          6.5 %        3.8 %        7.6 %       18.3 %        6.4 %
+S. California         15.7 %        5.1 %       20.8 %       22.9 %       14.6 %   Unconsolidated Development Communities
+    Total             10.7 %        4.7 %       13.7 %     100.0 %        11.4 %
+
+(1) See Attachment 6, Year to Date Residential Rental Revenue and Occupancy        During the three months ended June 30, 2022, the
+Changes, for additional detail.
+(2) See Attachment 7, Residential Opex, for discussion of variances.               Company completed the development of Avalon Alderwood
+(3) The change in Residential Rental Revenue with Concessions on a Cash            Place, a 328 apartment home community located in
+Basis.
+                                                                                   Lynnwood, WA for a Total Capital Cost of $110,000,000.
+                                                                                   The Company has a 50.0% equity interest in the venture
+Development Activity                                                               that owns Avalon Alderwood Place. At June 30, 2022, the
+                                                                                   Company     had    one   Unconsolidated    Development
+Consolidated Development Communities                                               community under construction that is expected to contain
+                                                                                   475 apartment homes and 56,000 square feet of
+During the three months ended June 30, 2022, the                                   commercial space.
+Company completed the development of two communities:
+                                                                                   Acquisition Activity
+     •       AVA RiNo, located in Denver, CO; and
+     •       Avalon Brea Place, located in Brea, CA.                               During the three months ended June 30, 2022, the
+                                                                                   Company acquired Waterford Court, a wholly-owned
+These communities contain an aggregate of 899 apartment                            community, located in Addison, TX, containing 196
+homes and were constructed for a Total Capital Cost of                             apartment homes for a purchase price of $69,500,000.
+$380,000,000.
+                                                                                   During the six months ended June 30, 2022, the Company
+During the three months ended June 30, 2022, the                                   acquired two wholly-owned communities containing 403
+Company started the construction of two apartment                                  apartment homes and 16,000 square feet of commercial
+communities:                                                                       space for a total purchase price of $164,500,000.
+
+
+     •       Avalon Durham, located in Durham, NC; and                             Disposition Activity
+     •       Avalon West Windsor, located in West Windsor,
+             NJ.                                                                   Consolidated Apartment Communities
+
+
+These communities are expected to contain an aggregate                             During the six months ended June 30, 2022, the Company
+of 871 apartment homes and 19,000 square feet of                                   sold three wholly-owned communities containing an
+commercial space when completed and be developed for                               aggregate of 588 apartment homes. These assets were
+an aggregate estimated Total Capital Cost of $326,000,000.                         sold for $235,000,000 and a weighted average initial Market
+The Company expanded its existing Development                                      Cap Rate of 3.9%, resulting in a gain in accordance with
+community, Avalon North Andover, adding 51 apartment                               GAAP of $148,708,000 and an Economic Gain of
+homes at an incremental estimated Total Capital Cost of                            $119,804,000.
+$22,000,000.
+                                                                                   In July 2022, the Company sold Avalon Green I, Avalon
+During the six months ended June 30, 2022, the Company                             Green II and Avalon Green III, three wholly-owned
+completed the development of four communities containing                           communities, located in Elmsford, NY, that contain an
+an aggregate of 1,686 apartment homes for an aggregate                             aggregate of 617 apartment homes, for $306,000,000. The
+Total Capital Cost of $598,000,000.                                                Company intends to use the proceeds from the disposition
+
+
+                                      Copyright © 2022 AvalonBay Communities, Inc. All Rights Reserved
+                                                                   3
+of the three phases of Avalon Green for the acquisition of a    unsecured credit facility and had                     $260,191,000             in
+wholly-owned community located in Florida, which is             unrestricted cash and cash in escrow.
+currently under contract and expected to close in the three
+months ended September 30, 2022.                                The Company’s annualized Net Debt-to-Core EBITDAre (as
+                                                                defined in this release) for the second quarter of 2022 was
+During the three and six months ended June 30, 2022, the        4.9 times and Unencumbered NOI (as defined in this
+Company sold 13 and 28, respectively, of the 172                release) for the six months ended June 30, 2022 was 95%.
+residential condominiums at The Park Loggia, located in
+New York, NY, for gross proceeds of $41,002,000 and             During the six months ended June 30, 2022, the Company
+$81,338,000, respectively. As of June 30, 2022, the             repaid $100,000,000 principal amount of its variable rate
+Company has sold 151 of the 172 residential condominiums        unsecured term loan at its maturity. The variable rate
+for aggregate gross proceeds of $433,168,000 and the            unsecured term loan was indexed to LIBOR plus 0.90% and
+leasing of the commercial space has been completed.             entered into in February 2017.
+
+Unconsolidated Real Estate Investments                          During the three months ended June 30, 2022, in
+                                                                connection with an underwritten offering of shares, the
+In July 2022, Archstone Multifamily Partners AC LP (the         Company entered into forward contracts to sell 2,000,000
+"U.S. Fund"), a private discretionary real estate investment    shares of common stock by the end of 2023 for
+vehicle in which the Company holds an equity interest of        approximate proceeds of $494,200,000 net of offering fees
+28.6%, sold Avalon Grosvenor Tower containing 237               and discounts and based on the initial forward price. The
+apartment homes for a sales price of $95,250,000.               proceeds that the Company expects to receive on the date
+                                                                or dates of settlement are subject to certain customary
+Structured Investment Program Activity                          adjustments during the term of the forward contract for the
+                                                                Company's dividends and a daily interest charge.
+During the three months ended June 30, 2022, the
+Company entered into the first commitments under its            Third Quarter and Full Year 2022 Financial Outlook
+Structured Investment Program, through which the
+Company will provide mezzanine loans or preferred equity        For its third quarter and full year 2022 financial outlook, the
+to third party multifamily developers. The initial              Company expects the following:
+commitments are for two mezzanine loans of up to
+$79,575,000, in the aggregate, to fund multifamily              Projected EPS, Projected FFO and Projected Core FFO Outlook (1)
+                                                                                                      Q3 2022                Full Year 2022
+development projects in Denver, CO, and Pleasant Hill, CA.
+                                                                                                   Low        High          Low         High
+At June 30, 2022, the Company had funded $6,055,000 of
+                                                                Projected EPS                    $ 3.48 —$ 3.58         $     7.53 —$    7.73
+these commitments.                                              Projected FFO per share          $ 2.49 —$ 2.59         $     9.74 —$    9.94
+                                                                Projected Core FFO per share     $ 2.47 —$ 2.57         $     9.76 —$    9.96
+Liquidity and Capital Markets                                   (1) See Attachment 13, table 9, for reconciliations of Projected FFO per share
+                                                                and Projected Core FFO per share to Projected EPS.
+
+In March 2022, the Company established an unsecured                                    Full Year Financial Outlook
+commercial paper note program which allows the Company                                                                       Full Year 2022
+to issue, from time to time, unsecured commercial paper                                                                 vs. Full Year 2021
+notes with varying maturities of less than one year up to a                                                                 Low         High
+maximum amount outstanding at any one time of                   Same Store:
+                                                                  Residential rental revenue change                      10.75% — 11.75%
+$500,000,000. The program is backstopped by the
+                                                                  Residential Opex change                                   4.5%    — 5.5%
+Company's commitment to maintain available borrowing
+                                                                  Residential NOI change                                    13.5%   — 15.0%
+capacity under its unsecured credit facility in an amount
+equal to actual borrowings under the program. The
+Company did not have any amounts outstanding under its
+                                                                The following table compares the Company’s actual results
+commercial paper program as of June 30, 2022 and had
+                                                                for EPS, FFO per share and Core FFO per share for the
+$175,000,000 outstanding as of the date of this release.
+                                                                second quarter 2022 to its third quarter 2022 financial
+                                                                outlook:
+At June 30, 2022, the Company did not have any
+borrowings outstanding under its $1,750,000,000
+
+
+
+
+                            Copyright © 2022 AvalonBay Communities, Inc. All Rights Reserved
+                                                         4
+                                                                                   regarding       operating,    development,    redevelopment,
+         Q2 2022 Results Compared to Q3 2022 Outlook                               disposition and acquisition activity. These Attachments are
+                                                           Per Share
+                                                                                   considered a part of this earnings release and are available
+                                                 EPS         FFO       Core FFO
+                                                                                   in full with this earnings release via the Company's website
+Q2 2022 per share reported results          $     0.99 $       2.41 $      2.43
+ Same Store Residential revenue                   0.09         0.09        0.09
+                                                                                   at http://www.avalonbay.com/earnings. To receive future
+ Same Store Residential Opex                      (0.06)      (0.06)      (0.06)   press releases via e-mail, please submit a request through
+ Development and Other Stabilized                                                  http://investors.avalonbay.com/email_notification.
+ Residential NOI                                  0.01         0.01        0.01
+ Commercial NOI                                   0.02         0.02        0.02
+ Capital markets and transaction activity         0.02         0.02          —     In addition to the Attachments, the Company is providing a
+ Overhead and other                               0.05         0.05        0.03    teleconference presentation that will be available on the
+ Gain on sale of real estate and                                                   Company's website at http://www.avalonbay.com/earnings
+ depreciation expense                             2.41             —         —
+Projected per share - Q3 2022 outlook
+                                                                                   subsequent to this release and before the market opens on
+(1)                                         $     3.53 $       2.54 $      2.52    July 28, 2022.
+(1) Represents the mid-point of the Company's outlook.
+                                                                                   About AvalonBay Communities, Inc.
+
+The following table compares the Company’s July 2022                               As of June 30, 2022, the Company owned or held a direct
+outlook for EPS, FFO per share and Core FFO per share                              or indirect ownership interest in 299 apartment communities
+for the full year 2022 to its April 2022 financial outlook:                        containing 89,037 apartment homes in 12 states and the
+                                                                                   District of Columbia, of which 17 communities were under
+                                                                                   development and two communities were under
+              July 2022 Full Year Outlook Compared
+                  to April 2022 Full Year Outlook                                  redevelopment. The Company is an equity REIT in the
+                                                           Per Share               business of developing, redeveloping, acquiring and
+                                                 EPS         FFO       Core FFO    managing apartment communities in leading metropolitan
+Projected per share - April 2022 outlook                                           areas in New England, the New York/New Jersey Metro
+(1)                                          $     6.25 $      9.57 $      9.58
+ Same Store Residential revenue                    0.31        0.31        0.31
+                                                                                   area, the Mid-Atlantic, the Pacific Northwest, and Northern
+ Same Store Residential Opex                      (0.01)      (0.01)      (0.01)   and Southern California, as well as in the Company's
+ Commercial NOI                                    0.01        0.01        0.01    expansion markets of Raleigh-Durham and Charlotte, North
+ Capital markets and transaction activity              —           —       0.01    Carolina, Southeast Florida, Dallas and Austin, Texas, and
+ Overhead and other                               (0.04)      (0.04)      (0.04)
+                                                                                   Denver, Colorado. More information may be found on the
+ Gain on sale of real estate and
+ depreciation expense                              1.11            —         —     Company’s website at http://www.avalonbay.com. For
+Projected per share - July 2022 outlook                                            additional information, please contact Jason Reilley, Vice
+(1)                                          $     7.63 $      9.84 $      9.86
+                                                                                   President of Investor Relations, at 703-317-4681.
+(1) Represents the mid-point of the Company's outlook.
+
+                                                                                   Forward-Looking Statements
+
+Other Matters
+                                                                                   This release, including its Attachments, contains forward-
+                                                                                   looking statements within the meaning of Section 27A of the
+The Company will hold a conference call on July 28, 2022
+                                                                                   Securities Act of 1933, as amended, and Section 21E of the
+at 1:00 PM ET to review and answer questions about this
+                                                                                   Securities Exchange Act of 1934, as amended. These
+release, its second quarter 2022 results, the Attachments
+                                                                                   forward-looking statements, which you can identify by the
+(described below) and related matters. To participate on the
+                                                                                   Company’s use of words such as “expects,” “plans,”
+call, dial 800-289-0720 and use conference id: 2742019.
+                                                                                   “estimates,” “anticipates,” “projects,” “intends,” “believes,”
+                                                                                   “outlook,” "may," "shall," "will," "pursue" and similar
+To hear a replay of the call, which will be available from July
+                                                                                   expressions that predict or indicate future events and trends
+28, 2022 at 6:00 PM ET to August 4, 2022 at 6:00 PM ET,
+                                                                                   and that do not report historical matters, are based on the
+dial 888-203-1112 and use conference id: 2742019. A
+                                                                                   Company’s expectations, forecasts and assumptions at the
+webcast of the conference call will also be available at
+                                                                                   time of this release, which may not be realized and involve
+http://www.avalonbay.com/earnings, and an online playback
+                                                                                   risks and uncertainties that cannot be predicted accurately
+of the webcast will be available for at least seven days
+                                                                                   or that might not be anticipated. These could cause actual
+following the call.
+                                                                                   results, performance or achievements to differ materially
+                                                                                   from the anticipated future results, performance or
+The Company produces Earnings Release Attachments
+                                                                                   achievements expressed or implied by the forward-looking
+(the "Attachments") that provide detailed information
+
+                                      Copyright © 2022 AvalonBay Communities, Inc. All Rights Reserved
+                                                                   5
+statements. Risks and uncertainties that might cause such        release. The Company may, in its discretion, provide
+differences include the following: risks related to the          information in future public announcements regarding its
+COVID-19 pandemic, including the effect, among other             outlook that may be of interest to the investment
+factors, on the multifamily industry and the general             community. The format and extent of future outlooks may
+economy of measures taken by businesses and the                  be different from the format and extent of the information
+government, such as governmental limitations on the ability      contained in this release.
+of multifamily owners to evict residents who are delinquent
+in the payment of their rent, the preferences of consumers       Definitions and Reconciliations
+and businesses for living and working arrangements, and
+federal efforts at economic stimulus; we may abandon             Non-GAAP financial measures and other capitalized terms,
+development or redevelopment opportunities for which we          as used in this earnings release, are defined, reconciled
+have already incurred costs; adverse capital and credit          and further explained on Attachment 13, Definitions and
+market conditions, including rising interest rates, may affect   Reconciliations of Non-GAAP Financial Measures and
+our access to various sources of capital and/or cost of          Other Terms. Attachment 13 is included in the full earnings
+capital, which may affect our business activities, earnings      release available at the Company’s website at http://
+and common stock price, among other things; changes in           www.avalonbay.com/earnings.
+local employment conditions, demand for apartment homes,
+supply of competitive housing products, landlord-tenant
+laws, including the adoption of new rent control regulations,
+and other economic or regulatory conditions may result in
+lower than expected occupancy and/or rental rates and
+adversely affect the profitability of our communities; delays
+in completing development, redevelopment and/or lease-
+up, and general price inflation, may result in increased
+financing and construction costs and may delay and/or
+reduce the profitability of a community; debt and/or equity
+financing for development, redevelopment or acquisitions of
+communities may not be available or may not be available
+on favorable terms; we may be unable to obtain, or
+experience delays in obtaining, necessary governmental
+permits and authorizations; expenses may result in
+communities that we develop or redevelop failing to achieve
+expected profitability; our assumptions concerning risks
+relating to joint ventures and our ability to successfully
+dispose of certain assets may not be realized; our
+assumptions and expectations in our financial outlook may
+prove to be too optimistic; and the timing and net proceeds
+of condominium sales at The Park Loggia may not equal
+our current expectations. Additional discussions of risks and
+uncertainties that could cause actual results to differ
+materially from those expressed or implied by the forward-
+looking statements appear in the Company’s filings with the
+Securities and Exchange Commission, including the
+Company’s Annual Report on Form 10-K for the fiscal year
+ended December 31, 2021 under the heading “Risk
+Factors” and under the heading “Management’s Discussion
+and Analysis of Financial Condition and Results of
+Operations - Forward-Looking Statements” and in
+subsequent quarterly reports on Form 10-Q.
+
+The Company does not undertake a duty to update forward-
+looking statements, including its expected 2022 operating
+results and other financial data forecasts contained in this
+
+
+                             Copyright © 2022 AvalonBay Communities, Inc. All Rights Reserved
+                                                          6
+7
+                                                      SECOND QUARTER 2022
+                                                            Supplemental Operating and Financial Data
+
+                                                                                            Table of Contents
+
+       Company Profile
+       Condensed Consolidated Operating Information..........................................................................................................                                     Attachment 1
+       Condensed Consolidated Balance Sheets....................................................................................................................                                  Attachment 2
+       Sequential Operating Information..................................................................................................................................                         Attachment 3
+
+
+       Market Profile - Same Store
+       Quarterly Residential Rental Revenue and Occupancy Changes.................................................................................                                                Attachment 4
+       Sequential Quarterly Residential Rental Revenue and Occupancy Changes...............................................................                                                       Attachment 5
+       Year to Date Residential Rental Revenue and Occupancy Changes...........................................................................                                                   Attachment 6
+       Residential Operating Expenses ("Opex")....................................................................................................................                                Attachment 7
+
+
+       Development, Joint Venture and Debt Profile
+       Expensed Community Maintenance Costs and Capitalized Community Expenditures................................................                                                                Attachment 8
+       Development Communities...........................................................................................................................................                         Attachment 9
+       Unconsolidated Real Estate Investments......................................................................................................................                               Attachment 10
+       Debt Structure and Select Debt Metrics........................................................................................................................                             Attachment 11
+
+
+       Financial Outlook
+       2022 Financial Outlook..................................................................................................................................................................   Attachment 12
+
+
+       Definitions and Reconciliations
+       Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms...................................................                                                          Attachment 13
+
+
+
+The following is a "Safe Harbor" Statement under the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities
+Exchange Act of 1934, as amended. The projections and estimates contained in the following attachments, including but not limited to Attachments 9, 10, 12 and 13, contain forward-looking
+statements that involve risks and uncertainties, and actual results may differ materially from those projected in such statements. Risks associated with the Company's development,
+redevelopment, construction, and lease-up activities which could impact the forward-looking statements are discussed in the paragraph titled "Forward-Looking Statements" in the release that
+accompanies, and should be read in conjunction with, these attachments. These and other risks are also described in the Company's filings with the Securities and Exchange Commission,
+including the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2021 and the Company's Quarterly Reports on Form 10-Q for subsequent quarters, and could
+cause actual results to differ materially from such projections and estimates.
+
+
+
+
+                                                                                                                8
+Attachment 1
+                                                               AvalonBay Communities, Inc.
+                                                      Condensed Consolidated Operating Information
+                                                                        June 30, 2022
+                                                        (Dollars in thousands except per share data)
+                                                                         (unaudited)
+
+                                                                            Q2                Q2                             YTD               YTD
+                                                                           2022               2021          % Change         2022              2021          % Change
+Revenue:
+  Rental and other income                                              $   643,655        $   560,935          14.7 %   $ 1,256,830       $ 1,111,194           13.1 %
+  Management, development and other fees                                          904                808       11.9 %           1,656             1,685          (1.7)%
+  Total                                                                    644,559            561,743          14.7 %       1,258,486         1,112,879         13.1 %
+Operating expenses:
+  Direct property operating expenses, excluding property taxes             124,848            116,506           7.2 %        247,309           231,214           7.0 %
+  Property taxes                                                             70,865            70,776           0.1 %        141,603           140,186           1.0 %
+  Total community operating expenses                                       195,713            187,282           4.5 %        388,912           371,400           4.7 %
+
+Property management and other indirect operating expenses                   (31,541)           (25,116)        25.6 %         (60,392)          (50,459)        19.7 %
+Expensed transaction, development and other pursuit costs, net of
+recoveries                                                                   (2,364)            (1,653)        43.0 %          (3,351)           (1,483)       126.0 %
+Interest expense, net (1)                                                   (58,797)           (56,104)         4.8 %        (115,323)         (108,717)         6.1 %
+Gain on extinguishment of debt, net                                                  —                —          —%                  —                122      (100.0)%
+Depreciation expense                                                       (199,302)          (184,472)         8.0 %        (401,088)         (367,769)         9.1 %
+General and administrative expense                                          (21,291)           (18,465)        15.3 %         (38,712)          (35,817)         8.1 %
+Casualty and impairment loss                                                         —          (1,177)       100.0 %                —           (1,177)       100.0 %
+Income from investments in unconsolidated entities                            2,480            26,559         (90.7)%           2,797           26,092          (89.3)%
+Gain on sale of communities                                                       404         334,569         (99.9)%        149,204           388,296          (61.6)%
+Gain on other real estate transactions, net                                          43               32       34.4 %                80               459       (82.6)%
+Net for-sale condominium activity (2)                                             (71)             (647)      (89.0)%               165          (1,560)           N/A
+Income before income taxes                                                 138,407            447,987         (69.1)%        402,954           589,466          (31.6)%
+
+Income tax benefit (expense) (3)                                                  159                (10)         N/A          (2,312)                745          N/A
+Net income                                                                 138,566            447,977         (69.1)%        400,642           590,211          (32.1)%
+
+Net income attributable to noncontrolling interests                               125                (24)         N/A                93               (35)         N/A
+Net income attributable to common stockholders                         $   138,691        $   447,953         (69.0)%   $    400,735      $    590,176          (32.1)%
+
+
+Net income attributable to common stockholders per common share -
+basic                                                                  $         0.99     $        3.21       (69.2)%   $        2.87     $        4.23         (32.2)%
+Net income attributable to common stockholders per common share -
+diluted                                                                $         0.99     $        3.21       (69.2)%   $        2.86     $        4.23         (32.4)%
+
+FFO (3)                                                                $   336,792        $   274,525          22.7 %   $    650,700      $    545,347          19.3 %
+  Per common share - diluted                                           $         2.41     $        1.97        22.3 %   $        4.65     $        3.91         18.9 %
+
+Core FFO (3)                                                           $   340,025        $   276,950          22.8 %   $    656,948      $    548,596          19.8 %
+  Per common share - diluted                                           $         2.43     $        1.98        22.7 %   $        4.69     $        3.93         19.3 %
+
+Dividends declared - common                                            $   222,772        $   222,447           0.1 %   $    445,526      $    444,871           0.1 %
+  Per common share                                                     $         1.59     $        1.59          —%     $        3.18     $        3.18           —%
+
+  Average shares and participating securities outstanding - basic      139,879,013        139,655,102           0.2 %   139,858,967       139,632,253            0.2 %
+  Average shares outstanding - diluted                                 139,934,478        139,650,639           0.2 %   139,955,280       139,601,526            0.3 %
+  Total outstanding common shares and operating partnership units      139,837,396        139,625,754           0.2 %   139,837,396       139,625,754            0.2 %
+
+(1) Amounts for the six months ended June 30, 2022 and 2021 include gains on interest rate contracts of $423 and $2,654, respectively. Amounts for the three and
+    six months ended June 30, 2022 also include $1,608 for reserves related to our Structured Investment Program. See Attachment 13 - Definitions and
+    Reconciliations of Non-GAAP Financial Measures and Other Terms, table 3.
+(2) Amounts include $538 and $1,222 of for-sale condominium marketing, operating and administrative costs and $467 and $575 of gains on for-sale
+    condominiums for the three months ended June 30, 2022 and 2021, respectively. Amounts include $1,304 and $2,266 of for-sale condominium marketing,
+    operating and administrative costs and $1,469 and $706 of gains on for-sale condominiums for the six months ended June 30, 2022 and 2021, respectively.
+    See Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms, table 3.
+(3) See Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms, table 3.
+
+
+
+
+                                                                                 9
+Attachment 2
+
+                                                        AvalonBay Communities, Inc.
+                                                    Condensed Consolidated Balance Sheets
+                                                                        June 30, 2022
+                                                                   (Dollars in thousands)
+                                                                        (unaudited)
+
+
+                                                                                                                   June 30,               December 31,
+                                                                                                                    2022                     2021
+
+
+Real estate                                                                                                    $      24,165,590      $        23,799,947
+Less accumulated depreciation                                                                                         (6,542,795)              (6,208,610)
+
+
+  Net operating real estate                                                                                           17,622,795               17,591,337
+Construction in progress, including land                                                                                800,663                  807,101
+Land held for development                                                                                               194,458                  147,546
+For-sale condominium inventory (1)                                                                                         73,622                146,535
+Real estate assets held for sale, net                                                                                   107,118                     17,065
+
+
+         Total real estate, net                                                                                       18,798,656               18,709,584
+
+
+Cash and cash equivalents                                                                                               152,522                  420,251
+Cash in escrow                                                                                                          107,669                  123,537
+Resident security deposits                                                                                                 36,252                   33,757
+Investments in unconsolidated entities                                                                                  222,438                  216,390
+Other assets                                                                                                            451,240                  398,497
+
+
+         Total assets                                                                                          $      19,768,777      $        19,902,016
+
+
+Unsecured notes, net                                                                                           $       7,252,785      $         7,349,394
+Unsecured credit facility and commercial paper                                                                                  —                        —
+Notes payable, net                                                                                                      748,408                  754,153
+Resident security deposits                                                                                                 62,951                   59,787
+Other liabilities                                                                                                       783,692                  802,221
+         Total liabilities                                                                                             8,847,836                8,965,555
+
+
+Redeemable noncontrolling interests                                                                                           2,930                  3,368
+Equity                                                                                                                10,918,011               10,933,093
+
+
+         Total liabilities and equity                                                                          $      19,768,777      $        19,902,016
+
+
+(1) Consists of the aggregate carrying value of the unsold for-sale residential condominiums of The Park Loggia.
+
+
+
+
+                                                                               10
+Attachment 3
+                                                             AvalonBay Communities, Inc.
+                                                        Sequential Operating Information (1)
+                                                                      June 30, 2022
+                                                      (Dollars in thousands, except per home data)
+                                                                       (unaudited)
+
+                                                                   Total Apartment            Quarter Ended            Quarter Ended             Quarter Ended
+                                                                       Homes                  June 30, 2022            March 31, 2022          December 31, 2021
+Residential Rental Revenue (2)
+  Same Store                                                                    70,347    $           561,681      $            534,796        $          524,071
+   Other Stabilized (3)                                                          6,617                  45,104                   41,633                    37,950
+   Development/Redevelopment (4)                                                 8,063                  20,796                   17,176                    14,546
+Commercial Rental Revenue (2)                                                       N/A                 9,337                    10,031                     9,396
+       Total Rental Revenue                                                     85,027 $              636,918      $            603,636        $          585,963
+
+Residential Operating Expense
+   Same Store                                                                             $           170,543      $            167,588        $          160,554
+   Other Stabilized (3)                                                                                14,668                    15,178                    13,160
+  Development/Redevelopment                                                                              6,879                     5,177                    5,216
+Commercial Operating Expense                                                                             1,574                     1,711                    1,351
+       Total Operating Expense                                                            $           193,664      $            189,654        $          180,281
+
+Residential NOI (5)
+  Same Store                                                                              $           391,626      $            367,551        $          363,858
+  Other Stabilized (3)                                                                                 30,973                    26,846                    25,081
+  Development/Redevelopment                                                                            13,925                    12,007                     9,338
+Commercial NOI (5)                                                                                      7,763                     8,320                     8,045
+      Total NOI                                                                           $           444,287      $            414,724        $          406,322
+
+Same Store Average Rental Rates                                                           $              2,760     $               2,631       $            2,583
+
+Same Store Economic Occupancy                                                                             96.4 %                    96.3 %                   96.2 %
+
+Same Store Turnover (6)
+  Current year period / Prior year period                                                         46.8% / 50.8%             35.3% / 44.2%             37.5% / 47.9%
+  Current year period YTD / Prior year period YTD                                                 41.1% / 47.5%                                       47.1% / 52.7%
+
+                                                                           SAME STORE LIKE-TERM EFFECTIVE RENT CHANGE (5)
+                                                                                       Q2 2022                          July 2022 (7)
+                      New England                                                                    15.4 %                                16.4 %
+                      Metro NY/NJ                                                                    16.4 %                                14.3 %
+                      Mid-Atlantic                                                                   11.1 %                                10.4 %
+                      Southeast FL                                                                   21.7 %                                17.0 %
+                      Denver, CO                                                                     13.8 %                                13.4 %
+                      Pacific NW                                                                     17.7 %                                15.0 %
+                      N. California                                                                  14.3 %                                12.1 %
+                      S. California                                                                  10.3 %                                10.4 %
+                        Total                                                                        13.9 %                                13.0 %
+
+(1) Includes consolidated communities and excludes communities that have been sold or that are classified as held for sale.
+(2) Rental revenue excludes non-qualified REIT income.
+(3) Results for these communities prior to January 1, 2022 may reflect operations prior to stabilization, including lease-up, such that occupancy is not stabilized.
+(4) For per home rent projections and Economic Occupancy for Development communities currently under construction, see Attachment 9 - Development
+    Communities.
+(5) See Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms.
+(6) Turnover is the annualized number of units turned over during the period, divided by the total number of Same Store apartment homes for the respective
+    period.
+(7) Rent change percentage for activity in July 2022 through July 26, 2022.
+
+
+
+
+                                                                                11
+Attachment 4
+                                                                                      AvalonBay Communities, Inc.
+                                                             Quarterly Residential Rental Revenue and Occupancy Changes - Same Store (1)
+                                                                                             June 30, 2022
+                                                                                               (unaudited)
+                                            Apartment                Average Rental Rates (2)                            Economic Occupancy                                    Residential Rental Revenue ($000s)
+                                             Homes
+                                                                                                                                                                                                              % Change on a
+                                                                Q2 22            Q2 21        % Change           Q2 22          Q2 21          % Change              Q2 22           Q2 21      % Change      Cash Basis (3)
+
+  New England                                      9,774    $      2,997     $     2,689            11.5 %         97.5 %         95.9 %               1.6 % $        85,692     $    75,787         13.1 %           14.9 %
+
+  Metro NY/NJ
+     New York City, NY                            3,788            3,607           3,154            14.4 %         97.3 %         96.7 %               0.6 %          39,883          34,671         15.0 %           19.3 %
+     New York - Suburban                          3,202            3,470           3,191             8.7 %         95.4 %         96.0 %              (0.6)%          31,791          29,409          8.1 %            7.8 %
+     New Jersey                                   4,651            3,069           2,728            12.5 %         96.5 %         96.2 %               0.3 %          41,300          36,612         12.8 %           14.6 %
+  Metro NY/NJ                                    11,641            3,354           2,993            12.1 %         96.4 %         96.3 %               0.1 %         112,974         100,692         12.2 %           14.2 %
+
+  Mid-Atlantic
+     Washington Metro                            11,369            2,321           2,168             7.1 %         95.3 %         94.8 %               0.5 %          75,479          70,157          7.6 %            7.9 %
+     Baltimore, MD                                1,562            1,957           1,795             9.0 %         97.1 %         97.7 %              (0.6)%           8,904           8,214          8.4 %            8.0 %
+  Mid-Atlantic                                   12,931            2,277           2,123             7.3 %         95.5 %         95.1 %               0.4 %          84,383          78,371          7.7 %            7.9 %
+
+  Southeast FL                                     1,214           2,715           2,196            23.6 %         95.3 %         96.3 %              (1.0)%           9,426           7,691         22.6 %           20.7 %
+
+  Denver, CO                                       1,086           2,119           1,850            14.5 %         96.5 %         97.2 %              (0.7)%           6,661           5,852         13.8 %           13.1 %
+
+  Pacific Northwest                                4,807           2,547           2,176            17.0 %         95.9 %         95.9 %               0.0 %          35,218          30,095         17.0 %           14.6 %
+
+  Northern California
+     San Jose, CA                                 4,723            2,811           2,571             9.3 %         96.5 %         97.0 %              (0.5)%          38,448          35,328          8.8 %            8.4 %
+     Oakland-East Bay, CA                         4,136            2,599           2,410             7.8 %         96.1 %         96.4 %              (0.3)%          30,995          28,822          7.5 %            5.9 %
+     San Francisco, CA                            3,267            3,222           2,863            12.5 %         95.5 %         96.5 %              (1.0)%          30,157          27,051         11.5 %            7.8 %
+  Northern California                            12,126            2,850           2,595             9.8 %         96.1 %         96.7 %              (0.6)%          99,600          91,201          9.2 %            7.4 %
+
+  Southern California
+     Los Angeles, CA                             11,630            2,653           2,206            20.3 %         96.7 %         96.7 %               0.0 %          89,523          74,390         20.3 %           19.0 %
+     Orange County, CA                            3,371            2,555           2,198            16.2 %         96.6 %         97.3 %              (0.7)%          24,962          21,621         15.5 %           14.5 %
+     San Diego, CA                                1,767            2,558           2,241            14.1 %         97.7 %         97.5 %               0.2 %          13,242          11,584         14.3 %           13.4 %
+  Southern California                            16,768            2,623           2,208            18.8 %         96.8 %         96.9 %              (0.1)%         127,727         107,595         18.7 %           17.5 %
+
+          Total Same Store                       70,347     $      2,760     $     2,448            12.7 %         96.4 %         96.2 %               0.2 % $       561,681     $   497,284         12.9 %           12.9 %
+
+(1) Same Store is composed of communities with Stabilized Operations as of January 1, 2021 such that a comparison of Q2 2021 to Q2 2022 is meaningful.
+(2) Reflects the effect of Residential concessions amortized over the average lease term.
+(3) Represents the change in Residential Rental Revenue with Concessions on a Cash Basis. See Attachment 13, table 10, for additional detail and a reconciliation.
+
+
+
+
+                                                                                                                  12
+Attachment 5
+                                                                                     AvalonBay Communities, Inc.
+                                                       Sequential Quarterly Residential Rental Revenue and Occupancy Changes - Same Store (1)
+                                                                                             June 30, 2022
+                                                                                               (unaudited)
+                                        Apartment                 Average Rental Rates (2)                               Economic Occupancy                                  Residential Rental Revenue ($000s)
+                                         Homes
+                                                                                                                                                                                                           % Change on a
+                                                            Q2 22            Q1 22          % Change             Q2 22            Q1 22         % Change             Q2 22         Q1 22      % Change     Cash Basis (3)
+
+  New England                                  9,774    $       2,997    $       2,873              4.3 %           97.5 %           97.0 %             0.5 % $       85,692   $    81,748         4.8 %            4.0 %
+
+  Metro NY/NJ
+     New York City, NY                        3,788             3,607            3,453              4.5 %           97.3 %           97.1 %             0.2 %         39,883        38,108         4.7 %            2.8 %
+     New York - Suburban                      3,202             3,470            3,395              2.2 %           95.4 %           95.9 %            (0.5)%         31,791        31,271         1.7 %            1.7 %
+     New Jersey                               4,651             3,069            2,884              6.4 %           96.5 %           97.1 %            (0.6)%         41,300        39,032         5.8 %            5.1 %
+  Metro NY/NJ                                11,641             3,354            3,209              4.5 %           96.4 %           96.7 %            (0.3)%        112,974       108,411         4.2 %            3.3 %
+
+  Mid-Atlantic
+     Washington Metro                        11,369             2,321            2,234              3.9 %           95.3 %           95.5 %            (0.2)%         75,479        72,799         3.7 %            3.8 %
+     Baltimore, MD                            1,562             1,957            1,893              3.4 %           97.1 %           96.8 %             0.3 %          8,904         8,590         3.7 %            3.7 %
+  Mid-Atlantic                               12,931             2,277            2,194              3.8 %           95.5 %           95.6 %            (0.1)%         84,383        81,389         3.7 %            3.8 %
+
+  Southeast FL                                 1,214            2,715            2,570              5.6 %           95.3 %           96.8 %            (1.5)%          9,426         9,056         4.1 %            3.9 %
+
+  Denver, CO                                   1,086            2,119            2,028              4.5 %           96.5 %           95.5 %             1.0 %          6,661         6,314         5.5 %            5.8 %
+
+  Pacific Northwest                            4,807            2,547            2,394              6.4 %           95.9 %           95.5 %             0.4 %         35,218        32,981         6.8 %            6.5 %
+
+  Northern California
+     San Jose, CA                             4,723             2,811            2,683              4.8 %           96.5 %           96.4 %             0.1 %         38,448        36,663         4.9 %            3.9 %
+     Oakland-East Bay, CA                     4,136             2,599            2,491              4.3 %           96.1 %           96.2 %            (0.1)%         30,995        29,737         4.2 %            4.3 %
+     San Francisco, CA                        3,267             3,222            3,124              3.1 %           95.5 %           95.3 %             0.2 %         30,157        29,182         3.3 %            1.6 %
+  Northern California                        12,126             2,850            2,737              4.1 %           96.1 %           96.0 %             0.1 %         99,600        95,582         4.2 %            3.3 %
+
+  Southern California
+     Los Angeles, CA                         11,630             2,653            2,464              7.7 %           96.7 %           96.4 %             0.3 %         89,523        82,857         8.0 %            7.9 %
+     Orange County, CA                        3,371             2,555            2,437              4.8 %           96.6 %           96.7 %            (0.1)%         24,962        23,832         4.7 %            4.7 %
+     San Diego, CA                            1,767             2,558            2,463              3.9 %           97.7 %           96.7 %             1.0 %         13,242        12,626         4.9 %            4.9 %
+  Southern California                        16,768             2,623            2,457              6.8 %           96.8 %           96.5 %             0.3 %        127,727       119,315         7.1 %            6.9 %
+
+          Total Same Store                   70,347     $       2,760    $       2,631              4.9 %           96.4 %           96.3 %             0.1 % $      561,681   $   534,796         5.0 %            4.5 %
+
+(1) Same Store is composed of communities with Stabilized Operations as of January 1, 2021.
+(2) Reflects the effect of Residential concessions amortized over the average lease term.
+(3) Represents the change in Residential Rental Revenue with Concessions on a Cash Basis. See Attachment 13, table 10, for additional detail and a reconciliation.
+
+
+
+
+                                                                                                                  13
+Attachment 6
+                                                                                     AvalonBay Communities, Inc.
+                                                           Year to Date Residential Rental Revenue and Occupancy Changes - Same Store (1)
+                                                                                             June 30, 2022
+                                                                                              (unaudited)
+                                            Apartment               Average Rental Rates (2)                           Economic Occupancy                                    Residential Rental Revenue ($000s)
+                                             Homes
+
+                                                             Year to          Year to                          Year to         Year to                          Year to           Year to                  % Change on a
+                                                            Date 2022        Date 2021       % Change         Date 2022       Date 2021       % Change         Date 2022         Date 2021    % Change     Cash Basis (3)
+
+  New England                                     9,774     $     2,935     $     2,684             9.4 %          97.3 %          95.6 %            1.7 % $      167,440       $   150,700       11.1 %           13.6 %
+
+  Metro NY/NJ
+     New York City, NY                            3,788           3,531           3,182            11.0 %          97.2 %          96.5 %            0.7 %         77,991            69,847       11.7 %           17.2 %
+     New York - Suburban                          3,202           3,433           3,153             8.9 %          95.6 %          95.7 %           (0.1)%         63,062            57,974        8.8 %            8.6 %
+     New Jersey                                   4,651           2,975           2,713             9.7 %          96.8 %          96.1 %            0.7 %         80,332            72,793       10.4 %           12.0 %
+  Metro NY/NJ                                    11,641           3,282           2,987             9.9 %          96.6 %          96.1 %            0.5 %        221,385           200,614       10.4 %           12.8 %
+
+  Mid-Atlantic
+     Washington Metro                            11,369           2,278           2,160             5.5 %          95.4 %          94.8 %            0.6 %        148,279           139,730        6.1 %            7.0 %
+     Baltimore, MD                                1,562           1,925           1,777             8.3 %          97.0 %          97.4 %           (0.4)%         17,494            16,211        7.9 %            7.5 %
+  Mid-Atlantic                                   12,931           2,236           2,115             5.7 %          95.6 %          95.0 %            0.6 %        165,773           155,941        6.3 %            7.1 %
+
+  Southeast FL                                    1,214           2,642           2,134            23.8 %          96.0 %          95.9 %            0.1 %          18,481           14,918       23.9 %           22.7 %
+
+  Denver, CO                                      1,086           2,074           1,832            13.2 %          96.0 %          96.4 %           (0.4)%          12,975           11,503       12.8 %           11.6 %
+
+  Pacific Northwest                               4,807           2,471           2,170            13.9 %          95.7 %          95.1 %            0.6 %          68,199           59,580       14.5 %           14.0 %
+
+  Northern California
+     San Jose, CA                                 4,723           2,747           2,606             5.4 %          96.5 %          96.5 %            0.0 %         75,111            71,231        5.4 %            7.3 %
+     Oakland-East Bay, CA                         4,136           2,545           2,419             5.2 %          96.2 %          96.2 %            0.0 %         60,732            57,718        5.2 %            3.8 %
+     San Francisco, CA                            3,267           3,173           2,892             9.7 %          95.4 %          95.9 %           (0.5)%         59,340            54,348        9.2 %            8.2 %
+  Northern California                            12,126           2,793           2,619             6.6 %          96.1 %          96.2 %           (0.1)%        195,183           183,297        6.5 %            6.4 %
+
+  Southern California
+     Los Angeles, CA                             11,630           2,559           2,207            15.9 %          96.6 %          96.3 %            0.3 %        172,380           148,382       16.2 %           15.1 %
+     Orange County, CA                            3,371           2,496           2,170            15.0 %          96.7 %          96.8 %           (0.1)%         48,794            42,477       14.9 %           13.9 %
+     San Diego, CA                                1,767           2,511           2,207            13.8 %          97.2 %          97.0 %            0.2 %         25,868            22,700       14.0 %           12.9 %
+  Southern California                            16,768           2,541           2,199            15.6 %          96.6 %          96.5 %            0.1 %        247,042           213,559       15.7 %           14.6 %
+
+         Total Same Store                        70,347     $     2,695     $     2,446            10.2 %          96.4 %          95.9 %            0.5 % $ 1,096,478          $   990,112       10.7 %           11.4 %
+
+(1) Same Store is composed of communities with Stabilized Operations as of January 1, 2021 such that a comparison of year to date 2021 to year to date 2022 is meaningful.
+(2) Reflects the effect of Residential concessions amortized over the average lease term.
+(3) Represents the change in Residential Rental Revenue with Concessions on a Cash Basis. See Attachment 13, table 10, for additional detail and a reconciliation.
+
+
+
+
+                                                                                                                 14
+Attachment 7
+                                                                           AvalonBay Communities, Inc.
+                                                             Residential Operating Expenses ("Opex") - Same Store (1)
+                                                                                   June 30, 2022
+                                                                               (Dollars in thousands)
+                                                                                    (unaudited)
+
+                                                                                                                                                                            Year to Date
+                                          Q2                 Q2                               Q2 2022 % of        Year to Date         Year to Date                          2022 % of
+                                         2022               2021            % Change           Total Opex            2022                 2021            % Change           Total Opex
+
+Property taxes (2)                 $         60,124   $         59,900               0.4 %             35.2 % $          120,791   $         118,919              1.6 %             35.7 %
+Payroll (3)                                  36,476             35,556               2.6 %             21.4 %             73,027              72,236              1.1 %             21.6 %
+Repairs & maintenance (4)                    31,953             30,102               6.1 %             18.7 %             58,993              55,709              5.9 %             17.4 %
+Utilities (5)                                16,349             14,007              16.7 %              9.6 %             35,012              29,832             17.4 %             10.4 %
+Office operations (6)                        14,823             12,663              17.1 %              8.7 %             28,995              25,318             14.5 %              8.6 %
+Insurance (7)                                 7,446              7,030               5.9 %              4.4 %             14,633              13,897              5.3 %              4.3 %
+Marketing                                     3,372              3,525              (4.3)%              2.0 %              6,680               6,926             (3.6)%              2.0 %
+ Total Same Store Residential
+ Operating Expenses                $       170,543    $        162,783               4.8 %            100.0 % $          338,131   $         322,837              4.7 %            100.0 %
+
+
+(1) Same Store operating expenses exclude indirect costs for corporate-level property management and other support-related expenses.
+(2) Property taxes increased for the six months ended June 30, 2022 over the prior year period due to (i) increased assessments across the portfolio and (ii) the expiration of
+    property tax incentive programs at certain of our properties in New York City, partially offset by successful appeals in the current year period in excess of the prior year period.
+(3) Payroll costs increased for the three and six months ended June 30, 2022 over the prior year periods primarily due to increased benefit costs and maintenance salaries and
+    overtime, partially offset by a reduction in on-site personnel.
+(4) Repairs and maintenance increased for the three months ended June 30, 2022 over the prior year period primarily due to increased turnover costs, costs for the operation and
+    maintenance of smart home technology as well as pool operation and maintenance, partially offset by an increase in rebates as compared to the prior year period. Repairs and
+    maintenance increased for the six months ended June 30, 2022 over the prior year period primarily due to an increase in turnover costs, a decrease in rebates and increased
+    uninsured losses in the current year period.
+(5) Utilities represents aggregate utility costs, net of resident reimbursements. The increases for the three and six months ended June 30, 2022 over the prior year periods are
+    primarily due to increased costs for water and sewer, net of resident reimbursements, gas and electricity consumption and rates, a refund for water and sewer in the prior year
+    periods not present in the current year periods, trash removal as well as costs associated with the Company’s implementation of a bulk internet offering at its communities.
+(6) Office operations includes administrative costs, legal and eviction costs, land lease expense and association and license fees. The increases for the three and six months ended
+    June 30, 2022 over the prior year periods are primarily due to bad debt expense associated with amounts due from residents for utility reimbursements, damage receipts and
+    other related items and government licenses and gross receipts taxes in Northern California.
+(7) Insurance is composed of premiums, expected claims activity and associated reductions from receipt of claims recoveries. The increases for the three and six months ended
+    June 30, 2022 over the prior year periods are primarily due to increased property insurance premiums and the timing of claims. Insurance costs can be variable due to the
+    amounts and timing of estimated and actual claim activity and the related recoveries received.
+
+
+
+
+                                                                                             15
+Attachment 8
+                                                                                  AvalonBay Communities, Inc.
+                                                          Expensed Community Maintenance Costs and Capitalized Community Expenditures
+                                                                                           June 30, 2022
+                                                                           (Dollars in thousands except per home data)
+                                                                                            (unaudited)
+                                                                       YTD 2022 Maintenance                                                                  Categorization of YTD 2022
+                                                                        Expensed Per Home                                                                   Additional Capitalized Value (2)
+                                                                                                                       Acquisitions,
+                                                                                                                       Construction,                                              YTD 2022
+                                                                                Other                                 Redevelopment               NOI                            Additional           NOI             Asset
+                                      Apartment         Carpet               Maintenance                              & Dispositions           Enhancing          Asset          Capitalized       Enhancing       Preservation
+Current Communities                   Homes (1)       Replacement                (3)                    Total               (4)                   (5)          Preservation        Value           Per Home         Per Home
+
+
+Same Store                                 70,347     $           53         $        1,322         $      1,375      $         27,967 (6) $       12,629      $      50,162     $    90,758       $       180     $         713
+Other Stabilized                            6,617                 18                  1,070                1,088               168,697 (7)            82                 403         169,182       $         12    $          61
+Development/Redevelopment (8)               8,063                 11                    365                  376               377,190                 —                  —          377,190                 —                —
+Dispositions (9)                                —                 —                      —                      —             (183,295)                —                  —          (183,295)               —                —
+
+     Total                                 85,027     $           47         $        1,212         $      1,259      $        390,559         $   12,711      $      50,565     $   453,835                N/A              N/A
+
+
+ (1) Includes consolidated communities and excludes communities that have been sold or that are classified as held for sale.
+                                                                                                                                                                                               Other Capitalized Costs
+ (2) Expenditures are capitalized for the acquisition or development of new assets or expenditures that extend the life of existing assets that will
+     benefit the Company for periods greater than a year.                                                                                                                                               Interest       Overhead
+ (3) Other maintenance includes maintenance, landscaping and redecorating costs, as well as maintenance related payroll expense.                                                  Q2 2022           $        8,193 $      13,417
+ (4) Includes the write-off of impaired assets and additional capitalized expenditures related to recognized casualty losses, if applicable.                                      Q1 2022           $        7,100 $      12,088
+ (5) This Attachment excludes capitalized expenditures for the commercial component of communities, which the Company classifies as NOI                                           Q4 2021           $        7,664 $      11,447
+     Enhancing. Same Store and Other Stabilized exclude $303 and $775, respectively, related to commercial space.
+                                                                                                                                                                                  Q3 2021           $        7,862 $      10,983
+ (6) Consists primarily of expenditures for communities under redevelopment that have remained in Same Store with stabilized occupancy.
+ (7) Represents acquired communities coupled with commitment close-outs and construction true-ups on recently constructed communities.
+ (8) Includes communities that were under construction/reconstruction during the period, including communities where construction/reconstruction has
+     been completed.
+ (9) Includes The Park Loggia condominium sales.
+
+
+
+
+                                                                                                                16
+Attachment 9
+                                                                              AvalonBay Communities, Inc.
+                                                                       Development Communities as of June 30, 2022
+                                                                                      (unaudited)
+
+                           Community Information                        Number             Total                        Schedule                                      %           %             %           %
+                                                                             of           Capital                                        Full Qtr    Avg Rent      Complete    Leased    Occupied        Economic
+                                                                             Apt           Cost                   Initial               Stabilized       Per                                               Occ.
+      Development Name                                    Location          Homes        (millions)     Start    Occupancy   Complete     Ops            Home             As of July 13, 2022             Q2 '22
+
+
+        Communities Under Construction:
+
+ 1.     Avalon Harrison (1)                        Harrison, NY               143    $          93     Q4 2018   Q3 2021     Q1 2023    Q3 2023      $     3,910     58 %         57 %          57 %         54 %
+
+ 2.     Avalon Harbor Isle                         Island Park, NY            172               92     Q4 2020   Q2 2022     Q4 2022    Q2 2023            4,725     29 %         34 %          21 %         10 %
+
+ 3.     Avalon Somerville Station                  Somerville, NJ             374             118      Q4 2020   Q2 2022     Q3 2023    Q1 2024            3,040     12 %         22 %              9%          3%
+
+ 4.     Avalon North Andover (2)                   North Andover, MA          221               78     Q2 2021   Q4 2022     Q3 2023    Q4 2023            2,505     —            —             —            —
+
+ 5.     Avalon Brighton                            Boston, MA                 180               89     Q2 2021   Q1 2023     Q2 2023    Q4 2023            3,315     —            —             —            —
+
+ 6.     Avalon Merrick Park                        Miami, FL                  254             101      Q2 2021   Q1 2023     Q2 2023    Q4 2023            2,835     —            —             —            —
+
+ 7.     Avalon Amityville I                        Amityville, NY             338             131      Q2 2021   Q3 2023     Q2 2024    Q1 2025            3,110     —            —             —            —
+
+ 8.     Avalon Bothell Commons I                   Bothell, WA                467             235      Q2 2021   Q3 2023     Q2 2024    Q1 2025            2,965     —            —             —            —
+
+ 9.     Avalon Westminster Promenade               Westminster, CO            312             110      Q3 2021   Q4 2023     Q1 2023    Q3 2024            2,130     —            —             —            —
+
+ 10.    Avalon West Dublin                         Dublin, CA                 499             270      Q3 2021   Q4 2023     Q1 2025    Q2 2025            3,245     —            —             —            —
+
+ 11.    Avalon Princeton Circle                    Princeton, NJ              221               84     Q4 2021   Q1 2023     Q4 2023    Q1 2024            3,565     —            —             —            —
+
+ 12.    Avalon Montville                           Montville, NJ              349             127      Q4 2021   Q3 2023     Q3 2024    Q4 2024            2,895     —            —             —            —
+
+ 13.    Avalon Redmond Campus (3)                  Redmond, WA                214               80     Q4 2021   Q3 2023     Q1 2024    Q2 2024            2,795     —            —             —            —
+
+ 14.    Avalon Governor's Park                     Denver, CO                 304             135      Q1 2022   Q2 2024     Q3 2024    Q1 2025            2,690     —            —             —            —
+
+ 15.    Avalon West Windsor (1)                    West Windsor, NJ           535             201      Q2 2022   Q3 2024     Q4 2025    Q2 2026            2,995     —            —             —            —
+
+ 16.    Avalon Durham                              Durham, NC                 336             125      Q2 2022   Q2 2024     Q3 2024    Q2 2025            2,270     —            —             —            —
+
+        Total / Weighted Average Under Construction                          4,919   $      2,069                                                    $     2,985
+
+
+        Communities Completed this Quarter:
+
+ 1.     Avalon Brea Place                          Brea, CA                   653    $        293      Q2 2019   Q1 2021     Q2 2022    Q4 2022      $     3,105    100 %         80 %          75 %         67 %
+ 2.     AVA RiNo                                   Denver, CO                 246               87     Q4 2019   Q4 2021     Q2 2022    Q4 2022            2,465    100 %         96 %          82 %         60 %
+
+        Communities Completed Subtotal/Weighted Average                       899    $        380                                                    $     2,930
+
+
+        Total/Weighted Average Under Construction and Completed
+        this quarter                                                         5,818   $      2,449                                                    $    2,975
+
+
+        Total Weighted Average Projected NOI as a % of Total Capital Cost                      5.8 %
+
+
+
+ Asset Cost Basis (millions) (4):
+
+        Total Capital Cost, under construction and completed                         $        2,806
+
+        Total Capital Cost, disbursed to date                                                (1,475)
+
+        Total Capital Cost, remaining to invest                                      $        1,331
+
+(1) Developments containing at least 10,000 square feet of commercial space include Avalon Harrison (27,000 sf) and Avalon West Windsor (19,000 sf).
+
+(2) During Q2 2022, the Company expanded its existing Development community, Avalon North Andover, adding 51 apartment homes at an incremental estimated Total Capital Cost
+    of $22 million.
+
+(3) Avalon Redmond Campus is a densification of the Company's existing eaves Redmond Campus wholly-owned community, where 48 existing older apartment homes were
+    demolished and will be replaced by a new Avalon branded 214 apartment home community. As a densification, this community is excluded from the weighted average projected
+    NOI as a % of Total Capital Cost.
+(4) Includes the communities presented and three additional communities with 1,187 apartment homes representing $357 million in Total Capital Costs which completed
+    construction but did not achieve Stabilized Operations as of June 30, 2022. Q2 2022 total NOI for these 21 communities was $9 million.
+
+
+
+
+                                                                                                        17
+Attachment 10
+                                                                                     AvalonBay Communities, Inc.
+                                                                                 Unconsolidated Real Estate Investments
+                                                                                             June 30, 2022
+                                                                                          (Dollars in thousands)
+                                                                                               (unaudited)
+                                                                                             Operating Communities
+
+                                                                                                                                                                 NOI (1)(2)                                    Debt
+                                                                                                                     AVB          Apartment                Q2                    YTD               Principal          Interest
+                                            Venture                                               Communities    Ownership          Homes                 2022                  2022            Amount (1)            Rate (3)
+
+NYTA MF Investors LLC                                                                                  5                20.0 %         1,301        $           9,666   $         18,960       $     395,399              3.88 %
+Archstone Multifamily Partners AC LP (the "U.S. Fund") (4)                                             3                28.6 %           671                    3,143              6,102             115,603              3.65 %
+MVP I, LLC                                                                                             1                25.0 %              313                 2,000               3,926            103,000              3.24 %
+Brandywine Apartments of Maryland, LLC                                                                 1                28.7 %           305                 1,122                 1,753              20,058              3.40 %
+      Total Unconsolidated Real Estate Investments                                                    10                               2,590        $       15,931      $         30,741       $     634,060              3.72 %
+
+
+                                                                                            Development Communities
+                                                                          Projected                                                                                     %               %                %                %
+                                                                              Total Capital                                                                       Complete             Leased        Occupied         Economic
+                                                       AVB       Apartment           Cost                         Initial                         Avg Rent                             As of                             Occ.
+          Venture                    Location       Ownership     Homes          (millions) (1)      Start      Occupancy        Complete         Per Home                      As of July 13, 2022                     Q2 '22
+
+
+Under Construction:
+Arts District Joint Venture (5)   Los Angeles, CA       25.0 %        475    $              276      Q3 2020       Q1 2023        Q4 2023     $         3,360               —               —                —                —
+
+
+Completed this Quarter:
+Avalon Alderwood MF, LLC          Lynnwood, WA          50.0 %        328    $              110      Q4 2019       Q4 2021        Q2 2022     $         2,565           100 %               84 %             80 %             58 %
+Total/Weighted Average Under Construction and Completed this
+quarter                                                               803    $              386                                               $         3,035
+
+
+(1)   NOI, debt principal amount and projected Total Capital Cost are presented at 100% ownership.
+(2)   NOI excludes property management fees as the Company serves as the property management company for all ventures except Brandywine Apartments of Maryland, LLC.
+(3)   Represents the weighted average interest rate as of June 30, 2022.
+(4)   In July 2022, the U.S. Fund sold Avalon Grosvenor Tower containing 237 apartment homes for a sales price of $95,250, using a portion of the proceeds to repay $39,060 principal amount of
+      3.74% fixed rate debt secured by Avalon Grosvenor Tower, at par.
+(5)   This development is expected to include 56,000 square feet of commercial space. The Company has funded its full equity commitment. The venture has secured a variable rate construction
+      loan with a maximum borrowing of $167,147 to fund the remaining development costs representing approximately 60% of Total Capital Cost, of which $37,947 has been drawn at June 30,
+      2022.
+
+
+
+
+                                                                                                        18
+Attachment 11
+                                                          AvalonBay Communities, Inc.
+                                                      Debt Structure and Select Debt Metrics
+                                                                  June 30, 2022
+                                                               (Dollars in thousands)
+                                                                    (unaudited)
+
+                                                       DEBT COMPOSITION AND MATURITIES
+
+                                                                                         Principal Amortization Payments and Maturities (2)
+                                                               Average                           Secured notes     Unsecured
+                                                               Interest                           amortization       notes
+ Debt Composition                           Amount             Rate (1)                 Year     and maturities    maturities        Total
+ Secured notes                                                                       2022       $         1,837 $             — $         1,837
+  Fixed rate                           $        305,953              3.7 %           2023                 8,999         600,000        608,999
+  Variable rate                                 458,050              2.5 %           2024                 9,837         450,000        459,837
+  Subtotal, secured notes                       764,003              3.0 %           2025                10,478         825,000        835,478
+                                                                                     2026                11,420         775,000        786,420
+ Unsecured notes                                                                     2027              249,865          400,000        649,865
+  Fixed rate                                  7,150,000              3.2 %           2028                18,512         850,000        868,512
+  Variable rate                                 150,000              2.1 %           2029                75,712         450,000        525,712
+  Subtotal, unsecured notes                   7,300,000              3.2 %           2030                10,014         700,000        710,014
+                                                                                     2031                10,669         600,000        610,669
+ Variable rate facility (3)                          —                —%             Thereafter        356,660        1,650,000      2,006,660
+ Commercial Paper (3)                                —                —%                        $      764,003 $      7,300,000 $    8,064,003
+ Total Debt                            $      8,064,003              3.2 %
+
+                                                                 SELECT DEBT METRICS
+
+Q2 2022                                    Q2 2022                            YTD 2022
+Net Debt-to-Core                           Interest                           Unencumbered                              Weighted avg years to
+EBITDAre (4)                  4.9x         Coverage (4)         7.0x          NOI (4)                     95%           maturity of total debt (2)          8.4
+
+                                                            DEBT COVENANT COMPLIANCE
+
+Unsecured Line of Credit Covenants                                                                          June 30, 2022                  Requirement
+
+   Total Outstanding Indebtedness to Capitalization Value (5)                                                         29.2 %                     < 65%
+   Combined EBITDA to Combined Debt Service                                                                            5.83x                     > 1.50x
+   Unsecured Indebtedness to Unencumbered Asset Value                                                                 27.2 %                     < 65%
+   Secured Indebtedness to Capitalization Value (5)                                                                    3.2 %                     < 40%
+
+Unsecured Senior Notes Covenants (6)                                                                        June 30, 2022                  Requirement
+
+   Total Outstanding Indebtedness to Total Assets (7)                                                                31.8 %                      < 65%
+   Secured Indebtedness to Total Assets (7)                                                                           2.9 %                      < 40%
+   Unencumbered Assets to Unsecured Indebtedness                                                                    327.4 %                      > 150%
+   Consolidated Income Available for Debt Service to the Annual Service Charge                                        6.52x                      > 1.50x
+(1) Rates are as of June 30, 2022 and, for secured and unsecured notes, include costs of financing such as credit enhancement fees, trustees' fees, the impact of
+    interest rate hedges and mark-to-market adjustments.
+(2) Excludes the Company's (i) unsecured credit facility, (ii) commercial paper program and (iii) any associated issuance discount, mark-to-market discounts and
+    deferred financing costs, if applicable.
+(3) Represents amounts outstanding at June 30, 2022 under the Company's (i) $1.75 billion unsecured credit facility and (ii) $500 million unsecured commercial
+    paper program, which is backstopped by, and reduces the borrowing capacity of, the unsecured credit facility. As of the date of this release, the Company had
+    $175,000,000 outstanding under its commercial paper program.
+(4) See Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms.
+(5) Capitalization Value represents the Company’s Combined EBITDA for operating communities that the Company has owned for at least 12 months as of
+    June 30, 2022, capitalized at a rate of 6% per annum, plus the book value of Development communities and real estate communities acquired. For discussion
+    of other defined terms, see "Debt Covenant Compliance" in Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures and Other
+    Terms.
+(6) The information about the Company’s unsecured senior notes covenants shows compliance with selected covenants under the Company’s 1998 Indenture,
+    under which debt securities are outstanding with maturity dates through 2047, subject to prepayment or redemption at the Company’s election. See “Debt
+    Covenant Compliance” in Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms. Different covenants apply to debt
+    securities outstanding under the Company’s 2018 Indenture.
+(7) Total Assets represents the sum of the Company's undepreciated real estate assets and other assets, excluding accounts receivable. See "Debt Covenant
+    Compliance" in Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms.
+
+
+
+
+                                                                               19
+Attachment 12
+                                                               AvalonBay Communities, Inc.
+                                                                   2022 Financial Outlook
+                                                                     As of July 27, 2022
+                                             (dollars in millions, except per share and apartment home data)
+                                                                         (unaudited)
+
+                                                                         Key Outputs (1)
+
+
+                                                    Full Year                   Full Year 2022 Projected                     Full Year 2022 Projected
+                                                  2021 Actual                   February 2022 Outlook                           July 2022 Outlook
+      EPS                                            $7.19                    $6.56       to       $7.06                    $7.53       to      $7.73
+      FFO per share                                   $8.13                   $9.28        to       $9.78                   $9.74        to       $9.94
+      Core FFO per share                              $8.26                   $9.30        to       $9.80                   $9.76        to       $9.96
+
+
+
+Assumptions                                                                             Key Capital Items
+                                                   Full Year 2022 Projected                                                           Full Year 2022 Projected
+
+                                             February 2022           July 2022                                                      February 2022     July 2022
+                                                Outlook               Outlook                                                          Outlook         Outlook
+ Same Store assumptions:
+                                                                                        New capital sourced from asset and              $880              $900
+ Residential revenue change                 7.25% to 9.25%       10.75% to 11.75%       condominium sales and capital
+ Residential Opex change                    4.0% to 5.5%          4.5% to 5.5%          markets activity
+ Residential NOI change                     8.5% to 11.5%        13.5% to 15.0%
+                                                                                        Capital used for debt redemptions and           $140              $290
+                                                                                        amortization
+
+                                             February 2022           July 2022
+                                                Outlook               Outlook
+Capitalized interest                          $32 to $42             $32 to $36
+                                                                                        Capital used for development and
+                                                                                        redevelopment activity, including land         $1,080             $920
+Expected capital cost for Development:
+ Started in 2022                           $1,050 to $1,250         $750 to $950
+ Completed in 2022                               $777                  $692
+
+Development homes completed and
+delivered in 2022                                 1,300                 1,350
+
+Development homes occupied in 2022                1,525                 1,550
+
+2022 Projected NOI - Development                $37 to $47           $40 to $44
+
+
+Expensed overhead (2)                          $179 to $189         $188 to $192
+Expensed overhead, included in Core
+FFO (2)                                       $176 to $186          $188 to $192
+
+
+
+(1)   See Attachment 13 for Definitions and Reconciliations of Non-GAAP Financial Measures, including the reconciliation of Projected EPS to Projected FFO per share
+      and Projected FFO per share to Projected Core FFO per share and the reconciliation of net income to NOI.
+(2)   Expensed overhead includes general and administrative expense, property management and other indirect operating expenses. Expensed overhead, included in
+      Core FFO, represents expensed overhead adjusted to remove the impact of executive transition compensation costs as well as legal and other settlements as
+      detailed on Attachment 13, Table 3.
+
+
+
+
+                                                                                  20
+Attachment 13
+
+                                              AvalonBay Communities, Inc.
+                    Definitions and Reconciliations of Non-GAAP Financial Measures and Other Terms
+                                                       June 30, 2022
+                                                        (unaudited)
+
+This release, including its attachments, contains certain non-GAAP financial measures and other terms. The definitions and
+calculations of these non-GAAP financial measures and other terms may differ from the definitions and methodologies used by
+other REITs and, accordingly, may not be comparable. The non-GAAP financial measures referred to below should not be
+considered an alternative to net income as an indication of our performance. In addition, these non-GAAP financial measures do
+not represent cash generated from operating activities in accordance with GAAP and therefore should not be considered as an
+alternative measure of liquidity or as indicative of cash available to fund cash needs.
+
+Asset Preservation Capex represents capital expenditures that the Company does not expect will directly result in increased
+revenue or expense savings.
+
+Average Rent per Home, as calculated for certain Development communities in lease-up, reflects management’s projected
+stabilized rents net of estimated stabilized concessions, including estimated stabilized other rental revenue and excluding
+projected commercial revenue. Projected stabilized rents are based on one or more of the following: (i) actual average leased
+rents on apartments leased through quarter end, (ii) projected rollover rents on apartments leased through quarter end where the
+lease term expires within the first twelve months of Stabilized Operations and (iii) Market Rents on unleased homes.
+
+Average Rental Rates are calculated by the Company as Residential rental revenue in accordance with GAAP, divided by the
+weighted average number of occupied apartment homes.
+
+Commercial represents results attributable to the non-apartment components of the Company's mixed-use communities and
+other non-residential operations.
+
+Debt Covenant Compliance ratios for the Unsecured Line of Credit Covenants show the Company's compliance with selected
+covenants provided in the Company’s Fifth Amended and Restated Revolving Loan Agreement dated as of February 28, 2019
+and the Company’s Amended and Restated Term Loan Agreement dated February 28, 2019, which have been filed as exhibits to
+the Company’s SEC reports. The ratios for the Unsecured Senior Notes Covenants show only the Company's compliance with
+selected covenants provided in the Company’s Indenture dated as of January 16, 1998, as supplemented by the First
+Supplemental Indenture dated as of January 20, 1998, Second Supplemental Indenture dated as of July 7, 1998, Amended and
+Restated Third Supplemental Indenture dated as of July 20, 2000, Fourth Supplemental Indenture dated as of September 18,
+2006 and Fifth Supplemental Indenture dated as of November 21, 2014 (collectively, the “1998 Indenture"), which have been
+filed as exhibits to the Company’s SEC reports. Different covenants apply to debt securities outstanding under the Company’s
+Indenture dated as of February 23, 2018, as supplemented by the First Supplemental Indenture dated as of March 26, 2018 and
+the Second Supplemental Indenture dated as of May 29, 2018 (collectively, the “2018 Indenture”), which have been filed as
+exhibits to the Company's SEC reports. Compliance with selected covenants under the 2018 Indenture is excluded from the
+presentation of Debt Covenant Compliance in this release.
+
+The Debt Covenant Compliance ratios are provided only to show the Company’s compliance with certain covenants contained in
+the 1998 Indenture governing a majority of the Company's unsecured debt securities and in the Company’s Credit Facility and
+Term Loans, as of the date reported. These ratios should not be used for any other purpose, including without limitation to
+evaluate the Company’s financial condition or results of operations, nor do they indicate the Company’s covenant compliance as
+of any other date or for any other period. The capitalized terms in the disclosure are defined in the Indenture or the Credit Facility
+and the Term Loans, and may differ materially from similar terms (a) used elsewhere in this release and the Attachments and (b)
+used by other companies that present information about their covenant compliance. For risks related to failure to comply with
+these covenants, see “Risk Factors – Risks related to indebtedness” and other risks discussed in the Company’s 2021 Annual
+Report on Form 10-K and the Company’s other reports filed with the SEC.
+
+
+
+
+                                                                 21
+Attachment 13
+
+Development is composed of consolidated communities that are either currently under construction, or were under construction
+and were completed during the current year. These communities may be partially or fully complete and operating.
+
+Development Rights are development opportunities in the early phase of the development process for which the Company either
+has an option to acquire land or enter into a leasehold interest, for which the Company is the buyer under a long-term conditional
+contract to purchase land, where the Company controls the land through a ground lease or owns land to develop a new
+community, or where the Company is the designated developer in a public-private partnership. The Company capitalizes related
+pre-development costs incurred in pursuit of new developments for which the Company currently believes future development is
+probable.
+
+EBITDA, EBITDAre and Core EBITDAre are considered by management to be supplemental measures of our financial
+performance. EBITDA is defined by the Company as net income or loss attributable to the Company computed in accordance
+with GAAP before interest expense, income taxes, depreciation and amortization. EBITDAre is calculated by the Company in
+accordance with the definition adopted by the Board of Governors of the National Association of Real Estate Investment Trusts
+(“Nareit”), as EBITDA plus or minus losses and gains on the disposition of depreciated property, plus impairment write-downs of
+depreciated property, with adjustments to reflect the Company's share of EBITDAre of unconsolidated entities. Core EBITDAre is
+the Company’s EBITDAre as adjusted for non-core items outlined in the table below. By further adjusting for items that are not
+considered part of the Company’s core business operations, Core EBITDAre can help one compare the core operating and
+financial performance of the Company between periods. A reconciliation of EBITDA, EBITDAre and Core EBITDAre to net
+income is as follows (dollars in thousands):
+
+        TABLE 1
+                                                                                                                              Q2
+                                                                                                                             2022
+         Net income                                                                                                  $          138,566
+         Interest expense and loss on extinguishment of debt                                                                     57,014
+         Income tax benefit                                                                                                        (159)
+         Depreciation expense                                                                                                   199,302
+         EBITDA                                                                                                      $          394,723
+
+         Gain on sale of communities                                                                                                (404)
+         Unconsolidated entity EBITDAre adjustments (1)                                                                            3,081
+         EBITDAre                                                                                                    $           397,400
+
+         Unconsolidated entity gains, net                                                                                         (2,040)
+         Structured Investment Program loan reserve                                                                                1,608
+         Advocacy contributions                                                                                                      384
+         Loss on interest rate contract                                                                                              297
+         Executive transition compensation costs                                                                                     407
+         Severance related costs                                                                                                      24
+         Development pursuit write-offs and expensed transaction costs, net of recoveries                                          1,839
+         Gain on for-sale condominiums                                                                                              (467)
+         For-sale condominium marketing, operating and administrative costs                                                          538
+         Gain on other real estate transactions, net                                                                                 (43)
+         Legal settlements                                                                                                           129
+         Core EBITDAre                                                                                               $           400,076
+
+        (1) Includes joint venture interest, taxes, depreciation, gain on dispositions of depreciated real estate and impairment losses, if
+        applicable, included in net income.
+
+
+
+
+                                                                        22
+Attachment 13
+
+Economic Gain is calculated by the Company as the gain on sale in accordance with GAAP, less accumulated depreciation
+through the date of sale and any other adjustments that may be required under GAAP accounting. Management generally
+considers Economic Gain to be an appropriate supplemental measure to gain on sale in accordance with GAAP because it helps
+investors to understand the relationship between the cash proceeds from a sale and the cash invested in the sold community.
+The Economic Gain for disposed communities is based on their respective final settlement statements. A reconciliation of the
+aggregate Economic Gain to the aggregate gain on sale in accordance with GAAP for the wholly-owned communities disposed
+of during the six months ended June 30, 2022 is as follows (dollars in thousands):
+
+         TABLE 2
+                                                                                                          YTD 2022
+         GAAP Gain                                                                                    $        148,708
+
+         Accumulated Depreciation and Other                                                                     (28,904)
+
+         Economic Gain                                                                                $         119,804
+
+
+
+
+Economic Occupancy is defined as total possible Residential revenue less vacancy loss as a percentage of total possible
+Residential revenue. Total possible Residential revenue (also known as “gross potential”) is determined by valuing occupied units
+at contract rates and vacant units at Market Rents. Vacancy loss is determined by valuing vacant units at current Market
+Rents. By measuring vacant apartments at their Market Rents, Economic Occupancy takes into account the fact that apartment
+homes of different sizes and locations within a community have different economic impacts on a community’s gross revenue.
+
+FFO and Core FFO are considered by management to be supplemental measures of our operating and financial performance.
+FFO is calculated by the Company in accordance with the definition adopted by Nareit. FFO is calculated by the Company as
+Net income or loss attributable to common stockholders computed in accordance with GAAP, adjusted for gains or losses on
+sales of previously depreciated operating communities, cumulative effect of a change in accounting principle, impairment write-
+downs of depreciable real estate assets, write-downs of investments in affiliates which are driven by a decrease in the value of
+depreciable real estate assets held by the affiliate and depreciation of real estate assets, including adjustments for
+unconsolidated partnerships and joint ventures. By excluding gains or losses related to dispositions of previously depreciated
+operating communities and excluding real estate depreciation (which can vary among owners of identical assets in similar
+condition based on historical cost accounting and useful life estimates), FFO can help one compare the operating and financial
+performance of a company’s real estate between periods or as compared to different companies. Core FFO is the Company's
+FFO as adjusted for non-core items outlined in the table below. By further adjusting for items that are not considered by us to be
+part of our core business operations, Core FFO can help one compare the core operating and financial performance of the
+Company between periods. A reconciliation of Net income attributable to common stockholders to FFO and to Core FFO is as
+follows (dollars in thousands):
+
+
+
+
+                                                               23
+Attachment 13
+
+TABLE 3
+                                                                                      Q2                 Q2                YTD                YTD
+                                                                                     2022               2021               2022               2021
+Net income attributable to common stockholders                                 $      138,691     $      447,953     $      400,735     $      590,176
+ Depreciation - real estate assets, including joint venture adjustments               198,493            183,257            399,145            365,571
+ Distributions to noncontrolling interests                                                 12                 12                 24                 24
+ Gain on sale of unconsolidated entities holding previously depreciated
+ real estate                                                                               —              (23,305)                —             (23,305)
+ Gain on sale of previously depreciated real estate                                      (404)           (334,569)          (149,204)          (388,296)
+ Casualty and impairment loss on real estate                                               —                1,177                 —               1,177
+FFO attributable to common stockholders                                               336,792             274,525            650,700            545,347
+
+
+Adjusting items:
+ Unconsolidated entity gains, net (1)                                                   (2,040)            (2,233)            (2,295)            (2,132)
+ Structured Investment Program loan reserve (2)                                          1,608                 —               1,608                 —
+ Gain on extinguishment of consolidated debt                                                —                  —                  —                (122)
+ Loss (gain) on interest rate contract                                                    297                 —                 (432)            (2,654)
+ Advocacy contributions                                                                   384                 —                  534                 —
+ Executive transition compensation costs                                                  407                407                 809              2,188
+ Severance related costs                                                                   24                102                  65                102
+ Development pursuit write-offs and expensed transaction costs, net of
+ recoveries                                                                             1,839                527              1,998                302
+ Gain on for-sale condominiums (3)                                                       (467)              (575)            (1,469)              (706)
+ For-sale condominium marketing, operating and administrative costs (3)                   538              1,222              1,304              2,266
+ For-sale condominium imputed carry cost (4)                                              716              1,979              1,635              4,131
+ Gain on other real estate transactions, net                                              (43)               (32)               (80)              (459)
+ Legal settlements                                                                        129              1,018                259              1,078
+ Income tax (benefit) expense (5)                                                        (159)                10              2,312               (745)
+Core FFO attributable to common stockholders                                   $      340,025 $          276,950 $          656,948 $          548,596
+
+
+Average shares outstanding - diluted                                               139,934,478        139,650,639        139,955,280        139,601,526
+
+
+Earnings per share - diluted                                                   $          0.99    $          3.21    $          2.86    $          4.23
+FFO per common share - diluted                                                 $          2.41    $          1.97    $          4.65    $          3.91
+Core FFO per common share - diluted                                            $          2.43    $          1.98    $          4.69    $          3.93
+
+
+(1) Amounts for the three and six months ended June 30, 2022 include unrealized gains of $2,040 on property technology investments.
+Amounts for the three and six months ended June 30, 2021 include unrealized gains of $3,272 on property technology investments, partially
+offset by the write-off of asset management fee intangibles associated with the disposition of the final two Archstone Multifamily Partners AC JV
+LP communities.
+(2) Amounts represent the expected credit losses associated with the Company's lending commitments under its Structured Investment
+Program. The timing and amount of any actual losses that will be incurred, if any, is to be determined.
+(3) Aggregate impact of (i) Gain on for-sale condominiums and (ii) For-sale condominium marketing, operating and administrative costs, is a net
+expense of $71 for Q2 2022 and net gain of $165 for YTD 2022 and a net expense of $647 for Q2 2021 and $1,560 for YTD 2021, respectively,
+as shown on Attachment 1 - Condensed Consolidated Operating Information.
+(4) Represents the imputed carry cost of the for-sale residential condominiums at The Park Loggia. The Company computes this adjustment by
+multiplying the Total Capital Cost of completed and unsold for-sale residential condominiums by the Company's weighted average unsecured
+debt effective interest rate.
+(5) YTD 2022 income tax expense is the recognition of taxes primarily associated with The Park Loggia.
+
+
+
+
+                                                                          24
+Attachment 13
+
+Interest Coverage is calculated by the Company as Core EBITDAre divided by interest expense. Interest Coverage is presented
+by the Company because it provides rating agencies and investors an additional means of comparing our ability to service debt
+obligations to that of other companies. A calculation of Interest Coverage for the three months ended June 30, 2022 is as follows
+(dollars in thousands):
+
+             TABLE 4
+
+
+               Core EBITDAre (1)                                                                      $         400,076
+
+               Interest expense (2)                                                                   $           57,014
+
+               Interest Coverage                                                                                7.0 times
+
+             (1) For additional detail, see Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures
+             and Other Terms, table 1.
+             (2) Excludes the impact of loss on interest rate contract.
+
+
+
+
+Like-Term Effective Rent Change represents the percentage change in effective rent between two leases of the same lease term
+category for the same apartment. The Company defines effective rent as the contractual rent for an apartment less amortized
+concessions and discounts. Average Like-Term Effective Rent Change is weighted based on the number of leases meeting the
+criteria for new move-in and renewal like-term effective rent change. New Move-In Like-Term Effective Rent Change is the
+change in effective rent between the contractual rent for a resident who moves out of an apartment, and the contractual rent for a
+resident who moves into the same apartment with the same lease term category. Renewal Like-Term Effective Rent Change is
+the change in effective rent between two consecutive leases of the same lease term category for the same resident occupying
+the same apartment.
+
+Market Cap Rate is defined by the Company as Projected NOI of a single community for the first 12 months of operations
+(assuming no repositioning), less estimates for non-routine allowance of approximately $300 - $500 per apartment home, divided
+by the gross sales price for the community. Projected NOI, as referred to above, represents management’s estimate of projected
+rental revenue minus projected operating expenses before interest, income taxes (if any), depreciation and amortization. For this
+purpose, management’s projection of operating expenses for the community includes a management fee of 2.25%. The Market
+Cap Rate, which may be determined in a different manner by others, is a measure frequently used in the real estate industry
+when determining the appropriate purchase price for a property or estimating the value for a property. Buyers may assign
+different Market Cap Rates to different communities when determining the appropriate value because they (i) may project
+different rates of change in operating expenses and capital expenditure estimates and (ii) may project different rates of change in
+future rental revenue due to different estimates for changes in rent and occupancy levels. The weighted average Market Cap
+Rate is weighted based on the gross sales price of each community.
+
+Market Rents as reported by the Company are based on the current market rates set by the Company based on its experience in
+renting apartments and publicly available market data. Market Rents for a period are based on the average Market Rents during
+that period and do not reflect any impact for cash concessions.
+
+
+
+
+                                                                  25
+Attachment 13
+
+Net Debt-to-Core EBITDAre is calculated by the Company as total debt (secured and unsecured notes, and the Company's
+variable rate unsecured credit facility and commercial paper program) that is consolidated for financial reporting purposes, less
+consolidated cash and cash in escrow, divided by annualized second quarter 2022 Core EBITDAre. A calculation of Net Debt-to-
+Core EBITDAre is as follows (dollars in thousands):
+
+             TABLE 5
+
+
+               Total debt principal (1)                                                               $       8,064,003
+               Cash and cash in escrow                                                                         (260,191)
+               Net debt                                                                               $       7,803,812
+
+               Core EBITDAre (2)                                                                      $         400,076
+
+               Core EBITDAre, annualized                                                              $       1,600,304
+
+               Net Debt-to-Core EBITDAre                                                                        4.9 times
+
+             (1) Balance at June 30, 2022 excludes $9,201 of debt discount and $38,014 of deferred financing costs as
+             reflected in unsecured notes, net, and $12,973 of debt discount and $2,622 of deferred financing costs as
+             reflected in notes payable on the Condensed Consolidated Balance Sheets.
+             (2) For additional detail, see Attachment 13 - Definitions and Reconciliations of Non-GAAP Financial Measures
+             and Other Terms, table 1.
+
+
+
+
+NOI is defined by the Company as total property revenue less direct property operating expenses (including property taxes), and
+excluding corporate-level income (including management, development and other fees), corporate-level property management
+and other indirect operating expenses, expensed transaction, development and other pursuit costs, net of recoveries, interest
+expense, net, loss (gain) on extinguishment of debt, net, general and administrative expense, income from investments in
+unconsolidated entities, depreciation expense, income tax (benefit) expense, casualty and impairment loss, gain on sale of
+communities, gain on other real estate transactions, net, net for-sale condominium activity and net operating income from real
+estate assets sold or held for sale. The Company considers NOI to be an important and appropriate supplemental performance
+measure to Net Income of operating performance of a community or communities because it helps both investors and
+management to understand the core operations of a community or communities prior to the allocation of any corporate-level
+property management overhead or financing-related costs. NOI reflects the operating performance of a community, and allows
+for an easier comparison of the operating performance of individual assets or groups of assets. In addition, because prospective
+buyers of real estate have different financing and overhead structures, with varying marginal impact to overhead as a result of
+acquiring real estate, NOI is considered by many in the real estate industry to be a useful measure for determining the value of a
+real estate asset or groups of assets.
+
+Residential NOI represents results attributable to the Company's apartment rental operations, including parking and other
+ancillary Residential revenue. A reconciliation of Residential NOI to Net Income, as well as a breakdown of Residential NOI by
+operating segment, is as follows (dollars in thousands):
+
+
+
+
+                                                                  26
+Attachment 13
+
+TABLE 6
+                                                                     Q2                Q2               Q1              Q4             YTD             YTD
+                                                                     2022             2021             2022            2021            2022            2021
+Net income                                                       $   138,566      $   447,977      $   262,076     $   335,298     $   400,642     $   590,211
+Property management and other indirect operating expenses,
+net of corporate income                                               30,632           24,318           28,113          24,555          58,745          48,788
+Expensed transaction, development and other pursuit costs, net
+of recoveries                                                            2,364           1,653               987          1,331           3,351           1,483
+Interest expense, net                                                 58,797           56,104           56,526          55,711         115,323         108,717
+Loss (gain) on extinguishment of debt, net                                —                —                —               19              —             (122)
+General and administrative expense                                    21,291            18,465          17,421          16,481          38,712           35,817
+Income from investments in unconsolidated entities                    (2,480)          (26,559)           (317)         (5,626)         (2,797)         (26,092)
+Depreciation expense                                                 199,302          184,472          201,786         197,036         401,088         367,769
+Income tax (benefit) expense                                            (159)              10            2,471           4,299           2,312            (745)
+Casualty and impairment loss                                                —            1,177               —                2              —            1,177
+Gain on sale of communities                                               (404)       (334,569)        (148,800)       (213,881)       (149,204)       (388,296)
+Gain on other real estate transactions, net                                (43)             (32)            (37)            (95)            (80)           (459)
+Net for-sale condominium activity                                           71              647            (236)           (425)           (165)          1,560
+NOI from real estate assets sold or held for sale                     (3,650)         (13,893)          (5,266)         (8,383)         (8,916)        (28,472)
+NOI                                                                  444,287          359,770          414,724         406,322         859,011         711,336
+
+
+Commercial NOI                                                        (7,763)          (5,620)          (8,320)         (8,045)        (16,083)        (10,931)
+Residential NOI                                                  $   436,524 $        354,150 $        406,404 $       398,277 $       842,928 $       700,405
+
+
+Residential NOI
+Same Store:
+    New England                                                  $    57,176      $    49,074      $    52,478     $    52,498     $   109,654     $    96,531
+    Metro NY/NJ                                                       78,483           68,069           74,707          74,329         153,190         136,536
+    Mid-Atlantic                                                      57,393           52,075           55,501          55,104         112,894         104,796
+    Southeast FL                                                       6,161            4,545            5,965           5,904          12,126           8,723
+    Denver, CO                                                         4,900            3,935            4,727           4,486           9,627           7,954
+    Pacific NW                                                        25,212           20,303           23,122          21,598          48,334          39,863
+    N. California                                                     71,439           64,371           67,807          67,052         139,246         129,418
+    S. California                                                     90,862           72,491           83,244          82,887         174,106         144,145
+        Total Same Store                                             391,626          334,863          367,551         363,858         759,177         667,966
+Other Stabilized                                                      30,973           14,716           26,846          25,081          57,819          24,527
+Development/Redevelopment                                             13,925            4,571           12,007           9,338          25,932           7,912
+Residential NOI                                                  $   436,524      $   354,150      $   406,404     $   398,277     $   842,928     $   700,405
+
+
+
+
+NOI as reported by the Company does not include the operating results from assets sold or classified as held for sale. A
+reconciliation of NOI from communities sold or classified as held for sale is as follows (dollars in thousands):
+
+TABLE 7
+                                                                          Q2              Q2              Q1             Q4             YTD            YTD
+                                                                         2022            2021            2022           2021            2022           2021
+
+Revenue from real estate assets sold or held for sale                $     5,699 $ 22,887 $                8,812 $ 13,891 $ 14,510 $ 47,165
+Operating expenses from real estate assets sold or held for sale          (2,049)  (8,994)                (3,546)  (5,508)  (5,594)  (18,693)
+ NOI from real estate assets sold or held for sale                   $     3,650 $ 13,893 $                5,266 $  8,383 $  8,916 $ 28,472
+
+
+
+
+                                                                          27
+Attachment 13
+
+Commercial NOI is composed of the following components (in thousands):
+
+TABLE 8
+                                                            Q2          Q2          Q1          Q4         YTD        YTD
+                                                           2022        2021        2022        2021        2022       2021
+
+Commercial Revenue                                     $     9,337 $     7,046 $   10,031 $      9,396 $   19,368 $    13,800
+Commercial Operating Expenses                               (1,574)     (1,426)    (1,711)      (1,351)    (3,285)     (2,869)
+ Commercial NOI                                        $     7,763 $     5,620 $    8,320 $      8,045 $   16,083 $    10,931
+
+
+
+
+NOI Enhancing Capex represents capital expenditures that the Company expects will directly result in increased revenue or
+expense savings, and excludes any capital expenditures for redevelopment.
+
+Other Stabilized is composed of completed consolidated communities that the Company owns, which have Stabilized Operations
+as of January 1, 2022, or which were acquired subsequent to January 1, 2021. Other Stabilized excludes communities that are
+conducting or are probable to conduct substantial redevelopment activities.
+
+Projected FFO and Projected Core FFO, as provided within this release in the Company’s outlook, are calculated on a basis
+consistent with historical FFO and Core FFO, and are therefore considered to be appropriate supplemental measures to
+projected Net Income from projected operating performance. A reconciliation of the ranges provided for Projected FFO per share
+(diluted) for the third quarter and full year 2022 to the ranges provided for projected EPS (diluted) and corresponding
+reconciliation of the ranges for Projected FFO per share to the ranges for Projected Core FFO per share are as follows:
+
+TABLE 9
+
+                                                                                                 Low               High
+                                                                                                Range             Range
+  Projected EPS (diluted) - Q3 2022                                                        $          3.48 $             3.58
+   Depreciation (real estate related)                                                                 1.42               1.42
+   Gain on sale of communities                                                                       (2.41)             (2.41)
+  Projected FFO per share (diluted) - Q3 2022                                                         2.49               2.59
+   Legal settlements                                                                                 (0.03)             (0.03)
+   Structured Investment Program loan reserve                                                         0.01               0.01
+  Projected Core FFO per share (diluted) - Q3 2022                                         $          2.47 $             2.57
+
+  Projected EPS (diluted) - Full Year 2022                                                 $           7.53 $            7.73
+   Depreciation (real estate related)                                                                  5.70              5.70
+   Gain on sale of communities                                                                        (3.49)            (3.49)
+  Projected FFO per share (diluted) - Full Year 2022                                                   9.74              9.94
+
+   Non-core transaction activity                                                                      (0.08)            (0.08)
+   Development pursuit write-offs and expensed transaction costs, net of recoveries                    0.02              0.02
+   Executive transition compensation costs                                                             0.01              0.01
+   Legal settlements                                                                                  (0.02)            (0.02)
+   Structured Investment Program loan reserve                                                          0.02              0.02
+   Income tax expense                                                                                  0.07              0.07
+  Projected Core FFO per share (diluted) - Full Year 2022                                  $           9.76 $            9.96
+
+
+
+
+                                                              28
+Attachment 13
+
+Projected NOI, as used within this release for certain Development communities and in calculating the Market Cap Rate for
+dispositions, represents management’s estimate, as of the date of this release (or as of the date of the buyer’s valuation in the
+case of dispositions), of projected stabilized rental revenue minus projected stabilized operating expenses. For Development
+communities, Projected NOI is calculated based on the first twelve months of Stabilized Operations following the completion of
+construction. In calculating the Market Cap Rate, Projected NOI for dispositions is calculated for the first twelve months following
+the date of the buyer’s valuation. Projected stabilized rental revenue represents management’s estimate of projected gross
+potential minus projected stabilized economic vacancy and adjusted for projected stabilized concessions plus projected
+stabilized other rental revenue. Projected stabilized operating expenses do not include interest, income taxes (if any),
+depreciation or amortization, or any allocation of corporate-level property management overhead or general and administrative
+costs. In addition, projected stabilized operating expenses for Development communities do not include property management
+fee expense. Projected gross potential for Development communities and dispositions is generally based on leased rents for
+occupied homes and management’s best estimate of rental levels for homes which are currently unleased, as well as those
+homes which will become available for lease during the twelve month forward period used to develop Projected NOI. The
+weighted average Projected NOI as a percentage of Total Capital Cost ("Weighted Average Initial Projected Stabilized Yield") is
+weighted based on the Company’s share of the Total Capital Cost of each community, based on its percentage ownership.
+
+Management believes that Projected NOI of the Development communities, on an aggregated weighted average basis, assists
+investors in understanding management's estimate of the likely impact on operations of the Development communities when the
+assets are complete and achieve stabilized occupancy (before allocation of any corporate-level property management overhead,
+general and administrative costs or interest expense). However, in this release the Company has not given a projection of NOI
+on a company-wide basis. Given the different dates and fiscal years for which NOI is projected for these communities, the
+projected allocation of corporate-level property management overhead, general and administrative costs and interest expense to
+communities under development is complex, impractical to develop, and may not be meaningful. Projected NOI of these
+communities is not a projection of the Company's overall financial performance or cash flow. There can be no assurance that the
+communities under development will achieve the Projected NOI as described in this release.
+
+Redevelopment is composed of consolidated communities where substantial redevelopment is in progress or is probable to
+begin during the current year. Redevelopment is considered substantial when (i) capital invested during the reconstruction effort
+is expected to exceed the lesser of $5,000,000 or 10% of the community’s pre-redevelopment basis and (ii) physical occupancy
+is below or is expected to be below 90% during or as a result of the redevelopment activity. Redevelopment includes two
+communities containing 1,058 apartment homes that are currently under active redevelopment as of June 30, 2022.
+
+Residential represents results attributable to the Company's apartment rental operations, including parking and other ancillary
+Residential revenue.
+
+Residential Rental Revenue with Concessions on a Cash Basis is considered by the Company to be a supplemental measure to
+Residential rental revenue in conformity with GAAP to help investors evaluate the impact of both current and historical
+concessions on GAAP-based Residential rental revenue and to more readily enable comparisons to revenue as reported by
+other companies. In addition, Residential Rental Revenue with Concessions on a Cash Basis allows an investor to understand
+the historical trend in cash concessions.
+
+A reconciliation of Same Store Residential rental revenue in conformity with GAAP to Residential Rental Revenue with
+Concessions on a Cash Basis is as follows (dollars in thousands):
+
+TABLE 10
+                                                          Q2                Q2                Q1            YTD             YTD
+                                                         2022              2021              2022           2022           2021
+  Residential rental revenue (GAAP basis)            $    561,681 $        497,284     $     534,796     $ 1,096,478 $     990,112
+  Residential concessions amortized                         5,200            16,948             8,288         13,488         31,987
+  Residential concessions granted                          (1,666)         (13,501)           (2,346)         (4,012)      (29,632)
+
+  Residential Rental Revenue with Concessions
+  on a Cash Basis                                    $    565,215    $     500,731     $     540,738     $ 1,105,954   $   992,467
+
+                                                                          Q2 2022           Q2 2022                      YTD 2022
+                                                                         vs. Q2 2021       vs. Q1 2022                 vs. YTD 2021
+  % change -- GAAP revenue                                                    12.9 %             5.0 %                       10.7 %
+
+  % change -- cash revenue                                                    12.9 %             4.5 %                       11.4 %
+
+
+
+
+                                                                29
+Attachment 13
+
+Same Store is composed of consolidated communities in the markets where the Company has a significant presence and where
+a comparison of operating results from the prior year to the current year is meaningful, as these communities were owned and
+had Stabilized Operations, as defined below, as of the beginning of the respective prior year period. Therefore, for 2022
+operating results, Same Store is composed of consolidated communities that have Stabilized Operations as of January 1, 2021,
+are not conducting or are not probable to conduct substantial redevelopment activities and are not held for sale or probable for
+disposition within the current year.
+
+Stabilized Operations/Restabilized Operations is defined as the earlier of (i) attainment of 90% physical occupancy or (ii) the
+one-year anniversary of completion of development or redevelopment.
+
+Total Capital Cost includes all capitalized costs projected to be or actually incurred to develop the respective Development or
+Redevelopment community, including land acquisition costs, construction costs, real estate taxes, capitalized interest and loan
+fees, permits, professional fees, allocated development overhead and other regulatory fees, offset by proceeds from the sale of
+any associated land or improvements, all as determined in accordance with GAAP. Total Capital Cost also includes costs
+incurred related to first generation commercial tenants, such as tenant improvements and leasing commissions. For
+Redevelopment communities, Total Capital Cost excludes costs incurred prior to the start of redevelopment when indicated. With
+respect to communities where development or redevelopment was completed in a prior or the current period, Total Capital Cost
+reflects the actual cost incurred, plus any contingency estimate made by management. Total Capital Cost for communities
+identified as having joint venture ownership, either during construction or upon construction completion, represents the total
+projected joint venture contribution amount. For joint ventures not in construction, Total Capital Cost is equal to gross real estate
+cost.
+
+Unconsolidated Development is composed of communities that are either currently under construction, or were under
+construction and were completed during the current year, in which we have an indirect ownership interest through our investment
+interest in an unconsolidated joint venture. These communities may be partially or fully complete and operating.
+
+Unencumbered NOI as calculated by the Company represents NOI generated by real estate assets unencumbered by
+outstanding secured notes payable as of June 30, 2022 as a percentage of total NOI generated by real estate assets. The
+Company believes that current and prospective unsecured creditors of the Company view Unencumbered NOI as one indication
+of the borrowing capacity of the Company. Therefore, when reviewed together with the Company’s Interest Coverage, EBITDA
+and cash flow from operations, the Company believes that investors and creditors view Unencumbered NOI as a useful
+supplemental measure for determining the financial flexibility of an entity. A calculation of Unencumbered NOI for the six months
+ended June 30, 2022 is as follows (dollars in thousands):
+
+
+
+
+                                                                 30
+Attachment 13
+
+            TABLE 11
+                                                                                                     Year to Date 2022
+                                                                                                            NOI
+            Residential NOI:
+                Same Store                                                                          $         759,177
+                Other Stabilized                                                                               57,819
+                Development/Redevelopment                                                                      25,932
+             Total Residential NOI                                                                            842,928
+             Commercial NOI                                                                                    16,083
+             NOI from real estate assets sold or held for sale                                                  8,916
+                Total NOI generated by real estate assets                                                     867,927
+             Less NOI on encumbered assets                                                                    (44,556)
+                NOI on unencumbered assets                                                          $         823,371
+
+              Unencumbered NOI                                                                                      95 %
+
+
+
+
+Unleveraged IRR on sold communities refers to the internal rate of return calculated by the Company considering the timing and
+amounts of (i) total revenue during the period owned by the Company and (ii) the gross sales price net of selling costs, offset by
+(iii) the undepreciated capital cost of the communities at the time of sale and (iv) total direct operating expenses during the period
+owned by the Company. Each of the items (i), (ii), (iii) and (iv) is calculated in accordance with GAAP.
+
+The calculation of Unleveraged IRR does not include an adjustment for the Company’s general and administrative expense,
+interest expense, or corporate-level property management and other indirect operating expenses. Therefore, Unleveraged IRR is
+not a substitute for Net Income as a measure of our performance. Management believes that the Unleveraged IRR achieved
+during the period a community is owned by the Company is useful because it is one indication of the gross value created by the
+Company’s acquisition, development or redevelopment, management and sale of a community, before the impact of indirect
+expenses and Company overhead. The Unleveraged IRR achieved on the communities as cited in this release should not be
+viewed as an indication of the gross value created with respect to other communities owned by the Company, and the Company
+does not represent that it will achieve similar Unleveraged IRRs upon the disposition of other communities. The weighted
+average Unleveraged IRR for sold communities is weighted based on all cash flows over the investment period for each
+respective community, including net sales proceeds.
+
+
+
+
+                                                                 31
+

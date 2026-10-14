@@ -1,0 +1,1684 @@
+Fourth Quarter 2022 Results
+
+
+Table of Contents
+
+Earnings Release ...................................................................................................       1-5
+Consolidated Statements of Operations.............................................................                            6
+Consolidated Statements of Funds From Operations and Normalized
+Funds From Operations ........................................................................................                7
+Consolidated Balance Sheets ..............................................................................                    8
+Portfolio Summary..................................................................................................           9
+Portfolio Rollforward...............................................................................................         10
+Same Store Results ...............................................................................................       11 - 18
+Debt Summary ........................................................................................................    19 - 21
+Capital Structure.....................................................................................................       22
+Common Share and Unit Weighted Average Amounts Outstanding .............                                                     23
+Development and Lease-Up Projects .................................................................                          24
+Capital Expenditures to Real Estate ...................................................................                      25
+Normalized EBITDAre Reconciliations ...............................................................                          26
+Adjustments from FFO to Normalized FFO .......................................................                               27
+Normalized FFO Guidance and Assumptions ...................................................                                  28
+Additional Reconciliations and Definitions of Non-GAAP
+Financial Measures and Other Terms.................................................................                      29 - 34
+
+
+
+
+Corporate Headquarters:
+Two North Riverside Plaza
+Chicago, IL 60606
+(312) 474-1300
+Information included in this supplemental package is unaudited.
+Table of Contents
+
+
+
+
+NEWS RELEASE - FOR IMMEDIATE RELEASE
+
+February 9, 2023
+
+                         Equity Residential Reports Fourth Quarter 2022 Results
+                            Expects Continued Above Trend Growth in 2023
+Chicago, IL – February 9, 2023 - Equity Residential (NYSE: EQR) today reported results for the quarter and year ended
+December 31, 2022.
+
+Fourth Quarter 2022 Results
+All per share results are reported as available to common shares/units on a diluted basis.
+
+                                                                           Quarter Ended December 31,
+                                                           2022               2021          $ Change        % Change
+ Earnings Per Share (EPS)                             $           0.42   $          1.40 $         (0.98)         (70.0%)
+ Funds from Operations (FFO) per share                $           0.97   $          0.76 $          0.21           27.6%
+ Normalized FFO per share                             $           0.94   $          0.82 $          0.12           14.6%
+
+
+
+                                                                           Year Ended December 31,
+                                                           2022              2021         $ Change          % Change
+ Earnings Per Share (EPS)                             $           2.05   $        3.54 $         (1.49)           (42.1%)
+ Funds from Operations (FFO) per share                $           3.53   $        2.96 $          0.57             19.3%
+ Normalized FFO per share                             $           3.52   $        2.99 $          0.53             17.7%
+
+
+“We are pleased to have delivered outstanding operating results in 2022. I want to thank my 2,400 hard-working colleagues
+across Equity Residential for all they do every day to delight our customers,” said Mark J. Parrell, Equity Residential’s
+President and CEO. “Turning to 2023, we have seen the year begin with the usual sequential improvement in demand and
+rate. We expect to again deliver above trend same store operating results driven by the momentum embedded in our rent
+roll from a stellar 2022, continuing solid demand and limited expense growth, but also expect the slowing economy to
+dampen intraperiod rent growth during 2023. Overall, the fundamentals of our business remain strong. Our affluent resident
+demographic remains highly employable with the unemployment rate for college graduates at 2%. We also see elevated
+home ownership costs and manageable competitive new apartment supply as further positive factors.”
+
+Recent Highlights
+   • The Company reported a 10.6% increase in same store revenue for the full year 2022 compared to the full year
+       2021, driven by strong demand. Same store expense growth for the full year 2022 compared to the full year 2021
+       was a moderate 3.6%, benefitting from favorable real estate tax growth and declines in payroll expense primarily
+       due to the Company's various innovation and centralization initiatives.
+   • The Company has provided full year 2023 guidance with same store revenue growth expected to be between 4.5%
+       and 6.0%.
+   • During 2022, the Company was a net seller of approximately $633.2 million of attractively priced non-core
+       properties, the proceeds from which were utilized to pay down near-term debt maturities, reducing refinancing needs
+       for 2023.
+   • In October 2022, the Company further enhanced liquidity and financial flexibility by entering into a new $2.5 billion
+       unsecured revolving credit facility maturing in 2027 that replaces the prior facility of the same size that was set to
+       mature in 2024.
+   • The Company was recently recognized as one of America’s Most Responsible Companies for 2023 by Newsweek.
+
+
+                                                                                                                            1
+Table of Contents
+Full Year 2023 Guidance
+The Company has provided guidance for its full year 2023 same store operating performance, EPS, FFO per share and
+Normalized FFO per share as listed below:
+
+                            Same Store (includes Residential and Non-Residential):
+                              Physical Occupancy                                       96.2%
+                              Revenue change (1)                                    4.5% to 6.0%
+                              Expense change                                        4.0% to 5.0%
+                              Net Operating Income (NOI) change                    4.75% to 6.25%
+
+                            EPS (2)                                                         $1.49 to $1.59
+                            FFO per share (2)                                               $3.66 to $3.76
+                            Normalized FFO per share (2)                                    $3.70 to $3.80
+
+                            Transactions (3):
+                               Consolidated rental acquisitions                                     –
+                               Consolidated rental dispositions                                     –
+(1) We anticipate that revenue change will be negatively impacted by approximately 0.9% at the midpoint due to continuing elevated levels of
+    forecasted Bad Debt, Net in 2023, as a result of a slower return to normal resident payment patterns due to local governmental restrictions
+    primarily in California and a lack of governmental rental assistance.
+(2) The Company expects to incur additional casualty losses in the first quarter of 2023 related to Northern and Southern California rainstorms,
+    estimates of which are included in guidance.
+(3) Given current uncertainty in the transaction environment, the Company's full year 2023 acquisition and disposition guidance reflects no
+    anticipated activity.
+
+The difference between the Company's full year 2022 actual EPS of $2.05 and the full year 2023 EPS guidance midpoint
+of $1.54 is due primarily to lower expected property sale gains and the items described below.
+
+The difference between the Company's full year 2022 actual FFO of $3.53 per share and the full year 2023 FFO guidance
+midpoint of $3.71 per share is due primarily to the items described below.
+
+The difference between the Company's full year 2022 actual Normalized FFO of $3.52 per share and the full year 2023
+Normalized FFO guidance midpoint of $3.75 per share is due primarily to:
+
+                                                                                                Positive/(Negative)
+                                                                                                       Impact
+                                                                                                 Full Year 2023 vs
+                                                                                                  Full Year 2022
+                         Residential same store NOI                                         $                   0.26
+                         Lease-Up NOI                                                                           0.02
+                         2023 and 2022 transaction activity impact on NOI, net                                 (0.02)
+                         Corporate overhead (1)                                                                (0.02)
+                         Other items                                                                           (0.01)
+                             Net                                                            $                   0.23
+
+(1) Corporate overhead includes property management and general and administrative expenses.
+
+The Company has a glossary of defined terms and related reconciliations of Non-GAAP financial measures on pages 29
+through 34 of this release. Reconciliations and definitions of FFO and Normalized FFO are provided on pages 7, 31 and 32
+of this release.
+
+Results Per Share
+The changes in EPS for the quarter and year ended December 31, 2022 compared to the same periods of 2021 are due
+primarily to lower property sale gains in the current periods, lower depreciation expense in the prior full year period, the
+various adjustment items listed on page 27 of this release and the items described below.
+
+The per share changes in FFO for the quarter and year ended December 31, 2022 compared to the same periods of 2021
+are due primarily to the various adjustment items listed on page 27 of this release and the items described below.
+
+
+                                                                                                                                              2
+Table of Contents
+The per share changes in Normalized FFO are due primarily to:
+
+                                                                                            Positive/(Negative) Impact
+                                                                                Fourth Quarter 2022 vs.        Full Year 2022 vs.
+                                                                                 Fourth Quarter 2021             Full Year 2021
+       Residential same store NOI                                           $                       0.12 $                          0.54
+       Non-Residential same store NOI                                                                  –                            0.01
+       Lease-Up NOI                                                                                 0.01                            0.05
+       2022 and 2021 transaction activity impact on NOI, net                                       (0.01)                              –
+       Interest expense, net                                                                        0.01                           (0.02)
+       Corporate overhead                                                                              –                           (0.03)
+       Other items (1)                                                                             (0.01)                          (0.02)
+            Net                                                             $                       0.12 $                          0.53
+
+(1) Included in this category was the negative impact in the fourth quarter of 2022 of approximately $0.01 per share primarily from a casualty
+    loss at an East Coast property and rainstorm damage at properties located in Northern California.
+
+Same Store Results
+The following table shows the total same store results for the periods presented.
+
+                                      Fourth Quarter 2022 vs.            Fourth Quarter 2022 vs.                Full Year 2022 vs.
+                                       Fourth Quarter 2021                 Third Quarter 2022                    Full Year 2021
+       Apartment Units                       75,473                             78,107                             72,872
+       Physical Occupancy                95.9% vs. 96.6%                    95.9% vs. 96.4%                    96.4% vs. 96.1%
+
+       Revenues                                9.1%                                  0.8%                             10.6%
+       Expenses                                5.3%                                 (2.7%)                            3.6%
+       NOI                                     10.9%                                 2.4%                             14.1%
+
+On page 11 of this release, the Company has provided a breakout of Residential and Non-Residential same store results
+with definitions that can be found on page 33 of this release. Non-Residential operations account for approximately 3.7%
+of total revenues for the year ended December 31, 2022.
+
+The following table reflects the detail of the change in Same Store Residential Revenues, which is presented on a GAAP
+basis showing Leasing Concessions on a straight-line basis.
+
+                                                  Fourth Quarter 2022 vs.           Fourth Quarter 2022 vs.            Full Year 2022 vs.
+                                                   Fourth Quarter 2021                Third Quarter 2022                Full Year 2021
+                                                         % Change                          % Change                        % Change
+Same Store Residential Revenues-
+ comparable period
+Lease rates                                                             10.4%                              1.7%                            8.5%
+Leasing Concessions                                                      1.0%                              0.0%                            1.5%
+Vacancy gain (loss)                                                     (1.1%)                            (0.3%)                          (0.1%)
+Bad Debt, Net (1)                                                       (1.6%)                            (0.8%)                           0.2%
+Other (2)                                                                0.8%                              0.2%                            0.6%
+Same Store Residential Revenues-
+ current period                                                          9.5%                             0.8%                           10.7%
+
+(1) Change in rental income due to bad debt write-offs and reserves, net of amounts (including governmental rental assistance payments)
+    collected on previously written-off or reserved accounts. The negative contributions to revenue growth in the quarter and sequentially in this
+    category are due to lower resident payments from governmental rental assistance as the programs wind down.
+(2) Includes ancillary income, utility recoveries, early lease termination income, miscellaneous income and other items.
+
+See page 12 for detail and reconciliations of Same Store Residential Revenues on a GAAP basis to Same Store Residential
+Revenues with Leasing Concessions on a cash basis.
+
+
+
+
+                                                                                                                                                3
+Table of Contents
+Residential Same Store Operating Statistics
+The following table includes select operating metrics for Residential Same Store Properties (for 72,872 same store
+apartment units):
+
+                                                                       Q3 2022        Q4 2022       January 2023 (1)
+          Physical Occupancy                                           96.5%              96.0%         95.8%
+          Percentage of Residents Renewing by quarter/month            53.7%              56.5%         57.0%
+          New Lease Change                                             13.0%              2.5%           1.4%
+          Renewal Rate Achieved                                        10.0%              8.5%           6.9%
+          Blended Rate                                                 11.3%              5.8%           4.6%
+(1) January 2023 results are preliminary.
+
+“Our fourth quarter 2022 and January 2023 operating statistics reflect usual seasonal moderation patterns, though slightly
+more pronounced. We were, however, pleased that our New Lease Change performance remained positive in the fourth
+quarter of 2022 and in January 2023, contrary to historical patterns,” said Michael L. Manelis, Equity Residential’s Executive
+Vice President and Chief Operating Officer. “While it is very early in the year, we are seeing typical sequential improvement
+in rents and leasing activity with New Lease Change and Blended Rate in January 2023 higher as compared to December
+2022, suggesting that the year is beginning in a way consistent with normal demand trends."
+
+Investment Activity
+The Company did not acquire any operating properties during the fourth quarter of 2022. During the full year of 2022, the
+Company acquired a 172-unit apartment property in San Diego, built in 2020, for $113.0 million at an Acquisition Cap Rate
+of 3.5% as well as two unconsolidated land parcels for future development for approximately $56.9 million.
+
+The Company did not sell any properties during the fourth quarter of 2022. During the full year of 2022, the Company sold
+three properties for a total sale price of approximately $746.2 million at a weighted average Disposition Yield of 3.4%,
+generating an Unlevered IRR of 5.3%.
+
+Capital Markets Activity
+In October 2022, the Company settled all of its outstanding forward equity sales agreements under its At-The-Market (ATM)
+share offering program, which were entered into during the third quarter of 2021. As a result, it issued 1,740,550 common
+shares at $80.22 per share and received total proceeds of approximately $139.6 million.
+
+Also in October 2022, the Company entered into a new $2.5 billion unsecured revolving credit agreement with a group of
+19 financial institutions. The new facility matures October 26, 2027 and has an interest rate of SOFR plus a spread (currently
+0.725%) and an annual facility fee (currently 0.125%). Both the spread and the facility fee are dependent on the credit rating
+of the Company’s long-term debt. This facility replaced the Company’s existing $2.5 billion facility, which was scheduled to
+mature in November 2024.
+
+First Quarter 2023 Guidance
+The Company has established guidance ranges for the first quarter of 2023 EPS, FFO per share and Normalized FFO per
+share as listed below:
+
+                                                                           Q1 2023
+                                                                           Guidance
+                                            EPS                          $0.28 to $0.32
+                                            FFO per share                $0.83 to $0.87
+                                            Normalized FFO per share     $0.84 to $0.88
+
+The difference between the fourth quarter of 2022 actual EPS of $0.42 and the first quarter of 2023 EPS guidance midpoint
+of $0.30 is due primarily to the items described below.
+
+The difference between the fourth quarter of 2022 actual FFO of $0.97 per share and the first quarter of 2023 FFO guidance
+midpoint of $0.85 per share is due primarily to the items described below.
+
+The difference between the fourth quarter of 2022 actual Normalized FFO of $0.94 per share and the first quarter of 2023
+Normalized FFO guidance midpoint of $0.86 per share is due primarily to:
+
+
+                                                                                                                            4
+Table of Contents
+                                                                                Positive/(Negative)
+                                                                                      Impact
+                                                                              First Quarter 2023 vs.
+                                                                               Fourth Quarter 2022
+                         Residential same store NOI                          $                 (0.04)
+                         Interest expense, net                                                 (0.01)
+                         Corporate overhead                                                    (0.03)
+                              Net                                            $                 (0.08)
+
+About Equity Residential
+Equity Residential is committed to creating communities where people thrive. The Company, a member of the S&P 500, is
+focused on the acquisition, development and management of residential properties located in and around dynamic cities
+that attract affluent long-term renters. Equity Residential owns or has investments in 308 properties consisting of 79,597
+apartment units, with an established presence in Boston, New York, Washington, D.C., Seattle, San Francisco and Southern
+California, and an expanding presence in Denver, Atlanta, Dallas/Ft. Worth and Austin. For more information on Equity
+Residential, please visit our website at www.equityapartments.com.
+
+Forward-Looking Statements
+In addition to historical information, this press release contains forward-looking statements and information within the
+meaning of the federal securities laws. These statements are based on current expectations, estimates, projections and
+assumptions made by management. While Equity Residential’s management believes the assumptions underlying its
+forward-looking statements are reasonable, such information is inherently subject to uncertainties and may involve certain
+risks, including, without limitation, changes in general market conditions, including the rate of job growth and cost of labor
+and construction material, the level of new multifamily construction and development, government regulations (such as
+eviction moratoriums) and competition. These and other risks and uncertainties are described under the heading “Risk
+Factors” in our Annual Report on Form 10-K and subsequent periodic reports filed with the Securities and Exchange
+Commission (SEC) and available on our website, www.equityapartments.com. Many of these uncertainties and risks are
+difficult to predict and beyond management’s control. Forward-looking statements are not guarantees of future
+performance, results or events. Equity Residential assumes no obligation to update or supplement forward-looking
+statements that become untrue because of subsequent events.
+
+A live web cast of the Company’s conference call discussing these results will take place tomorrow, Friday,
+February 10, 2023 at 10:00 a.m. CT. Please visit the Investor section of the Company’s website at
+www.equityapartments.com for the webcast link.
+
+
+
+
+                                                                                                                            5
+Table of Contents
+                                                             Equity Residential
+                                                Consolidated Statements of Operations
+                                                       (Amounts in thousands except per share data)
+                                                                       (Unaudited)
+
+                                                                             Year Ended December 31,                    Quarter Ended December 31,
+                                                                               2022                   2021                 2022              2021
+REVENUES
+  Rental income                                                         $       2,735,180      $      2,463,997     $       699,703      $    645,130
+
+EXPENSES
+  Property and maintenance                                                        483,865               453,532             118,588           112,271
+  Real estate taxes and insurance                                                 388,412               397,105              85,513            99,325
+  Property management                                                             110,304                98,155              27,269            23,798
+  General and administrative                                                       58,710                56,506              11,677            13,404
+  Depreciation                                                                    882,168               838,272             214,272           222,240
+    Total expenses                                                              1,923,459             1,843,570             457,319           471,038
+
+  Net gain (loss) on sales of real estate properties                              304,325             1,072,183                   (21)        484,560
+  Impairment                                                                           —                (16,769)                   —          (16,769)
+
+Operating income                                                                1,116,046             1,675,841             242,363           641,883
+
+   Interest and other income                                                         2,193               25,666               (2,651)              373
+   Other expenses                                                                  (13,664)             (19,275)              (4,473)           (8,367)
+   Interest:
+      Expense incurred, net                                                      (282,920)             (272,473)             (65,827)          (69,740)
+      Amortization of deferred financing costs                                     (8,729)               (8,737)              (2,308)           (2,565)
+Income before income and other taxes, income (loss) from
+  investments in unconsolidated entities and net gain (loss)
+  on sales of land parcels                                                        812,926             1,401,022             167,104           561,584
+Income and other tax (expense) benefit                                               (900)                 (915)               (175)             (236)
+Income (loss) from investments in unconsolidated entities                          (5,031)               (3,398)             (1,575)             (370)
+Net gain (loss) on sales of land parcels                                               —                      5                  —                 —
+Net income                                                                        806,995             1,396,714             165,354           560,978
+Net (income) loss attributable to Noncontrolling Interests:
+   Operating Partnership                                                          (26,310)              (45,900)             (5,286)          (17,997)
+   Partially Owned Properties                                                      (3,774)              (17,964)             (1,048)          (16,007)
+Net income attributable to controlling interests                                  776,911             1,332,850             159,020           526,974
+Preferred distributions                                                            (3,090)               (3,090)               (772)             (772)
+Net income available to Common Shares                                   $         773,821      $      1,329,760     $       158,248      $    526,202
+
+Earnings per share – basic:
+Net income available to Common Shares                                   $            2.06      $           3.56     $          0.42      $       1.40
+Weighted average Common Shares outstanding                                        376,209               373,833             377,689           374,897
+
+Earnings per share – diluted:
+Net income available to Common Shares                                   $            2.05      $           3.54     $          0.42      $       1.40
+Weighted average Common Shares outstanding                                        389,450               388,089             390,245           389,000
+
+Distributions declared per Common Share outstanding                     $             2.50     $             2.41   $         0.625      $     0.6025
+
+
+
+
+                                                                                                                                                        6
+Table of Contents
+                                                             Equity Residential
+             Consolidated Statements of Funds From Operations and Normalized Funds From Operations
+                                                       (Amounts in thousands except per share data)
+                                                                       (Unaudited)
+
+                                                                               Year Ended December 31,              Quarter Ended December 31,
+                                                                                2022            2021                   2022           2021
+Net income                                                                $       806,995 $      1,396,714          $    165,354 $     560,978
+Net (income) loss attributable to Noncontrolling Interests – Partially
+  Owned Properties                                                                   (3,774)            (17,964)          (1,048)       (16,007)
+Preferred distributions                                                              (3,090)             (3,090)            (772)          (772)
+Net income available to Common Shares and Units                                     800,131           1,375,660          163,534        544,199
+
+Adjustments:
+  Depreciation                                                                      882,168             838,272          214,272        222,240
+  Depreciation – Non-real estate additions                                           (4,306)             (4,277)          (1,117)        (1,049)
+  Depreciation – Partially Owned Properties                                          (2,640)             (3,673)            (543)          (997)
+  Depreciation – Unconsolidated Properties                                            2,898               2,487            1,001            620
+  Net (gain) loss on sales of unconsolidated entities - operating
+    assets                                                                               (9)              (1,304)             —           (1,300)
+  Net (gain) loss on sales of real estate properties                               (304,325)          (1,072,183)             21        (484,560)
+  Noncontrolling Interests share of gain (loss) on sales
+    of real estate properties                                                            —               15,650               —          15,650
+FFO available to Common Shares and Units                                          1,373,917           1,150,632          377,168        294,803
+
+Adjustments (see note for additional detail):
+  Impairment – non-operating real estate assets                                           —              16,769               —          16,769
+  Write-off of pursuit costs                                                           4,780              6,526            1,484          2,969
+  Debt extinguishment and preferred share redemption (gains)
+    losses                                                                            4,664                 744              348            480
+  Non-operating asset (gains) losses                                                  2,368             (22,283)           3,542            731
+  Other miscellaneous items                                                         (13,901)              8,976          (15,733)         4,456
+Normalized FFO available to Common Shares and Units                       $       1,371,828      $    1,161,364     $    366,809    $   320,208
+
+FFO                                                                       $       1,377,007      $    1,153,722     $    377,940    $   295,575
+Preferred distributions                                                              (3,090)             (3,090)            (772)          (772)
+FFO available to Common Shares and Units                                  $       1,373,917      $    1,150,632     $    377,168    $   294,803
+FFO per share and Unit – basic                                            $            3.54      $         2.98     $       0.97    $      0.76
+FFO per share and Unit – diluted                                          $            3.53      $         2.96     $       0.97    $      0.76
+
+Normalized FFO                                                            $       1,374,918      $    1,164,454     $    367,581    $   320,980
+Preferred distributions                                                              (3,090)             (3,090)            (772)          (772)
+Normalized FFO available to Common Shares and Units                       $       1,371,828      $    1,161,364     $    366,809    $   320,208
+Normalized FFO per share and Unit – basic                                 $            3.54      $         3.01     $       0.94    $      0.83
+Normalized FFO per share and Unit – diluted                               $            3.52      $         2.99     $       0.94    $      0.82
+
+Weighted average Common Shares and Units outstanding – basic                        388,045             386,096          389,357        386,851
+Weighted average Common Shares and Units outstanding – diluted                      389,450             388,089          390,245        389,000
+
+Note: See Adjustments from FFO to Normalized FFO for additional detail regarding the adjustments from FFO to Normalized FFO. See Additional
+Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for the definitions of non-GAAP financial measures and other
+terms as well as the reconciliations of EPS to FFO per share and Normalized FFO per share.
+
+
+
+
+                                                                                                                                                  7
+Table of Contents
+                                                     Equity Residential
+                                                Consolidated Balance Sheets
+                                              (Amounts in thousands except for share amounts)
+                                                                (Unaudited)
+
+                                                                                                    December 31,          December 31,
+                                                                                                        2022                  2021
+ASSETS
+   Land                                                                                         $        5,580,878    $        5,814,790
+   Depreciable property                                                                                 22,334,369            22,370,811
+   Projects under development                                                                              112,940                24,307
+   Land held for development                                                                                60,567                62,998
+   Investment in real estate                                                                            28,088,754            28,272,906
+   Accumulated depreciation                                                                             (9,027,850)           (8,354,282)
+Investment in real estate, net                                                                          19,060,904            19,918,624
+Investments in unconsolidated entities1                                                                    279,024               127,448
+Cash and cash equivalents                                                                                   53,869               123,832
+Restricted deposits                                                                                         83,303               236,404
+Right-of-use assets                                                                                        462,956               474,713
+Other assets                                                                                               278,206               288,220
+        Total assets                                                                            $       20,218,262    $       21,169,241
+
+LIABILITIES AND EQUITY
+Liabilities:
+   Mortgage notes payable, net                                                                  $        1,953,438    $        2,191,201
+   Notes, net                                                                                            5,342,329             5,835,222
+   Line of credit and commercial paper                                                                     129,955               315,030
+   Accounts payable and accrued expenses                                                                    96,028               107,013
+   Accrued interest payable                                                                                 66,310                69,510
+   Lease liabilities                                                                                       308,748               312,335
+   Other liabilities                                                                                       306,941               353,102
+   Security deposits                                                                                        68,940                66,141
+   Distributions payable                                                                                   244,621               233,502
+         Total liabilities                                                                               8,517,310             9,483,056
+
+Commitments and contingencies
+
+Redeemable Noncontrolling Interests – Operating Partnership                                               318,273               498,977
+Equity:
+  Shareholders' equity:
+     Preferred Shares of beneficial interest, $0.01 par value;
+       100,000,000 shares authorized; 745,600 shares issued and
+       outstanding as of December 31, 2022 and December 31, 2021                                            37,280                37,280
+     Common Shares of beneficial interest, $0.01 par value;
+       1,000,000,000 shares authorized; 378,429,708 shares issued
+       and outstanding as of December 31, 2022 and 375,527,195
+       shares issued and outstanding as of December 31, 2021                                                 3,784                 3,755
+     Paid in capital                                                                                     9,476,085             9,121,122
+     Retained earnings                                                                                   1,658,837             1,827,063
+     Accumulated other comprehensive income (loss)                                                          (2,547)              (34,272)
+        Total shareholders’ equity                                                                      11,173,439            10,954,948
+  Noncontrolling Interests:
+     Operating Partnership                                                                                 209,961               214,094
+     Partially Owned Properties                                                                               (721)               18,166
+        Total Noncontrolling Interests                                                                     209,240               232,260
+        Total equity                                                                                    11,382,679            11,187,208
+        Total liabilities and equity                                                            $       20,218,262    $       21,169,241
+
+1 Includes $218.0 million and $72.5 million in unconsolidated development projects as of December 31, 2022 and December 31, 2021,
+respectively. See Development and Lease-Up Projects for additional detail on unconsolidated projects.
+
+
+
+
+                                                                                                                                           8
+Table of Contents
+                                                           Equity Residential
+                                                             Portfolio Summary
+                                                          As of December 31, 2022
+
+                                                                                                                     % of
+                                                                                                                  Stabilized         Average
+                                                                                            Apartment             Budgeted            Rental
+                       Markets/Metro Areas                              Properties            Units                  NOI               Rate
+Established Markets:
+Los Angeles                                                                          66            15,259                  18.2% $           2,773
+Orange County                                                                        13             4,028                   5.2%             2,685
+San Diego                                                                            12             2,878                   4.0%             2,894
+Subtotal – Southern California                                                       91            22,165                  27.4%             2,772
+
+San Francisco                                                                      44              11,790                  15.9%             3,229
+Washington, D.C.                                                                   47              14,716                  15.3%             2,531
+New York                                                                           34               8,536                  14.0%             4,378
+Boston                                                                             27               7,170                  11.5%             3,373
+Seattle                                                                            46               9,525                  11.0%             2,575
+Subtotal – Established Markets                                                    289              73,902                  95.1%             3,016
+
+Expansion Markets:
+Denver                                                                              8               2,498                   2.7%             2,372
+Atlanta                                                                             4               1,215                   1.1%             2,120
+Dallas/Ft. Worth                                                                    4               1,241                   0.7%             1,904
+Austin                                                                              3                 741                   0.4%             1,853
+Subtotal – Expansion Markets                                                       19               5,695                   4.9%             2,153
+Total                                                                             308              79,597                 100.0% $           2,956
+
+
+                                                                                          Properties                       Apartment Units
+Wholly Owned Properties                                                                                     293                              76,483
+Partially Owned Properties – Consolidated                                                                    15                               3,114
+                                                                                                            308                              79,597
+
+Note: Projects under development are not included in the Portfolio Summary until construction has been completed.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                    9
+Table of Contents
+
+                                                            Equity Residential
+                                                       Portfolio Rollforward Q4 2022
+                                                                  ($ in thousands)
+
+                                                                                               Apartment
+                                                                              Properties         Units
+                                                                 9/30/2022             308           79,594
+
+Configuration Changes                                                                   —                  3
+                                                               12/31/2022              308            79,597
+
+
+                                                         Portfolio Rollforward 2022
+                                                                  ($ in thousands)
+
+                                                                                                Apartment            Purchase        Acquisition
+                                                                              Properties          Units                Price          Cap Rate
+                                                               12/31/2021              310           80,407
+Acquisitions:
+  Consolidated Rental Properties                                                         1                172    $       113,000               3.5%
+  Unconsolidated Land Parcels (1)                                                        —                 —     $        56,886
+
+                                                                                                                                     Disposition
+                                                                                                                     Sales Price        Yield
+Dispositions:
+   Consolidated Rental Properties                                                        (3)             (945)   $       (746,150)            (3.4%)
+
+Configuration Changes                                                                   —                 (37)
+                                                               12/31/2022              308             79,597
+
+(1)   The Company entered into separate unconsolidated joint ventures for the purpose of developing vacant land parcels in suburban Dallas/Ft. Worth,
+      TX and suburban Boston, MA. The purchase price listed represents the total consideration for the closing of the respective joint ventures. The
+      Company's total investment in these two joint ventures is approximately $65.9 million as of December 31, 2022.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                  10
+Table of Contents
+
+                                                                                       Equity Residential
+                                                                         Fourth Quarter 2022 vs. Fourth Quarter 2021
+                                                           Same Store Results/Statistics Including 75,473 Same Store Apartment Units
+                                                                              ($ in thousands except for Average Rental Rate)
+
+                                                   Fourth Quarter 2022                                                                           Fourth Quarter 2021
+                                                     %            Non-             %                            %                                                   Non-
+                            Residential           Change      Residential       Change         Total         Change                            Residential        Residential        Total
+        Revenues          $      643,790      (1) 9.5%      $        23,662      0.2%     $      667,452      9.1%              Revenues     $      588,014     $       23,622   $     611,636
+        Expenses          $      200,353           5.3%     $         6,348      4.8%     $      206,701      5.3%              Expenses     $      190,219     $        6,056   $     196,275
+          NOI             $      443,437          11.5%     $        17,314     (1.4%)    $      460,751     10.9%                NOI        $      397,795     $       17,566   $     415,361
+
+Average Rental Rate       $         2,966         10.3%                                                                Average Rental Rate   $        2,689
+Physical Occupancy                   95.9%        (0.7%)                                                               Physical Occupancy              96.6%
+Turnover                               9.3%       (0.3%)                                                               Turnover                          9.6%
+
+
+                                                                         Fourth Quarter 2022 vs. Third Quarter 2022
+                                                           Same Store Results/Statistics Including 78,107 Same Store Apartment Units
+                                                                              ($ in thousands except for Average Rental Rate)
+
+                                                   Fourth Quarter 2022                                                                           Third Quarter 2022
+                                                     %            Non-             %                            %                                                   Non-
+                            Residential           Change      Residential       Change         Total         Change                            Residential        Residential        Total
+        Revenues          $      660,913      (1) 0.8%      $        24,330      0.8%     $      685,243      0.8%              Revenues     $      655,951     $       24,125   $     680,076
+        Expenses          $      205,678          (2.8%)    $         6,426      2.6%     $      212,104     (2.7%)             Expenses     $      211,654     $        6,263   $     217,917
+          NOI             $      455,235           2.5%     $        17,904      0.2%     $      473,139      2.4%                NOI        $      444,297     $       17,862   $     462,159
+
+Average Rental Rate       $         2,944          1.3%                                                                Average Rental Rate   $        2,905
+Physical Occupancy                   95.9%        (0.5%)                                                               Physical Occupancy              96.4%
+Turnover                               9.4%       (4.6%)                                                               Turnover                        14.0%
+
+
+                                                                                          2022 vs. 2021
+                                                           Same Store Results/Statistics Including 72,872 Same Store Apartment Units
+                                                                              ($ in thousands except for Average Rental Rate)
+
+                                                            2022                                                                                        2021
+                                                     %           Non-              %                            %                                                   Non-
+                            Residential           Change       Residential      Change         Total         Change                            Residential        Residential        Total
+        Revenues          $    2,441,522      (1) 10.7%      $       92,055      5.8%     $    2,533,577     10.6%              Revenues     $   2,204,625      $       86,979   $    2,291,604
+        Expenses          $      778,206           3.6%      $       24,085      3.6%     $      802,291      3.6%              Expenses     $      751,250     $       23,254   $      774,504
+          NOI             $    1,663,316          14.4%      $       67,970      6.7%     $    1,731,286     14.1%                NOI        $   1,453,375      $       63,725   $    1,517,100
+
+Average Rental Rate       $         2,898         10.4%                                                                Average Rental Rate   $        2,625
+Physical Occupancy                   96.4%         0.3%                                                                Physical Occupancy              96.1%
+Turnover                             42.8%        (1.9%)                                                               Turnover                        44.7%
+
+(1)   See page 12 for Same Store Residential Revenues with Leasing Concessions reflected on a cash basis. See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other
+      Terms for additional detail.
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                             11
+Table of Contents
+
+                                                                                          Equity Residential
+
+                                                               Same Store Residential Revenues – GAAP to Cash Basis (1)
+                                                                                              ($ in thousands)
+
+                                                         Fourth Quarter 2022 vs. Fourth Quarter 2021           Fourth Quarter 2022 vs. Third Quarter 2022                   2022 vs. 2021
+                                                             75,473 Same Store Apartment Units                    78,107 Same Store Apartment Units               72,872 Same Store Apartment Units
+                                                              Q4 2022                  Q4 2021                      Q4 2022                 Q3 2022                  2022                 2021
+Same Store Residential Revenues (GAAP Basis)             $          643,790      $           588,014          $          660,913      $           655,951     $        2,441,522    $        2,204,625
+Leasing Concessions amortized                                          1,346                   7,050                        1,697                    1,652                 7,420                41,344
+Leasing Concessions granted                                           (2,714)                    (569)                     (2,921)                    (641)               (5,557)              (26,834)
+Same Store Residential Revenues with Leasing
+ Concessions on a cash basis                             $           642,422      $             594,495       $           659,689     $           656,962     $        2,443,385    $        2,219,135
+
+% change - GAAP revenue                                                   9.5%                                                 0.8%                                         10.7%
+
+% change - cash revenue                                                   8.1%                                                 0.4%                                         10.1%
+
+(1)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional detail.
+
+
+                                                                      Same Store Net Operating Income By Quarter
+                                                                      Including 72,872 Same Store Apartment Units
+                                                                                              ($ in thousands)
+
+                                                 Q4 2022            Q3 2022                Q2 2022            Q1 2022             Q4 2021
+Same store revenues                          $       651,396    $       647,237       $        633,755    $       601,189    $        597,100
+Same store expenses                                  201,304            203,749                195,775            201,463             191,032
+Same store NOI
+(includes Residential and Non-Residential)   $       450,092    $       443,488       $       437,980     $        399,726   $        406,068
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                    12
+Table of Contents
+                                                                Equity Residential
+
+                                    Same Store Resident/Tenant Accounts Receivable Balances
+                                          Including 72,872 Same Store Apartment Units
+                                                                     ($ in thousands)
+
+                                                                         Residential                                   Non-Residential
+Balance Sheet (Other assets):                            December 31, 2022       September 30, 2022        December 31, 2022   September 30, 2022
+Resident/tenant accounts receivable balances            $           34,240      $            33,159        $            2,767 $              3,915
+Allowance for doubtful accounts                                    (30,265)                 (29,212)                   (2,107)             (2,735)
+   Net receivable balances                              $             3,975     $             3,947        $              660 $              1,180
+
+Straight-line receivable balances                       $              2,746 (1) $                1,496    $             12,139     $            12,433
+
+(1)   Total same store Residential Leasing Concessions granted in the fourth quarter of 2022 were approximately $2.5 million. The straight-line receivable
+      balance of $2.7 million reflects Residential Leasing Concessions that the Company expects will be primarily recognized as a reduction of rental
+      revenues in 2023.
+
+
+                                                      Same Store Residential Bad Debt
+                                              Including 72,872 Same Store Apartment Units
+                                                                     ($ in thousands)
+
+Income Statement (Rental income) (1):               Q4 2022       Q3 2022       Q4 2021                2022            2021
+Bad Debt, Net                                   $      10,704   $     5,860   $     1,239   $            24,707   $      29,606
+% of Same Store Residential Revenues                       1.7%          0.9%          0.2%                  1.0%            1.3%
+Governmental rental assistance received         $       1,945    $      6,742     $     16,008     $      32,426   $      32,793
+
+(1)   Bad Debt, Net benefited in 2021 and the first half of 2022 from additional resident payments due to governmental rental assistance programs. The
+      increases in Bad Debt, Net as well as % of Same Store Residential Revenues during the third and fourth quarters of 2022 were primarily due to these
+      programs winding down.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                      13
+Table of Contents
+                                                                                             Equity Residential
+                                                                           Fourth Quarter 2022 vs. Fourth Quarter 2021
+                                                                        Same Store Residential Results/Statistics by Market
+
+                                                                                                                                                 Increase (Decrease) from Prior Year's Quarter
+                                                                                      Q4 2022
+                                                    Q4 2022          Q4 2022         Weighted
+                                                     % of            Average          Average                                                                              Average
+                                   Apartment        Actual            Rental          Physical         Q4 2022                                                              Rental          Physical
+      Markets/Metro Areas            Units           NOI               Rate         Occupancy %        Turnover         Revenues         Expenses           NOI              Rate          Occupancy        Turnover
+Los Angeles                            14,662              18.6%   $      2,755              95.8%            10.0%             1.1% (1)        4.6%           (0.3%)             2.5%             (1.4%)              0.6%
+Orange County                           4,028               5.6%          2,685              96.7%              8.7%            9.5% (1)        8.8%            9.7%             10.6%             (1.0%)              1.3%
+San Diego                               2,706               3.9%          2,853              95.9%              8.9%            8.2% (1)        7.1%            8.6%              9.8%             (1.3%)              0.3%
+Subtotal – Southern California         21,396              28.1%          2,754              96.0%              9.6%            3.4%            5.5%            2.7%              4.8%             (1.3%)              0.7%
+
+San Francisco                          11,368              16.8%          3,227              95.6%             9.4%              8.3% (1)        7.5%           8.6%             9.1%              (0.8%)          (1.3%)
+Washington, D.C.                       14,400              16.1%          2,524              96.5%             9.3%              7.3%            5.5%           8.1%             7.8%              (0.5%)           0.3%
+New York                                8,536              14.1%          4,378              96.7%             7.6%             21.9%            4.6%          38.9%            22.9%              (0.7%)           0.5%
+Seattle                                 9,524              11.4%          2,575              95.0%             9.9%             10.5%            1.0%          14.6%            10.5%               0.0%           (1.5%)
+Boston                                  6,700              10.2%          3,313              96.0%             8.0%             12.3%            5.2%          15.5%            12.2%               0.2%           (1.3%)
+Denver                                  1,904               2.0%          2,357              96.1%            11.8%              8.9%           17.8%           5.3%             9.1%              (0.3%)          (2.9%)
+Other Expansion Markets                 1,645               1.3%          1,957              92.9%            13.0%              9.4%            5.7%          11.7%            12.9%              (2.9%)           1.1%
+
+Total                                  75,473             100.0%   $      2,966              95.9%             9.3%              9.5% (2)        5.3%          11.5%            10.3%              (0.7%)          (0.3%)
+
+
+(1)     Excluding the negative impact of Bad Debt, Net which was primarily driven by a reduction in governmental rental assistance, same store revenue growth would have been 7.2%, 10.2%, 9.6% and 9.0% for Los
+        Angeles, Orange County, San Diego and San Francisco, respectively.
+(2)     With Leasing Concessions reflected on a cash basis, Same Store Residential Revenues increased 8.1% in the fourth quarter of 2022 compared to the fourth quarter of 2021. See page 12 for additional detail and
+        reconciliations.
+
+Note: The above table reflects Residential same store results only. Residential operations account for approximately 96.3% of total revenues for the year ended December 31, 2022.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                                       14
+Table of Contents
+                                                                                            Equity Residential
+                                                                          Fourth Quarter 2022 vs. Third Quarter 2022
+                                                                       Same Store Residential Results/Statistics by Market
+
+                                                                                                                                                   Increase (Decrease) from Prior Quarter
+                                                                                     Q4 2022
+                                                    Q4 2022          Q4 2022        Weighted
+                                                     % of            Average         Average                                                                             Average
+                                  Apartment         Actual            Rental         Physical          Q4 2022                                                            Rental             Physical
+      Markets/Metro Areas           Units            NOI               Rate        Occupancy %         Turnover        Revenues          Expenses          NOI             Rate             Occupancy        Turnover
+Los Angeles                           14,662               18.1%   $      2,755             95.8%             10.0%           (1.5%) (1)       (2.4%)         (1.2%)           (0.4%)               (1.1%)          (0.7%)
+Orange County                          4,028                5.4%          2,685             96.7%               8.7%           0.4% (1)        (3.2%)          1.5%             0.8%                (0.4%)          (2.0%)
+San Diego                              2,878                4.1%          2,894             96.0%               8.8%           0.7% (1)        (1.9%)          1.5%             1.4%                (0.7%)          (2.4%)
+Subtotal – Southern California        21,568               27.6%          2,761             96.0%               9.6%          (0.9%)           (2.4%)         (0.3%)            0.1%                (0.9%)          (1.2%)
+
+San Francisco                         11,368               16.3%          3,227             95.6%              9.4%             0.2% (1)        (2.0%)         1.2%             0.5%                (0.3%)          (3.9%)
+Washington, D.C.                      14,716               16.2%          2,531             96.5%              9.3%             0.9%            (5.6%)         4.4%             1.3%                (0.4%)          (4.9%)
+New York                               8,536               13.7%          4,378             96.7%              7.6%             3.2%             3.7%          2.9%             3.5%                (0.2%)          (7.2%)
+Seattle                                9,524               11.1%          2,575             95.0%              9.9%             0.1%            (3.0%)         1.4%             0.7%                (0.5%)          (6.0%)
+Boston                                 6,700               10.0%          3,313             96.0%              8.0%             1.5%            (2.2%)         3.1%             1.5%                 0.1%           (9.7%)
+Denver                                 2,498                2.6%          2,372             96.1%             12.0%             1.0%             3.0%          0.2%             1.4%                (0.3%)          (8.1%)
+Other Expansion Markets                3,197                2.5%          1,976             92.8%             13.0%             3.5%           (32.7%)        44.3%             6.5%                (2.8%)          (3.9%)
+
+Total                                 78,107              100.0%   $      2,944             95.9%              9.4%             0.8% (2)        (2.8%)         2.5%             1.3%                (0.5%)          (4.6%)
+
+
+(1)     Excluding the negative impact of Bad Debt, Net which was primarily driven by a reduction in governmental rental assistance, same store revenue growth would have been 0.8%, 1.7%, 1.7% and 1.3% for Los
+        Angeles, Orange County, San Diego and San Francisco, respectively.
+(2)     With Leasing Concessions reflected on a cash basis, Same Store Residential Revenues increased 0.4% in the fourth quarter of 2022 compared to the third quarter of 2022. See page 12 for additional detail and
+        reconciliations.
+
+Note: The above table reflects Residential same store results only. Residential operations account for approximately 96.3% of total revenues for the year ended December 31, 2022.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                                      15
+Table of Contents
+                                                                                             Equity Residential
+                                                                                           2022 vs. 2021
+                                                                          Same Store Residential Results/Statistics by Market
+
+                                                                                                                                                     Increase (Decrease) from Prior Year
+                                                                                        2022
+                                                     2022                 2022        Weighted
+                                                     % of               Average        Average                                                                           Average
+                                   Apartment        Actual               Rental        Physical         2022                                                              Rental            Physical
+      Markets/Metro Areas            Units           NOI                  Rate       Occupancy %       Turnover         Revenues         Expenses          NOI             Rate            Occupancy        Turnover
+Los Angeles                            14,662                19.8%    $      2,733            96.6%           38.4%             8.7% (1)        3.5%         11.0%              9.0%               (0.2%)           (3.1%)
+Orange County                           4,028                 5.8%           2,614            97.0%           34.5%            12.1% (1)        5.4%         14.0%             12.8%               (0.7%)           (0.1%)
+San Diego                               2,706                 4.0%           2,766            96.7%           38.1%            10.2% (1)        5.4%         11.6%             11.4%               (0.9%)           (5.0%)
+Subtotal – Southern California         21,396                29.6%           2,715            96.7%           37.6%             9.5%            4.0%         11.7%             10.0%               (0.4%)           (2.8%)
+
+San Francisco                         11,368                 17.4%           3,152           96.1%            41.5%             9.4% (1)         5.2%         11.3%             8.3%                0.9%            (6.5%)
+Washington, D.C.                      14,187                 16.2%           2,456           96.8%            43.1%             5.8%             5.5%          5.9%             5.5%                0.3%            (2.2%)
+New York                               8,536                 13.5%           4,068           96.9%            42.4%            19.9%             2.3%         39.0%            17.6%                1.8%             4.2%
+Seattle                                9,331                 11.4%           2,497           95.1%            51.6%            10.1%            (2.3%)        16.0%            10.7%               (0.5%)            0.7%
+Boston                                 6,430                 10.0%           3,208           96.2%            45.3%            11.7%             5.1%         14.9%            11.2%                0.5%            (1.8%)
+Denver                                 1,624                  1.9%           2,299           96.7%            60.3%            11.4%            10.7%         11.7%            11.3%                0.1%             0.1%
+
+Total                                 72,872                 100.0%   $      2,898           96.4%            42.8%            10.7% (2)         3.6%         14.4%            10.4%               0.3%             (1.9%)
+
+
+(1)     Excluding the positive impact of Bad Debt, Net which was primarily driven by receipt of governmental rental assistance, same store revenue growth would have been 8.0%, 11.4% and 8.7% for Los Angeles, Orange
+        County and San Francisco, respectively. In San Diego, same store revenue growth would have been 11.1% excluding the negative impact of Bad Debt, Net, which was primarily due to timing of governmental rental
+        assistance.
+(2)     With Leasing Concessions reflected on a cash basis, Same Store Residential Revenues increased 10.1% in the year ended December 31, 2022 compared to the year ended December 31, 2021. See page 12 for
+        additional detail and reconciliations.
+
+Note: The above table reflects Residential same store results only. Residential operations account for approximately 96.3% of total revenues for the year ended December 31, 2022.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                                     16
+Table of Contents
+
+                                                                                      Equity Residential
+                                                            Same Store Residential Net Effective Lease Pricing Statistics
+                                                                     For 72,872 Same Store Apartment Units
+
+                                                                New Lease Change (1)                             Renewal Rate Achieved (1)                              Blended Rate (1)
+                Markets/Metro Areas                       Q4 2022                  Q3 2022                   Q4 2022                  Q3 2022                 Q4 2022                      Q3 2022
+Southern California                                                   6.9%                    14.0%                     7.6%                     7.6%                     7.3%                       10.3%
+San Francisco                                                        (0.7%)                    9.1%                     7.1%                     8.4%                     3.0%                        8.8%
+Washington, D.C.                                                      3.0%                     9.4%                     8.9%                     7.5%                     6.3%                        8.3%
+New York                                                              6.0%                    22.2%                    11.3%                    14.8%                     9.1%                       18.0%
+Seattle                                                              (6.1%)                   10.3%                     7.0%                    11.1%                     0.0%                       10.7%
+Boston                                                                2.0%                    11.1%                     9.0%                    11.4%                     6.4%                       11.3%
+Denver                                                               (1.9%)                    8.7%                     6.9%                     8.8%                     1.9%                        8.7%
+Total                                                                 2.5%                    13.0%                     8.5%                    10.0%                     5.8%                       11.3%
+
+
+(1)   Prior to the pandemic, New Lease Change was typically negative during the fourth quarter. The moderation in the fourth quarter of 2022 from the third quarter of 2022 was slightly more pronounced
+      than expected but strong relative to historical periods. See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for definitions. See page 4 for January 2023
+      preliminary data.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                      17
+Table of Contents
+                                                                Equity Residential
+                                        Fourth Quarter 2022 vs. Fourth Quarter 2021
+                      Total Same Store Operating Expenses Including 75,473 Same Store Apartment Units
+                                                                       ($ in thousands)
+
+                                                                                                                                             % of
+                                                                                                                                           Q4 2022
+                                                                                                            $              %               Operating
+                                                                     Q4 2022           Q4 2021          Change (1)       Change            Expenses
+Real estate taxes                                                  $     86,954      $     85,269     $       1,685              2.0%              42.1%
+On-site payroll                                                          39,736            38,190             1,546              4.0%              19.2%
+Utilities                                                                33,671            30,694             2,977              9.7%              16.3%
+Repairs and maintenance                                                  25,787            22,279             3,508             15.7%              12.5%
+Insurance                                                                 7,299             6,679               620              9.3%               3.5%
+Leasing and advertising                                                   2,495             2,792              (297)           (10.6%)              1.2%
+Other on-site operating expenses                                         10,759            10,372               387              3.7%               5.2%
+Total Same Store Operating Expenses (2)
+(includes Residential and Non-Residential)                         $      206,701    $      196,275   $     10,426                5.3%            100.0%
+
+
+
+                                                       2022 vs. 2021
+                      Total Same Store Operating Expenses Including 72,872 Same Store Apartment Units
+                                                                       ($ in thousands)
+
+                                                                                                                                             % of
+                                                                                                                                             2022
+                                                                                                            $              %               Operating
+                                                                         2022             2021          Change (1)       Change            Expenses
+Real estate taxes                                                  $      336,372    $     333,151    $       3,221              1.0%              41.9%
+On-site payroll                                                           152,732          155,806           (3,074)            (2.0%)             19.0%
+Utilities                                                                 129,734          115,813           13,921             12.0%              16.2%
+Repairs and maintenance                                                   102,004           92,172            9,832             10.7%              12.7%
+Insurance                                                                  28,651           26,141            2,510              9.6%               3.6%
+Leasing and advertising                                                     9,473           10,381             (908)            (8.7%)              1.2%
+Other on-site operating expenses                                           43,325           41,040            2,285              5.6%               5.4%
+Total Same Store Operating Expenses (2)
+(includes Residential and Non-Residential)                         $      802,291    $      774,504   $     27,787                3.6%            100.0%
+
+
+
+(1)   The quarter-over-quarter and year-over-year changes were primarily driven by the following factors:
+      Real estate taxes – Increase due to modest escalation in rates and assessed values.
+      On-site payroll – Year-over-year decrease due to improved sales and service staff utilization from various technology initiatives, higher than usual
+      staffing vacancies during the current period and lower employee benefit-related costs. Quarter-over-quarter increase due primarily to timing of
+      employee benefit-related costs and fewer staffing vacancies along with a challenging comparable period in the fourth quarter of 2021.
+      Utilities – Increase from gas and electric, primarily driven by higher commodity prices.
+      Repairs and maintenance – Increase primarily driven by volume and timing of maintenance and repairs, increases in minimum wage on contracted
+      services along with a challenging comparable period in the fourth quarter of 2021.
+      Insurance – Increase due to higher premiums on property insurance renewal due to challenging conditions in the insurance market.
+      Leasing and advertising – Year-over-year decrease due primarily to reduction in use of outside residential brokers. Quarter-over-quarter decrease
+      due primarily to reduction in use of outside residential brokers and reduction in advertising expense.
+      Other on-site operating expenses – Increase driven primarily by higher property-related legal expenses and higher ground lease-related expenses.
+
+(2)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                      18
+Table of Contents
+
+                                                            Equity Residential
+                                                Debt Summary as of December 31, 2022
+                                                                  ($ in thousands)
+
+                                                                                                                                     Weighted
+                                                                                                            Weighted                 Average
+                                                            Debt                                            Average                  Maturities
+                                                        Balances (1)              % of Total                Rates (1)                 (years)
+Secured                                             $         1,953,438                         26.3%                   3.46%                      4.7
+Unsecured                                                     5,472,284                         73.7%                   3.55%                      9.6
+      Total                                         $         7,425,722                        100.0%                   3.53%                      8.3
+Fixed Rate Debt:
+   Secured – Conventional                           $          1,608,838                       21.7%                    3.66%                      3.9
+   Unsecured – Public                                          5,342,329                       71.9%                    3.61%                      9.8
+      Fixed Rate Debt                                          6,951,167                       93.6%                    3.62%                      8.5
+Floating Rate Debt:
+   Secured – Conventional                                        108,378                         1.4%                   4.11%                      1.3
+   Secured – Tax Exempt                                          236,222                         3.2%                   1.74%                     11.5
+   Unsecured – Revolving Credit Facility                              —                           —                       —                        4.8
+   Unsecured – Commercial Paper Program (2)                      129,955                         1.8%                   1.52%                       —
+      Floating Rate Debt                                         474,555                         6.4%                   2.08%                      6.2
+Total                                               $          7,425,722                       100.0%                   3.53%                      8.3
+
+(1)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+(2)   At December 31, 2022, the Weighted Average Coupon and weighted average maturity of commercial paper outstanding was 4.60% and 4 days,
+      respectively. The weighted average amount outstanding for the year ended December 31, 2022 was approximately $156.1 million.
+
+Note: The Company capitalized interest of approximately $7.1 million and $15.9 million during the years ended December 31, 2022 and 2021, respectively.
+The Company capitalized interest of approximately $2.9 million and $3.5 million during the quarters ended December 31, 2022 and 2021, respectively.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                  19
+Table of Contents
+
+                                                             Equity Residential
+
+                                           Debt Maturity Schedule as of December 31, 2022
+                                                                  ($ in thousands)
+
+                                                                                                                      Weighted           Weighted
+                                                                                                                  Average Coupons        Average
+                                                           Fixed        Floating                                      on Fixed          Coupons on
+                         Year                               Rate          Rate           Total      % of Total      Rate Debt (1)      Total Debt (1)
+                       2023 (3)                         $ 800,000      $ 198,275 (2) $ 998,275            13.3%                4.21%             4.37%
+                         2024                                    —          6,100          6,100           0.1%                 N/A              3.68%
+                         2025                               450,000        53,180        503,180           6.7%                3.38%             3.69%
+                         2026                               592,025         9,000        601,025           8.0%                3.58%             3.58%
+                         2027                               400,000         9,800        409,800           5.5%                3.25%             3.26%
+                         2028                               900,000        10,700        910,700          12.1%                3.79%             3.79%
+                         2029                               888,120        11,500        899,620          12.0%                3.30%             3.31%
+                         2030                             1,095,000        12,600      1,107,600          14.8%                2.55%             2.56%
+                         2031                               528,500        39,700        568,200           7.6%                1.94%             2.06%
+                         2032                                    —         28,000         28,000           0.4%                 N/A              3.62%
+                        2033+                             1,350,850       110,900      1,461,750          19.5%                4.39%             4.31%
+                       Subtotal                           7,004,495       489,755      7,494,250         100.0%                3.48%             3.54%
+  Deferred Financing Costs and Unamortized (Discount)       (53,328)      (15,200)       (68,528)          N/A                  N/A               N/A
+                         Total                          $ 6,951,167    $ 474,555     $ 7,425,722         100.0%                3.48%             3.54%
+
+(1)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+(2)   Includes $130.0 million in principal outstanding on the Company’s commercial paper program.
+(3)   During 2022, the Company entered into $450.0 million of ten-year forward starting SOFR swaps at a weighted average rate of 2.90% (currently
+      equivalent to a ten-year U.S. Treasury of approximately 3.23%) to hedge the U.S. Treasury risk for the refinancing of 2023 maturities.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                 20
+Table of Contents
+
+                                                            Equity Residential
+
+                                              Selected Unsecured Public Debt Covenants
+                                                                                         December 31,       September 30,
+                                                                                             2022               2022
+                          Debt to Adjusted Total Assets (not to exceed 60%)                 27.1%              27.5%
+                          Secured Debt to Adjusted Total Assets (not to exceed 40%)           7.9%               8.0%
+                          Consolidated Income Available for Debt Service to
+                           Maximum Annual Service Charges
+                           (must be at least 1.5 to 1)                                        6.24               6.15
+                          Total Unencumbered Assets to Unsecured Debt
+                           (must be at least 125%)                                          512.5%              500.0%
+
+Note: These selected covenants represent the most restrictive financial covenants relating to ERP Operating Limited Partnership's ("ERPOP") outstanding
+public debt securities. Equity Residential is the general partner of ERPOP.
+
+
+
+                                                            Selected Credit Ratios
+                                                                                         December 31,       September 30,
+                                                                                             2022               2022
+                          Total debt to Normalized EBITDAre                                 4.42x               4.58x
+                          Net debt to Normalized EBITDAre                                     4.38x              4.54x
+                          Unencumbered NOI as a % of total NOI                               88.2%              88.3%
+
+Note: See Normalized EBITDAre Reconciliations for detail.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                  21
+Table of Contents
+
+                                                                               Equity Residential
+
+                                                                   Capital Structure as of December 31, 2022
+                                                         (Amounts in thousands except for share/unit and per share amounts)
+
+                  Secured Debt                                                                                         $    1,953,438           26.3%
+                  Unsecured Debt                                                                                            5,472,284           73.7%
+                Total Debt                                                                                                  7,425,722          100.0%              24.3%
+                  Common Shares (includes Restricted Shares)                          378,429,708            96.8%
+                  Units (includes OP Units and Restricted Units)                       12,429,737             3.2%
+                Total Shares and Units                                                390,859,445           100.0%
+                Common Share Price at December 31, 2022                             $       59.00
+                                                                                                                           23,060,707           99.8%
+                Perpetual Preferred Equity (see below)                                                                         37,280            0.2%
+                Total Equity                                                                                               23,097,987          100.0%              75.7%
+
+                Total Market Capitalization                                                                            $ 30,523,709                            100.0%
+
+
+
+                                                             Perpetual Preferred Equity as of December 31, 2022
+                                                            (Amounts in thousands except for share and per share amounts)
+
+                                                                                                                                    Annual               Annual
+                                                                                   Outstanding           Liquidation               Dividend             Dividend
+                                    Series                         Call Date         Shares                 Value                  Per Share            Amount
+                Preferred Shares:
+                  8.29% Series K                                   12/10/26               745,600    $           37,280        $           4.145   $           3,091
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                          22
+Table of Contents
+
+                                                                        Equity Residential
+                                                                       Common Share and Unit
+                                                                Weighted Average Amounts Outstanding
+
+                                                                                        2022           2021          Q4 2022        Q4 2021
+Weighted Average Amounts Outstanding for Net Income Purposes:
+  Common Shares - basic                                                                 376,209,084    373,832,544    377,688,991     374,896,938
+  Shares issuable from assumed conversion/vesting of:
+             - OP Units                                                                  11,836,257     12,263,129     11,668,107      11,953,738
+             - long-term compensation shares/units                                        1,401,485      1,924,305        887,549       2,065,188
+             - ATM forward sales                                                              3,092         69,170             —           84,031
+  Total Common Shares and Units - diluted                                               389,449,918    388,089,148    390,244,647     388,999,895
+
+Weighted Average Amounts Outstanding for FFO and Normalized FFO Purposes:
+  Common Shares - basic                                                                 376,209,084    373,832,544    377,688,991     374,896,938
+  OP Units - basic                                                                       11,836,257     12,263,129     11,668,107      11,953,738
+  Total Common Shares and OP Units - basic                                              388,045,341    386,095,673    389,357,098     386,850,676
+  Shares issuable from assumed conversion/vesting of:
+             - long-term compensation shares/units                                        1,401,485      1,924,305        887,549       2,065,188
+             - ATM forward sales                                                              3,092         69,170             —           84,031
+  Total Common Shares and Units - diluted                                               389,449,918    388,089,148    390,244,647     388,999,895
+
+Period Ending Amounts Outstanding:
+  Common Shares (includes Restricted Shares)                                            378,429,708    375,527,195
+  Units (includes OP Units and Restricted Units)                                         12,429,737     12,659,027
+  Total Shares and Units                                                                390,859,445    388,186,222
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                              23
+Table of Contents
+
+                                                                                                             Equity Residential
+                                                                          Development and Lease-Up Projects as of December 31, 2022
+                                                                            (Amounts in thousands except for project and apartment unit amounts)
+
+                                                                                                                                                                                     Estimated/Actual
+                                                                                                                Total               Total
+                                                                                               No. of         Budgeted              Book                                                                                     Percentage
+                                                                                Ownership    Apartment         Capital              Value       Total      Percentage    Start      Initial   Completion    Stabilization     Leased /
+Projects                                                     Location           Percentage     Units            Cost               to Date     Debt (1)    Completed     Date     Occupancy     Date           Date           Occupied
+CONSOLIDATED:
+ Projects Under Development:
+ Reverb (fka 9th and W) (2)                              Washington, D.C.          92%                312     $   108,027      $     88,378   $   43,714      88%       Q3 2021    Q1 2023      Q3 2023       Q3 2024           –/–
+ Laguna Clara II                                         Santa Clara, CA          100%                225         152,621            24,562           —       14%       Q2 2022    Q4 2024      Q1 2025       Q4 2025           –/–
+ Projects Under Development - Consolidated                                                            537         260,648           112,940       43,714
+
+ Projects Completed Not Stabilized:
+ Aero Apartments                                         Alameda, CA               90%                200         117,794           113,610       64,664     100%       Q3 2019    Q2 2021      Q2 2021       Q1 2023        97% / 95%
+ Projects Completed Not Stabilized - Consolidated                                                     200         117,794           113,610       64,664
+
+ Projects Completed and Stabilized During the Quarter:
+ Alcott Apartments (fka West End Tower)                   Boston, MA              100%                470         409,164           408,114           —      100%       Q2 2018    Q3 2021      Q4 2021       Q4 2022        95% / 95%
+ Projects Completed and Stabilized During the Quarter - Consolidated                                  470         409,164           408,114           —
+
+UNCONSOLIDATED:
+ Projects Under Development:
+ Alloy Sunnyside                                         Denver, CO                80%                 209         66,004            38,309        5,931      53%       Q3 2021    Q4 2023      Q2 2024       Q1 2025           –/–
+ Alexan Harrison                                         Harrison, NY              62%                 450        198,664           100,922        2,809      39%       Q3 2021    Q3 2023      Q2 2024       Q4 2025           –/–
+ Solana Beeler Park                                      Denver, CO                90%                 270         81,206            27,008           —       19%       Q4 2021    Q4 2023      Q2 2024       Q1 2025           –/–
+ Remy (Toll)                                             Frisco, TX                75%                 357         96,937            46,214        4,892      37%       Q1 2022    Q1 2024      Q4 2024       Q3 2025           –/–
+ Settler (Toll)                                          Fort Worth, TX            75%                 362         81,775            26,456           —       24%       Q2 2022    Q2 2024      Q3 2024       Q3 2025           –/–
+ Lyle (Toll) (2)                                         Dallas, TX                75%                 334         86,332            13,732           —       13%       Q3 2022    Q4 2024      Q2 2025       Q1 2026           –/–
+ Projects Under Development - Unconsolidated                                                         1,982        610,918           252,641       13,632
+
+Total Development Projects - Consolidated                                                            1,207        787,606        634,664        108,378
+Total Development Projects - Unconsolidated                                                          1,982        610,918        252,641         13,632
+ Total Development Projects                                                                          3,189    $ 1,398,524      $ 887,305      $ 122,010
+
+
+                                                                                Total Budgeted               Q4 2022
+NOI CONTRIBUTION FROM DEVELOPMENT PROJECTS                                       Capital Cost                 NOI
+Projects Under Development - Consolidated                                   $              260,648    $                   —
+Projects Completed Not Stabilized - Consolidated                                           117,794                       903
+Projects Completed and Stabilized During the Quarter - Consolidated                        409,164                     5,668
+Projects Under Development - Unconsolidated                                                610,918                        —
+                                                                            $            1,398,524    $                6,571
+
+
+(1)   All non-wholly owned projects are being partially funded with project-specific construction loans. None of these loans are recourse to the Company. As of December 31, 2022, three projects have begun drawing on their construction
+      loans for the unconsolidated joint venture projects under development.
+
+(2)   The land parcels under these projects are subject to long-term ground leases.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                                                     24
+Table of Contents
+
+                                                              Equity Residential
+                                                     Capital Expenditures to Real Estate
+                                                    For the Year Ended December 31, 2022
+                                (Amounts in thousands except for apartment unit and per apartment unit amounts)
+
+                                                    Same Store                 Non-Same Store                                   Same Store Avg.
+                                                     Properties                Properties/Other              Total             Per Apartment Unit
+
+      Total Apartment Units                                   72,872                        6,725                     79,597
+
+      Building Improvements                     $           102,079        $              16,335 (2) $               118,414   $             1,401
+
+      Renovation Expenditures                                 43,197 (1)                    6,730 (2)                 49,927                   592
+
+      Replacements                                            49,834                        2,911                     52,745                   684
+
+      Capital Expenditures to Real Estate (3)   $           195,110        $              25,976        $            221,086   $             2,677
+
+(1)    Renovation Expenditures on 1,794 same store apartment units for the year ended December 31, 2022 approximated $24,079 per apartment unit
+       renovated.
+(2)    Includes expenditures for two properties that have been removed from same store while undergoing major renovations requiring a significant number
+       of apartment units to be vacated to accommodate the extensive planned improvements. The renovations are expected to continue through at least
+       the end of 2023 at both properties.
+(3)    See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                    25
+Table of Contents
+
+                                                                                             Equity Residential
+                                                                                    Normalized EBITDAre Reconciliations
+                                                                                             (Amounts in thousands)
+
+                                                                                                    Trailing Twelve Months                                        2022                              2021
+                                                                                           December 31, 2022        September 30, 2022         Q4           Q3           Q2           Q1             Q4
+Net income                                                                               $             806,995    $           1,202,619     $ 165,354    $ 335,165    $ 232,678    $ 73,798     $   560,978
+Interest expense incurred, net                                                                         282,920                  286,833        65,827       72,412       71,889       72,792         69,740
+Amortization of deferred financing costs                                                                 8,729                     8,986        2,308        2,220        2,124        2,077          2,565
+Amortization of above/below market lease intangibles                                                     4,464                     4,464        1,116        1,116        1,116        1,116          1,116
+Depreciation                                                                                           882,168                  890,136       214,272      214,129      223,806      229,961        222,240
+Income and other tax expense (benefit)                                                                     900                       961          175          152          291          282            236
+EBITDA                                                                                               1,986,176                2,393,999       449,052      625,194      531,904      380,026        856,875
+Net (gain) loss on sales of real estate properties                                                    (304,325)                 (788,906)          21     (196,551)    (107,897)         102        (484,560)
+Net (gain) loss on sales of unconsolidated entities - operating assets                                      (9)                   (1,309)          —            —            —            (9)         (1,300)
+EBITDAre                                                                                             1,681,842                 1,603,784      449,073      428,643      424,007      380,119         371,015
+Impairment – non-operating real estate assets                                                               —                     16,769           —            —            —            —          16,769
+Write-off of pursuit costs (other expenses)                                                              4,780                     6,265        1,484          781        1,052        1,463          2,969
+(Income) loss from investments in unconsolidated entities - operations                                   5,040                     5,135        1,575        1,027        1,168        1,270          1,670
+Realized (gain) loss on investment securities (interest and other income)                                1,164                    (2,061)       3,225            3            2       (2,066)            —
+Insurance/litigation settlement or reserve income (interest and other income)                           (1,650)                   (1,658)         (12)        (100)        (311)      (1,227)           (20)
+Insurance/litigation/environmental settlement or reserve expense (other expenses)                        1,495                     5,232          745           —            —           750          4,482
+Advocacy contributions (other expenses)                                                                  1,512                     1,663           50          720          567          175            201
+Data transformation project (other expenses)                                                             1,120                        —         1,120           —            —            —              —
+Real estate tax transaction adjustment (real estate taxes)                                             (18,072)                       —       (18,072)          —            —            —              —
+Other                                                                                                    1,694                     1,051          436        1,397          (70)         (69)          (207)
+Normalized EBITDAre                                                                      $           1,678,925    $            1,636,180    $ 439,624    $ 432,471    $ 426,415    $ 380,415    $   396,879
+
+Balance Sheet Items:                                                                       December 31, 2022        September 30, 2022
+Total debt                                                                               $           7,425,722    $           7,498,191
+Cash and cash equivalents                                                                              (53,869)                 (44,788)
+Mortgage principal reserves/sinking funds                                                              (25,304)                 (23,484)
+Net debt                                                                                 $           7,346,549    $           7,429,919
+
+
+Note: EBITDA, EBITDAre and Normalized EBITDAre do not include any adjustments for the Company’s share of partially owned unconsolidated entities or the minority partner’s share of partially owned
+consolidated entities due to the immaterial size of the Company’s partially owned portfolio.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                         26
+Table of Contents
+
+                                                                                     Equity Residential
+                                                                        Adjustments from FFO to Normalized FFO
+                                                                                      (Amounts in thousands)
+
+                                                                                                      Year Ended December 31,                                Quarter Ended December 31,
+                                                                                               2022            2021           Variance                2022              2021         Variance
+
+Impairment – non-operating real estate assets                                             $           —     $       16,769     $      (16,769)    $           —     $       16,769     $      (16,769)
+Write-off of pursuit costs (other expenses)                                                        4,780              6,526            (1,746)             1,484             2,969             (1,485)
+Write-off of unamortized deferred financing costs (interest expense)                                 717               744                (27)               348               480               (132)
+Write-off of unamortized (premiums)/discounts/OCI (interest expense)                               3,947                —               3,947                 —                 —                  —
+Debt extinguishment and preferred share redemption (gains) losses                                  4,664               744              3,920                348               480               (132)
+Net (gain) loss on sales of land parcels                                                              —                  (5)                5                 —                 —                  —
+(Income) loss from investments in unconsolidated entities ─ non-operating assets                   1,204              1,154                50                317               731               (414)
+Realized (gain) loss on investment securities (interest and other income)                          1,164            (23,432)           24,596              3,225                —               3,225
+Non-operating asset (gains) losses                                                                 2,368            (22,283)           24,651              3,542               731              2,811
+Insurance/litigation settlement or reserve income (interest and other income)                     (1,650)            (1,090)             (560)               (12)              (20)                 8
+Insurance/litigation/environmental settlement or reserve expense (other expenses)                  1,495              9,565            (8,070)               745             4,482             (3,737)
+Advocacy contributions (other expenses)                                                            1,512                708               804                 50               201               (151)
+Data transformation project (other expenses)                                                       1,120                 —              1,120              1,120                —               1,120
+Real estate tax transaction adjustment (real estate taxes)                                       (18,072)                —            (18,072)           (18,072)               —             (18,072)
+Other                                                                                              1,694               (207)            1,901                436              (207)               643
+Other miscellaneous items                                                                        (13,901)             8,976           (22,877)           (15,733)            4,456            (20,189)
+Adjustments from FFO to Normalized FFO                                                    $       (2,089)   $       10,732     $      (12,821)    $      (10,359)   $       25,405     $      (35,764)
+
+Note: See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for the definitions of non-GAAP financial measures and other terms as well as the reconciliations of
+EPS to FFO per share and Normalized FFO per share.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                                                                   27
+Table of Contents
+
+                                                                  Equity Residential
+                                                  Normalized FFO Guidance and Assumptions
+
+The guidance/projections provided below are based on current expectations and are forward-looking. All guidance is given on a Normalized FFO
+basis. Therefore, certain items excluded from Normalized FFO, such as debt extinguishment costs/prepayment penalties and the write-off of
+pursuit costs, are not included in the estimates provided on this page. See Additional Reconciliations and Definitions of Non-GAAP Financial
+Measures and Other Terms for the definitions of non-GAAP financial measures and other terms as well as the reconciliations of EPS to FFO per
+share and Normalized FFO per share.
+
+                                                                                                    Q1 2023                         Full Year 2023
+2023 Normalized FFO Guidance (per share diluted)
+      Expected Normalized FFO Per Share                                                          $0.84 to $0.88                     $3.70 to $3.80
+2023 Same Store Assumptions (includes Residential and Non-Residential)
+      Physical Occupancy                                                                                                                96.2%
+      Revenue change (1)                                                                                                             4.5% to 6.0%
+      Expense change                                                                                                                 4.0% to 5.0%
+      NOI change (2)                                                                                                                4.75% to 6.25%
+2023 Transaction Assumptions (3)
+      Consolidated rental acquisitions                                                                                                     –
+      Consolidated rental dispositions                                                                                                     –
+2023 Debt Assumptions
+      Weighted average debt outstanding                                                                                          $7.375B to $7.575B
+      Interest expense, net (on a Normalized FFO basis)                                                                          $274.5M to $280.5M
+      Capitalized interest                                                                                                        $10.0M to $14.0M
+2023 Capital Expenditures to Real Estate Assumptions for Same Store Properties (4)
+      Capital Expenditures to Real Estate for Same Store Properties                                                                    $240.0M
+      Capital Expenditures to Real Estate per Same Store Apartment Unit                                                                 $3,100
+2023 Other Guidance Assumptions
+      Property management expense                                                                                                $119.0M to $122.0M
+      General and administrative expense                                                                                          $55.5M to $59.5M
+      Debt offerings                                                                                                             $700.0M to $900.0M
+      Weighted average Common Shares and Units - Diluted                                                                               391.3M
+
+(1)     We anticipate that revenue change will be negatively impacted by approximately 0.9% at the midpoint due to continuing elevated levels of forecasted
+        Bad Debt, Net in 2023, as a result of a slower return to normal resident payment patterns due to local governmental restrictions primarily in California
+        and a lack of governmental rental assistance.
+(2)     Approximately 20 basis point change in NOI percentage = $0.01 per share change in EPS/FFO per share/Normalized FFO per share.
+(3)     Given the current uncertainty in the transaction environment, the Company's full year 2023 acquisition and disposition guidance reflects no anticipated
+        activity.
+(4)     During 2023, the Company expects to spend approximately $65.0 million for apartment unit Renovation Expenditures on approximately 2,700 same
+        store apartment units at an average cost of approximately $24,000 per apartment unit renovated, which is included in the Capital Expenditures to
+        Real Estate assumptions noted above.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                                           28
+Table of Contents
+
+                                                          Equity Residential
+            Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms
+                                  (Amounts in thousands except per share and per apartment unit data)
+                                                     (All per share data is diluted)
+This Earnings Release and Supplemental Financial Information includes certain non-GAAP financial measures and other terms that
+management believes are helpful in understanding our business. The definitions and calculations of these non-GAAP financial measures
+and other terms may differ from the definitions and methodologies used by other real estate investment trusts (“REIT”) and, accordingly,
+may not be comparable. These non-GAAP financial measures should not be considered as an alternative to net earnings or any other
+measurement of performance computed in accordance with accounting principles generally accepted in the United States (“GAAP”) or
+as an alternative to cash flows from specific operating, investing or financing activities. Furthermore, these non-GAAP financial measures
+are not intended to be a measure of cash flow or liquidity.
+
+Acquisition Capitalization Rate or Cap Rate – NOI that the Company anticipates receiving in the next 12 months (or the year two or
+three stabilized NOI for properties that are in lease-up at acquisition) less an estimate of property management costs/management fees
+allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on the size and income streams of the asset) and
+less an estimate for in-the-unit replacement capital expenditures (generally ranging from $100-$450 per apartment unit depending on the
+age and condition of the asset) divided by the gross purchase price of the asset. The weighted average Acquisition Cap Rate for acquired
+properties is weighted based on the projected NOI streams and the relative purchase price for each respective property.
+
+Average Rental Rate – Total Residential rental revenues reflected on a straight-line basis in accordance with GAAP divided by the
+weighted average occupied apartment units for the reporting period presented.
+
+Bad Debt, Net – Change in rental income due to bad debt write-offs and reserves, net of amounts collected on previously written-off or
+reserved accounts.
+
+Blended Rate – The weighted average of New Lease Change and Renewal Rate Achieved.
+
+Capital Expenditures to Real Estate:
+   Building Improvements – Includes roof replacement, paving, building mechanical equipment systems, exterior siding and painting,
+   major landscaping, furniture, fixtures and equipment for amenities and common areas, vehicles and office and maintenance
+   equipment.
+
+   Renovation Expenditures – Apartment unit renovation costs (primarily kitchens and baths) designed to reposition these units for
+   higher rental levels in their respective markets.
+
+   Replacements – Includes appliances, mechanical equipment, fixtures and flooring (including hardwood and carpeting).
+
+Debt Balances:
+   Commercial Paper Program – The Company may borrow up to a maximum of $1.0 billion under its commercial paper program
+   subject to market conditions. The notes bear interest at various floating rates.
+
+   Revolving Credit Facility – The Company’s $2.5 billion unsecured revolving credit facility matures October 26, 2027. The interest
+   rate on advances under the facility will generally be SOFR plus a spread (currently 0.725%), or based on bids received from the
+   lending group, and an annual facility fee (currently 0.125%). Both the spread and the facility fee are dependent on the Company’s
+   senior unsecured credit rating. In addition, the Company limits its utilization of the facility in order to maintain liquidity to support its
+   $1.0 billion commercial paper program along with certain other obligations. The following table presents the availability on the
+   Company’s unsecured revolving credit facility:
+
+                                                                                          December 31, 2022
+                               Unsecured revolving credit facility commitment            $         2,500,000
+                               Commercial paper balance outstanding                                 (130,000)
+                               Unsecured revolving credit facility balance outstanding                    —
+                               Other restricted amounts                                               (3,463)
+                               Unsecured revolving credit facility availability          $         2,366,537
+
+Debt Covenant Compliance – Our unsecured debt includes certain financial and operating covenants including, among other things,
+maintenance of certain financial ratios. These provisions are contained in the indentures applicable to each notes payable or the credit
+agreement for our line of credit. The Debt Covenant Compliance ratios that are provided show the Company's compliance with certain
+covenants governing our public unsecured debt. These covenants generally reflect our most restrictive financial covenants. The
+Company was in compliance with its unsecured debt covenants for all periods presented.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                           29
+Table of Contents
+
+                                                               Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                                    (Amounts in thousands except per share and per apartment unit data)
+                                                       (All per share data is diluted)
+
+Development Yield – NOI that the Company anticipates receiving in the next 12 months following stabilization less an estimate of
+property management costs/management fees allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on
+the size and income streams of the asset) and less an estimate for in-the-unit replacement capital expenditures (generally ranging from
+$50-$150 per apartment unit depending on the type of asset) divided by the Total Budgeted Capital Cost of the asset. The weighted
+average Development Yield for development properties is weighted based on the projected NOI streams and the relative Total Budgeted
+Capital Cost for each respective property.
+
+Disposition Yield – NOI that the Company anticipates giving up in the next 12 months less an estimate of property management
+costs/management fees allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on the size and income
+streams of the asset) and less an estimate for in-the-unit replacement capital expenditures (generally ranging from $150-$450 per
+apartment unit depending on the age and condition of the asset) divided by the gross sales price of the asset. The weighted average
+Disposition Yield for sold properties is weighted based on the projected NOI streams and the relative sales price for each respective
+property.
+
+Earnings Per Share ("EPS") – Net income per share calculated in accordance with GAAP. Expected EPS is calculated on a basis
+consistent with actual EPS. Due to the uncertain timing and extent of property dispositions and the resulting gains/losses on sales, actual
+EPS could differ materially from expected EPS.
+
+EBITDA for Real Estate and Normalized EBITDA for Real Estate:
+   Earnings Before Interest, Taxes, Depreciation and Amortization for Real Estate (“EBITDAre”) – The National Association of
+   Real Estate Investment Trusts (“Nareit”) defines EBITDAre (September 2017 White Paper) as net income (computed in accordance
+   with GAAP) before interest expense, income taxes, depreciation and amortization expense, and further adjusted for gains and losses
+   from sales of depreciated operating properties, impairment write-downs of depreciated operating properties, impairment write-downs
+   of investments in unconsolidated entities caused by a decrease in value of depreciated operating properties within the joint venture
+   and adjustments to reflect the Company’s share of EBITDAre of investments in unconsolidated entities.
+
+   The Company believes that EBITDAre is useful to investors, creditors and rating agencies as a supplemental measure of the
+   Company’s ability to incur and service debt because it is a recognized measure of performance by the real estate industry, and by
+   excluding gains or losses related to sales or impairment of depreciated operating properties, EBITDAre can help compare the
+   Company’s credit strength between periods or as compared to different companies.
+
+   Normalized Earnings Before Interest, Taxes, Depreciation and Amortization for Real Estate (“Normalized EBITDAre”) –
+   Represents net income (computed in accordance with GAAP) before interest expense, income taxes, depreciation and amortization
+   expense, and further adjusted for non-comparable items. Normalized EBITDAre, total debt to Normalized EBITDAre and net debt to
+   Normalized EBITDAre are important metrics in evaluating the credit strength of the Company and its ability to service its debt
+   obligations. The Company believes that Normalized EBITDAre, total debt to Normalized EBITDAre, and net debt to Normalized
+   EBITDAre are useful to investors, creditors and rating agencies because they allow investors to compare the Company’s credit
+   strength to prior reporting periods and to other companies without the effect of items that by their nature are not comparable from
+   period to period and tend to obscure the Company’s actual credit quality.
+
+Economic Gain (Loss) – Economic Gain (Loss) is calculated as the net gain (loss) on sales of real estate properties in accordance with
+GAAP, excluding accumulated depreciation. The Company generally considers Economic Gain (Loss) to be an appropriate supplemental
+measure to net gain (loss) on sales of real estate properties in accordance with GAAP because it is one indication of the gross value
+created by the Company's acquisition, development, renovation, management and ultimate sale of a property and because it helps
+investors to understand the relationship between the cash proceeds from a sale and the cash invested in the sold property. The following
+table presents a reconciliation of net gain (loss) on sales of real estate properties in accordance with GAAP to Economic Gain (Loss):
+
+                                                                Year Ended December 31, 2022          Quarter Ended December 31, 2022
+      Net Gain (Loss) on Sales of Real Estate Properties   $                              304,325 $                                     (21)
+      Accumulated Depreciation Gain                                                      (202,488)                                       —
+      Economic Gain (Loss)                                 $                              101,837 $                                     (21)
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                              30
+Table of Contents
+
+                                                         Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                                  (Amounts in thousands except per share and per apartment unit data)
+                                                     (All per share data is diluted)
+
+Forecasted Embedded Growth – The positive or negative contribution to growth implied by annualizing total lease income anticipated
+for the last month of the current year (without regard to vacancy) compared to anticipated actual full year lease income for the current
+year (without regard to vacancy) and excluding the impact of Leasing Concessions and other income. This metric is a helpful data point
+in that it captures the impact of leases in existence at the end of the current year and their impact on rental income for the following year.
+
+FFO and Normalized FFO:
+  Funds From Operations (“FFO”) – Nareit defines FFO (December 2018 White Paper) as net income (computed in accordance with
+  GAAP), excluding gains or losses from sales and impairment write-downs of depreciable real estate and land when connected to the
+  main business of a REIT, impairment write-downs of investments in entities when the impairment is directly attributable to decreases
+  in the value of depreciable real estate held by the entity and depreciation and amortization related to real estate. Adjustments for
+  partially owned consolidated and unconsolidated partnerships and joint ventures are calculated to reflect FFO on the same basis.
+  Expected FFO per share is calculated on a basis consistent with actual FFO per share and is considered an appropriate supplemental
+  measure of expected operating performance when compared to expected EPS.
+
+   The Company believes that FFO and FFO available to Common Shares and Units are helpful to investors as supplemental measures
+   of the operating performance of a real estate company, because they are recognized measures of performance by the real estate
+   industry and by excluding gains or losses from sales and impairment write-downs of depreciable real estate and excluding depreciation
+   related to real estate (which can vary among owners of identical assets in similar condition based on historical cost accounting and
+   useful life estimates), FFO and FFO available to Common Shares and Units can help compare the operating performance of a
+   company’s real estate between periods or as compared to different companies.
+
+   Normalized Funds From Operations ("Normalized FFO") – Normalized FFO begins with FFO and excludes:
+      •     the impact of any expenses relating to non-operating real estate asset impairment;
+      •     pursuit cost write-offs;
+      •     gains and losses from early debt extinguishment and preferred share redemptions;
+      •     gains and losses from non-operating assets; and
+      •     other miscellaneous items.
+
+   Expected Normalized FFO per share is calculated on a basis consistent with actual Normalized FFO per share and is considered an
+   appropriate supplemental measure of expected operating performance when compared to expected EPS.
+
+   The Company believes that Normalized FFO and Normalized FFO available to Common Shares and Units are helpful to investors as
+   supplemental measures of the operating performance of a real estate company because they allow investors to compare the
+   Company's operating performance to its performance in prior reporting periods and to the operating performance of other real estate
+   companies without the effect of items that by their nature are not comparable from period to period and tend to obscure the Company's
+   actual operating results.
+
+   FFO, FFO available to Common Shares and Units, Normalized FFO and Normalized FFO available to Common Shares and Units do
+   not represent net income, net income available to Common Shares or net cash flows from operating activities in accordance with
+   GAAP. Therefore, FFO, FFO available to Common Shares and Units, Normalized FFO and Normalized FFO available to Common
+   Shares and Units should not be exclusively considered as alternatives to net income, net income available to Common Shares or net
+   cash flows from operating activities as determined by GAAP or as a measure of liquidity. The Company's calculation of FFO, FFO
+   available to Common Shares and Units, Normalized FFO and Normalized FFO available to Common Shares and Units may differ
+   from other real estate companies due to, among other items, variations in cost capitalization policies for capital expenditures and,
+   accordingly, may not be comparable to such other real estate companies.
+
+   FFO available to Common Shares and Units and Normalized FFO available to Common Shares and Units are calculated on a basis
+   consistent with net income available to Common Shares and reflects adjustments to net income for preferred distributions and
+   premiums on redemption of preferred shares in accordance with GAAP. The equity positions of various individuals and entities that
+   contributed their properties to the Operating Partnership in exchange for OP Units are collectively referred to as the "Noncontrolling
+   Interests – Operating Partnership". Subject to certain restrictions, the Noncontrolling Interests – Operating Partnership may exchange
+   their OP Units for Common Shares on a one-for-one basis.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                         31
+Table of Contents
+
+                                                                Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                                     (Amounts in thousands except per share and per apartment unit data)
+                                                        (All per share data is diluted)
+
+The following table presents reconciliations of EPS to FFO per share and Normalized FFO per share for Consolidated Statements of
+Funds From Operations and Normalized Funds From Operations.
+
+                                                                                        Actual           Actual           Expected            Expected
+                                                 Actual 2022       Actual 2021         Q4 2022          Q4 2021            Q1 2023              2023
+                                                  Per Share         Per Share         Per Share        Per Share          Per Share           Per Share
+EPS – Diluted                                   $         2.05    $         3.54    $        0.42     $       1.40       $0.28 to $0.32      $1.49 to $1.59
+Depreciation expense                                      2.26              2.15             0.55             0.57                 0.55                2.17
+Net (gain) loss on sales                                 (0.78)            (2.73)              —             (1.21)                  —                   —
+Impairment – operating real estate assets                   —                 —                —                —                    —                   —
+FFO per share – Diluted                                  3.53              2.96             0.97               0.76        0.83 to 0.87        3.66 to 3.76
+Impairment – non-operating real estate assets              —               0.04               —                0.04                   —                   —
+Write-off of pursuit costs                               0.01              0.02               —                0.01                   —                 0.01
+Debt extinguishment and preferred share
+  redemption (gains) losses                               0.01                —               —                  —                     —                  —
+Non-operating asset (gains) losses                        0.01             (0.06)           0.01                 —                     —                0.01
+Other miscellaneous items                                (0.04)             0.03           (0.04)              0.01                  0.01               0.02
+Normalized FFO per share – Diluted              $        3.52     $        2.99     $       0.94      $        0.82      $0.84 to $0.88      $3.70 to $3.80
+
+Lease-Up NOI – Represents NOI for development properties: (i) in various stages of lease-up; and (ii) where lease-up has been
+completed but the properties were not stabilized (defined as having achieved 90% occupancy for three consecutive months) for all of the
+current and comparable periods presented.
+
+Leasing Concessions – Reflects upfront discounts on both new move-in and renewal leases on a straight-line basis.
+
+Net Operating Income (“NOI”) – NOI is the Company’s primary financial measure for evaluating each of its apartment properties. NOI
+is defined as rental income less direct property operating expenses (including real estate taxes and insurance). The Company believes
+that NOI is helpful to investors as a supplemental measure of its operating performance because it is a direct measure of the actual
+operating results of the Company's apartment properties. NOI does not include an allocation of property management expenses either
+in the current or comparable periods. Rental income for all leases and operating expense for ground leases (for both same store and
+non-same store properties) are reflected on a straight-line basis in accordance with GAAP for the current and comparable periods.
+
+The following tables present reconciliations of operating income per the consolidated statements of operations to NOI, along with rental
+income, operating expenses and NOI per the consolidated statements of operations allocated between same store and non-same
+store/other results (see Same Store Results):
+                                                                Year Ended December 31,                       Quarter Ended December 31,
+                                                                 2022            2021                           2022             2021
+      Operating income                                  $         1,116,046 $     1,675,841               $        242,363 $       641,883
+      Adjustments:
+        Property management                                        110,304                 98,155                      27,269                23,798
+        General and administrative                                  58,710                 56,506                      11,677                13,404
+        Depreciation                                               882,168                838,272                     214,272               222,240
+        Net (gain) loss on sales of real estate
+          properties                                               (304,325)            (1,072,183)                        21               (484,560)
+        Impairment                                                       —                  16,769                         —                  16,769
+      Total NOI                                         $         1,862,903     $        1,613,360        $           495,602    $           433,534
+      Rental income:
+        Same store                                      $         2,533,577     $       2,291,604         $           667,452    $          611,636
+        Non-same store/other                                        201,603               172,393                      32,251                33,494
+      Total rental income                                         2,735,180             2,463,997                     699,703               645,130
+      Operating expenses:
+        Same store                                                 802,291                774,504                     206,701               196,275
+        Non-same store/other                                        69,986                 76,133                      (2,600)               15,321
+      Total operating expenses                                     872,277                850,637                     204,101               211,596
+      NOI:
+        Same store                                                1,731,286             1,517,100                     460,751               415,361
+        Non-same store/other                                        131,617                96,260                      34,851                18,173
+      Total NOI                                         $         1,862,903     $       1,613,360         $           495,602    $          433,534
+
+
+4th Quarter 2022 Earnings Release                                                                                                                         32
+Table of Contents
+
+                                                        Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                                  (Amounts in thousands except per share and per apartment unit data)
+                                                     (All per share data is diluted)
+
+New Lease Change – The net effective change in rent (inclusive of Leasing Concessions) for a lease with a new or transferring resident
+compared to the rent for the prior lease of the identical apartment unit, regardless of lease term.
+
+Non-Residential – Consists of revenues and expenses from retail and public parking garage operations.
+
+Non-Same Store Properties – For annual comparisons, primarily includes all properties acquired during 2021 and 2022, plus any
+properties in lease-up and not stabilized as of January 1, 2021.
+
+Percentage of Residents Renewing – Leases renewed expressed as a percentage of total renewal offers extended during the reporting
+period.
+
+Physical Occupancy – The weighted average occupied apartment units for the reporting period divided by the average of total apartment
+units available for rent for the reporting period.
+
+Pricing Trend – Weighted average of 12-month base rent including amenity amount less Leasing Concessions on 12-month signed
+leases for the reporting period.
+
+Renewal Rate Achieved – The net effective change in rent (inclusive of Leasing Concessions) for a new lease on an apartment unit
+where the lease has been renewed as compared to the rent for the prior lease of the identical apartment unit, regardless of lease term.
+
+Residential – Consists of multifamily apartment revenues and expenses.
+
+Same Store Operating Expenses:
+  On-site Payroll – Includes payroll and related expenses for on-site personnel including property managers, leasing consultants and
+  maintenance staff.
+
+   Other On-site Operating Expenses – Includes ground lease costs and administrative costs such as office supplies, telephone and
+   data charges and association and business licensing fees.
+
+   Repairs and Maintenance – Includes general maintenance costs, apartment unit turnover costs including interior painting, routine
+   landscaping, security, exterminating, fire protection, snow removal, elevator, roof and parking lot repairs and other miscellaneous
+   building repair and maintenance costs.
+
+   Utilities – Represents gross expenses prior to any recoveries under the Resident Utility Billing System (“RUBS”). Recoveries are
+   reflected in rental income.
+
+Same Store Properties – For annual comparisons, primarily includes all properties acquired or completed that are stabilized prior to
+January 1, 2021, less properties subsequently sold. Properties are included in Same Store when they are stabilized for all of the current
+and comparable periods presented.
+
+Same Store Residential Revenues – Revenues from our Same Store Properties presented on a GAAP basis which reflects the impact
+of Leasing Concessions on a straight-line basis.
+
+Same Store Residential Revenues with Leasing Concessions on a cash basis is presented in Same Store Results and is considered by
+the Company to be a supplemental measure to Same Store Residential Revenues in conformity with GAAP to help investors evaluate
+the impact of both current and historical Leasing Concessions on GAAP-based Same Store Residential Revenues and to more readily
+enable comparisons to revenue as reported by other companies. Same Store Residential Revenues with Leasing Concessions on a
+cash basis reflects the impact of Leasing Concessions used in the period and allows an investor to understand the historical trend in cash
+Leasing Concessions.
+
+% of Stabilized Budgeted NOI – Represents original budgeted 2023 NOI for stabilized properties and projected annual NOI at
+stabilization (defined as having achieved 90% occupancy for three consecutive months) for properties that are in lease-up.
+
+Total Budgeted Capital Cost – Estimated remaining cost for projects under development and/or developed plus all capitalized costs
+incurred to date, including land acquisition costs, construction costs, capitalized real estate taxes and insurance, capitalized interest and
+loan fees, permits, professional fees, allocated development overhead and other regulatory fees, plus any estimates of costs remaining
+to be funded for all projects, all in accordance with GAAP. Amounts for partially owned consolidated and unconsolidated properties are
+presented at 100% of the project.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                        33
+Table of Contents
+
+                                                        Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                                 (Amounts in thousands except per share and per apartment unit data)
+                                                    (All per share data is diluted)
+
+Total Market Capitalization – The aggregate of the market value of the Company’s outstanding common shares, including restricted
+shares, the market value of the Company’s operating partnership units outstanding, including restricted units (based on the market value
+of the Company’s common shares) and the outstanding principal balance of debt. The Company believes this is a useful measure of a
+real estate operating company’s long-term liquidity and balance sheet strength, because it shows an approximate relationship between
+a company’s total debt and the current total market value of its assets based on the current price at which the Company’s common shares
+trade. However, because this measure of leverage changes with fluctuations in the Company’s share price, which occur regularly, this
+measure may change even when the Company’s earnings, interest and debt levels remain stable.
+
+Traffic – Consists of an expression of interest in an apartment by completing an in-person tour, self-guided tour or virtual tour that may
+result in an application to lease.
+
+Transaction Accretion (Dilution) – Represents the spread between the Acquisition Cap Rate and the Disposition Yield.
+
+Turnover – Total Residential move-outs (including inter-property and intra-property transfers) divided by total Residential apartment units.
+
+Unencumbered NOI % – Represents NOI generated by consolidated real estate assets unencumbered by outstanding secured debt as
+a percentage of total NOI generated by all of the Company's consolidated real estate assets.
+
+Unlevered Internal Rate of Return (“IRR”) – The Unlevered IRR on sold properties is the compound annual rate of return calculated
+by the Company based on the timing and amount of: (i) the gross purchase price of the property plus any direct acquisition costs incurred
+by the Company; (ii) total revenues earned during the Company’s ownership period; (iii) total direct property operating expenses (including
+real estate taxes and insurance) incurred during the Company’s ownership period; (iv) capital expenditures incurred during the Company’s
+ownership period; and (v) the gross sales price of the property net of selling costs.
+
+The calculation of the Unlevered IRR does not include an adjustment for the Company’s property management expense, general and
+administrative expense or interest expense (including loan assumption costs and other loan-related costs). Therefore, the Unlevered
+IRR is not a substitute for net income as a measure of our performance. Management believes that the Unlevered IRR achieved during
+the period a property is owned by the Company is useful because it is one indication of the gross value created by the Company’s
+acquisition, development, renovation, management and ultimate sale of a property, before the impact of Company overhead. The
+Unlevered IRR achieved on the properties as cited in this release should not be viewed as an indication of the gross value created with
+respect to other properties owned by the Company, and the Company does not represent that it will achieve similar Unlevered IRRs upon
+the disposition of other properties. The weighted average Unlevered IRR for sold properties is weighted based on all cash flows over the
+investment period for each respective property, including net sales proceeds.
+
+Weighted Average Coupons – Contractual interest rate for each debt instrument weighted by principal balances as of December 31,
+2022. In case of debt for which fair value hedges are in place, the rate payable under the corresponding derivatives is used in lieu of the
+contractual interest rate.
+
+Weighted Average Rates – Interest expense for each debt instrument for the year ended December 31, 2022 weighted by its average
+principal balance for the same period. Interest expense includes amortization of premiums, discounts and other comprehensive income
+on debt and related derivative instruments. In case of debt for which derivatives are in place, the income or expense recognized under
+the corresponding derivatives is included in the total interest expense for the period.
+
+
+
+
+4th Quarter 2022 Earnings Release                                                                                                       34
+

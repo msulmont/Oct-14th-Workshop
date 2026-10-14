@@ -1,0 +1,1486 @@
+i
+First Quarter 2021 Results
+
+
+
+
+Table of Contents
+
+Earnings Release ........................................................................................................       1-4
+Consolidated Statements of Operations .....................................................................                        5
+Consolidated Statements of Funds From Operations and Normalized
+Funds From Operations ..............................................................................................               6
+Consolidated Balance Sheets .....................................................................................                  7
+Portfolio Summary.......................................................................................................           8
+Same Store Results ....................................................................................................        9 - 14
+Debt Summary ............................................................................................................     15 - 17
+Capital Structure .........................................................................................................       18
+Common Share and Unit Weighted Average Amounts Outstanding ..........................                                             19
+Development and Lease-Up Projects .........................................................................                       20
+Capital Expenditures to Real Estate ...........................................................................                   21
+Normalized EBITDAre Reconciliations .......................................................................                       22
+Adjustments from FFO to Normalized FFO ................................................................                           23
+Normalized FFO Guidance and Assumptions.............................................................                              24
+Additional Reconciliations and Definitions of Non-GAAP
+Financial Measures and Other Terms.........................................................................                   25 - 30
+
+
+
+
+Corporate Headquarters:
+Two North Riverside Plaza
+Chicago, IL 60606
+(312) 474-1300
+Information included in this supplemental package is unaudited.
+Table of Contents
+
+
+
+
+NEWS RELEASE - FOR IMMEDIATE RELEASE
+
+April 27, 2021
+
+
+                     Equity Residential Reports First Quarter 2021 Results
+          Full Year Guidance Ranges Raised as Broad-Based Recovery Continues
+Chicago, IL – April 27, 2021 - Equity Residential (NYSE: EQR) today reported results for the quarter ended March 31,
+2021 and has posted a Q1 2021 Management Presentation to its website as referenced below.
+
+First Quarter 2021 Results
+All per share results are reported as available to common shares/units on a diluted basis.
+
+
+                                                                            Quarter Ended March 31,
+                                                          2021               2020           $ Change        % Change
+ Earnings Per Share (EPS)                            $           0.15   $         0.83   $        (0.68 )        (81.9 %)
+ Funds from Operations (FFO) per share               $           0.67   $         0.86   $        (0.19 )        (22.1 %)
+ Normalized FFO per share                            $           0.68   $         0.87   $        (0.19 )        (21.8 %)
+
+
+ “While the first quarter’s results reflect the significant impact of the pandemic on our business, we continue to see
+substantial signs of improvement as cities begin to reopen and affluent renters return. We are producing occupancy and
+pricing trends better than our original expectations and are therefore pleased to raise our full year same store revenue
+guidance range by 100 basis points to -6.0% to -8.0%,” said Mark J. Parrell, Equity Residential’s President and CEO. “As
+we head into the seasonally highest demand period of the year, we see considerable positive momentum in our
+operations and we expect to further reduce concessions and increase rental rates in light of the strong demand we see
+across our markets.”
+
+Highlights
+
+    ●   The Company has seen a 1.6% improvement in same store Physical Occupancy since the end of the fourth
+        quarter 2020 (94.4% on December 31, 2020 to 96.0% on April 22, 2021).
+    ●   Pricing Trends continue to improve across all markets with an approximately 14% sequential improvement
+        portfolio-wide from December 2020 through April 2021. See the Management Presentation for details.
+    ●   The Company collected approximately 97% of its expected Residential revenues in the first quarter of 2021.
+    ●   The Company expanded its efforts to improve access to affordable housing with a $5.0 million commitment to a
+        fund dedicated to preserving affordable housing.
+
+Results Per Share
+The change in EPS for the quarter ended March 31, 2021 compared to the same period of 2020 is due primarily to lower
+property sale gains in the first quarter of 2021, the various adjustment items listed on page 23 of this release and the
+items described below.
+
+The per share change in FFO for the quarter ended March 31, 2021 compared to the same period of 2020, is due
+primarily to the various adjustment items listed on page 23 of this release and the items described below.
+
+
+
+
+                                                                                                                            1
+Table of Contents
+
+The per share change in Normalized FFO is due primarily to:
+
+                                                                                      Positive/(Negative) Impact
+                                                                                        First Quarter 2021 vs.
+                                                                                          First Quarter 2020
+                    Residential same store Net Operating Income (NOI)             $                          (0.20 )
+                    2020 transaction activity impact on NOI, net                                             (0.03 )
+                    Interest expense, net                                                                     0.05
+                    Other items                                                                              (0.01 )
+                         Net                                                      $                          (0.19 )
+
+The Company has a glossary of defined terms and related reconciliations of Non-GAAP financial measures on pages 25
+through 30 of this release. Reconciliations and definitions of FFO and Normalized FFO are provided on pages 6, 27 and
+28 of this release.
+
+Same Store Results
+The Company has provided a breakout of Residential and Non-Residential same store results on page 9 of this release
+with definitions that can be found on page 29 of this release. Non-Residential operations account for approximately 3.8%
+of total revenues for the quarter ended March 31, 2021. The table below reflects same store Residential only results for
+the first quarter 2021 to first quarter 2020 comparison, which includes 77,060 apartment units, as well as for the first
+quarter 2021 to fourth quarter 2020 comparison, which includes 77,281 apartment units. The Company’s Physical
+Occupancy was 95.0% for the first quarter of 2021 compared to 94.2% for the fourth quarter of 2020 and 96.4% for the
+first quarter of 2020.
+
+                                                   First Quarter 2021 vs.    First Quarter 2021 vs.
+                                                     First Quarter 2020       Fourth Quarter 2020
+                                 Revenues                 (10.6%)                     (2.3%)
+                                 Expenses                   3.9%                       5.6%
+                                 NOI                      (17.1%)                     (6.2%)
+
+The following table reflects the detail of the change in Same Store Residential Revenues, which is presented on a GAAP
+basis showing Leasing Concessions on a straight-line basis. See page 10 for detail and reconciliations of Same Store
+Residential Revenues on a GAAP basis to Same Store Residential Revenues with Leasing Concessions on a cash basis.
+
+                                                             First Quarter 2021 vs.            First Quarter 2021 vs.
+                                                               First Quarter 2020               Fourth Quarter 2020
+                                                                   % Change                          % Change
+             Same Store Residential Revenues-
+              comparable period
+             Lease rates                                                         (6.6 %)                           (2.3 %)
+             Leasing Concessions (1)                                             (1.6 %)                           (0.6 %)
+             Vacancy loss                                                        (1.0 %)                            1.1 %
+             Bad Debt, Net (2)                                                   (1.6 %)                           (0.1 %)
+             Other (3)                                                            0.2 %                            (0.4 %)
+             Same Store Residential Revenues-
+              current period                                                   (10.6 %)                            (2.3 %)
+
+(1) Reflects upfront discounts on both new move-in and renewal leases on a straight-line basis.
+(2) Reduction in rental income due to bad debt write-offs and reserves, net of amounts collected on previously written-off or reserved
+    accounts.
+(3) Includes ancillary income, utility recoveries, early lease termination income, miscellaneous income and other items.
+
+
+
+
+                                                                                                                                    2
+Table of Contents
+
+Residential Same Store Operating Statistics
+The following table includes select operating metrics for Residential Same Store Properties:
+
+                                                                            Q4 2020              Q1 2021       April 2021 (1)
+          Physical Occupancy (2)                                             94.4%               95.6%            96.0%
+          Percentage of Residents Renewing by quarter/month                  51.0%               53.0%            56.0%
+          New Lease Change                                                  (20.5%)           (17.7%)            (11.4%)
+          Renewal Rate Achieved                                              (3.4%)            (5.1%)             (2.1%)
+          Blended Rate                                                      (13.0%)           (12.1%)             (7.2%)
+(1) April 2021 results are preliminary.
+(2) Physical Occupancy is as of month-end December for Q4 2020, month-end March for Q1 2021 and as of April 22 for April 2021.
+
+Investment Activity
+The Company did not acquire or sell any assets during the first quarter of 2021.
+
+Second Quarter 2021 Guidance
+The Company has established guidance ranges for the second quarter of 2021 EPS, FFO per share and Normalized FFO
+per share as listed below:
+
+                                                                                      Q2 2021
+                                                                                      Guidance
+                                  EPS                                             $0.66 to $0.70
+                                  FFO per share                                   $0.66 to $0.70
+                                  Normalized FFO per share                        $0.67 to $0.71
+
+The difference between the first quarter 2021 actual EPS of $0.15 and the second quarter of 2021 EPS guidance midpoint
+of $0.68 is due primarily to higher expected property sale gains and lower expected corporate overhead.
+
+The difference between the first quarter 2021 actual FFO of $0.67 per share and the second quarter of 2021 FFO
+guidance midpoint of $0.68 per share is due primarily to lower expected corporate overhead.
+
+The difference between the first quarter 2021 actual Normalized FFO of $0.68 per share and the second quarter of 2021
+Normalized FFO guidance midpoint of $0.69 per share is due primarily to lower expected corporate overhead.
+
+Full Year 2021 Guidance
+The Company has revised its guidance for its full year 2021 same store operating performance as well as EPS, FFO per
+share and Normalized FFO per share as listed below:
+
+                                                                           Revised                           Previous
+      Same Store (includes Residential and Non-Residential):
+        Physical Occupancy                                             95.0% to 96.0%                      94.8% to 95.8%
+        Revenue change                                                (8.0%) to (6.0%)                    (9.0%) to (7.0%)
+        Expense change                                                  3.0% to 4.0%                        3.0% to 4.0%
+        NOI change                                                   (13.0%) to (11.0%)                  (15.0%) to (12.0%)
+
+      EPS                                                               $2.57 to $2.67                     $2.55 to $2.75
+      FFO per share                                                     $2.67 to $2.77                     $2.58 to $2.78
+      Normalized FFO per share                                          $2.70 to $2.80                     $2.60 to $2.80
+
+The change in the full year 2021 EPS guidance range is due primarily to lower expected property sale gains and higher
+expected same store NOI.
+
+The change in the full year 2021 FFO per share guidance range is due primarily to higher expected same store NOI.
+
+The change in the full year 2021 Normalized FFO per share guidance range is due primarily to higher expected same
+store NOI.
+
+
+
+
+                                                                                                                                 3
+Table of Contents
+
+About Equity Residential
+Equity Residential is committed to creating communities where people thrive. The Company, a member of the S&P 500,
+is focused on the acquisition, development and management of residential properties located in and around dynamic
+cities that attract high quality long-term renters. Equity Residential owns or has investments in 304 properties consisting
+of 77,889 apartment units, located in Boston, New York, Washington, D.C., Seattle, San Francisco, Southern California
+and Denver. For more information on Equity Residential, please visit our website at www.equityapartments.com.
+
+Forward-Looking Statements
+In addition to historical information, this press release contains forward-looking statements and information within the
+meaning of the federal securities laws. These statements are based on current expectations, estimates, projections and
+assumptions made by management. While Equity Residential’s management believes the assumptions underlying its
+forward-looking statements are reasonable, such information is inherently subject to uncertainties and may involve certain
+risks, including, without limitation, changes in general market conditions, including the rate of job growth and cost of labor
+and construction material, the level of new multifamily construction and development, competition and government
+regulation. In addition, these forward-looking statements are subject to risks related to the COVID-19 pandemic, many of
+which are unknown, including the duration and severity of the pandemic, the extent of the adverse health impact on the
+general population and on our residents, customers and employees in particular, its impact on the employment rate and
+the economy and the corresponding impact on our residents’ and tenants’ ability to pay their rent on time or at all, the
+extent and impact of governmental responses, the rollout and effectiveness of vaccines and the impact of operational
+changes we have implemented and may implement in response to the pandemic. Other risks and uncertainties are
+described under the heading “Risk Factors” in our Annual Report on Form 10-K and subsequent periodic reports filed with
+the Securities and Exchange Commission (SEC) and available on our website, www.equityapartments.com. Many of
+these uncertainties and risks are difficult to predict and beyond management’s control. Forward-looking statements are
+not guarantees of future performance, results or events. Equity Residential assumes no obligation to update or
+supplement forward-looking statements that become untrue because of subsequent events.
+
+A live web cast of the Company’s conference call discussing these results will take place tomorrow, Wednesday,
+April 28, 2021 at 10:00 a.m. CT. In connection with the conference call, the Company is also providing a
+Management Presentation on its website. Please visit the Investor section of the Company’s website at
+www.equityapartments.com for the web cast link and the presentation.
+
+
+
+
+                                                                                                                            4
+Table of Contents
+
+                                                              Equity Residential
+                                                Consolidated Statements of Operations
+                                                        (Amounts in thousands except per share data)
+                                                                        (Unaudited)
+
+
+                                                                                                            Quarter Ended March 31,
+                                                                                                           2021                 2020
+REVENUES
+  Rental income                                                                                        $       597,602     $       682,305
+
+EXPENSES
+  Property and maintenance                                                                                     117,054             115,816
+  Real estate taxes and insurance                                                                              103,470              97,732
+  Property management                                                                                           26,130              27,709
+  General and administrative                                                                                    15,383              14,518
+  Depreciation                                                                                                 199,962             212,422
+     Total expenses                                                                                            461,999             468,197
+
+   Net gain (loss) on sales of real estate properties                                                              (43 )           207,977
+
+Operating income                                                                                               135,560             422,085
+
+    Interest and other income                                                                                      216                   1,960
+    Other expenses                                                                                              (4,110 )                (2,533 )
+    Interest:
+        Expense incurred, net                                                                                  (67,358 )               (85,590 )
+        Amortization of deferred financing costs                                                                (2,185 )                (2,041 )
+Income before income and other taxes, income (loss) from
+  investments in unconsolidated entities and net gain (loss)
+  on sales of land parcels                                                                                      62,123             333,881
+Income and other tax (expense) benefit                                                                            (153 )               (53 )
+Income (loss) from investments in unconsolidated entities                                                       (1,611 )            (1,157 )
+Net gain (loss) on sales of land parcels                                                                             5                  —
+Net income                                                                                                      60,364             332,671
+Net (income) loss attributable to Noncontrolling Interests:
+    Operating Partnership                                                                                       (2,143 )           (11,535 )
+    Partially Owned Properties                                                                                    (682 )           (12,530 )
+Net income attributable to controlling interests                                                                57,539             308,606
+Preferred distributions                                                                                           (773 )              (773 )
+Net income available to Common Shares                                                                  $        56,766     $       307,833
+
+Earnings per share – basic:
+Net income available to Common Shares                                                                  $          0.15     $          0.83
+Weighted average Common Shares outstanding                                                                     372,280             371,582
+
+Earnings per share – diluted:
+Net income available to Common Shares                                                                  $          0.15     $              0.83
+Weighted average Common Shares outstanding                                                                     386,916             386,949
+
+Distributions declared per Common Share outstanding                                                    $        0.6025     $           0.6025
+
+
+
+
+                                                                                                                                                 5
+Table of Contents
+
+                                                             Equity Residential
+             Consolidated Statements of Funds From Operations and Normalized Funds From Operations
+                                                       (Amounts in thousands except per share data)
+                                                                       (Unaudited)
+
+
+                                                                                                            Quarter Ended March 31,
+                                                                                                          2021                  2020
+Net income                                                                                            $        60,364    $           332,671
+Net (income) loss attributable to Noncontrolling Interests – Partially
+  Owned Properties                                                                                               (682 )             (12,530 )
+Preferred distributions                                                                                          (773 )                (773 )
+Net income available to Common Shares and Units                                                                58,909               319,368
+
+Adjustments:
+   Depreciation                                                                                               199,962               212,422
+   Depreciation – Non-real estate additions                                                                    (1,100 )              (1,287 )
+   Depreciation – Partially Owned Properties                                                                     (828 )                (856 )
+   Depreciation – Unconsolidated Properties                                                                       617                   613
+   Net (gain) loss on sales of unconsolidated entities - operating
+     assets                                                                                                        (4 )                   —
+   Net (gain) loss on sales of real estate properties                                                              43               (207,977 )
+   Noncontrolling Interests share of gain (loss) on sales
+     of real estate properties                                                                                     —                 11,655
+FFO available to Common Shares and Units                                                                      257,599               333,938
+
+Adjustments (see note for additional detail):
+   Impairment – non-operating assets                                                                               —                      —
+   Write-off of pursuit costs                                                                                   1,331                  1,627
+   Debt extinguishment and preferred share redemption (gains)
+     losses                                                                                                       264                    —
+   Non-operating asset (gains) losses                                                                             854                   441
+   Other miscellaneous items                                                                                    2,242                  (918 )
+Normalized FFO available to Common Shares and Units                                                   $       262,290     $         335,088
+
+FFO                                                                                                   $       258,372     $         334,711
+Preferred distributions                                                                                          (773 )                (773 )
+FFO available to Common Shares and Units                                                              $       257,599     $         333,938
+FFO per share and Unit – basic                                                                        $          0.67     $            0.87
+FFO per share and Unit – diluted                                                                      $          0.67     $             0.86
+
+Normalized FFO                                                                                        $       263,063     $         335,861
+Preferred distributions                                                                                          (773 )                (773 )
+Normalized FFO available to Common Shares and Units                                                   $       262,290     $         335,088
+Normalized FFO per share and Unit – basic                                                             $          0.68     $            0.87
+Normalized FFO per share and Unit – diluted                                                           $          0.68     $            0.87
+
+Weighted average Common Shares and Units outstanding – basic                                                  385,330               384,586
+Weighted average Common Shares and Units outstanding – diluted                                                386,916               386,949
+
+Note: See Adjustments from FFO to Normalized FFO for additional detail regarding the adjustments from FFO to Normalized FFO. See
+Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for the definitions of non-GAAP financial
+measures and other terms as well as the reconciliations of EPS to FFO per share and Normalized FFO per share.
+
+
+
+
+                                                                                                                                               6
+Table of Contents
+
+                                                     Equity Residential
+                                                Consolidated Balance Sheets
+                                              (Amounts in thousands except for share amounts)
+                                                                (Unaudited)
+
+
+                                                                                                    March 31,            December 31,
+                                                                                                      2021                   2020
+ASSETS
+  Land                                                                                          $      5,785,367     $        5,785,367
+  Depreciable property                                                                                20,952,067             20,920,654
+  Projects under development                                                                             476,010                411,134
+  Land held for development                                                                               88,360                 86,170
+  Investment in real estate                                                                           27,301,804             27,203,325
+  Accumulated depreciation                                                                            (8,059,619 )           (7,859,657 )
+Investment in real estate, net                                                                        19,242,185             19,343,668
+Investments in unconsolidated entities                                                                    53,274                 52,782
+Cash and cash equivalents                                                                                 35,453                 42,591
+Restricted deposits                                                                                       62,383                 57,137
+Right-of-use assets                                                                                      484,999                499,287
+Other assets                                                                                             290,721                291,426
+           Total assets                                                                         $     20,169,015     $       20,286,891
+
+LIABILITIES AND EQUITY
+Liabilities:
+   Mortgage notes payable, net                                                                  $      2,270,700     $        2,293,890
+   Notes, net                                                                                          5,337,103              5,335,536
+   Line of credit and commercial paper                                                                   429,753                414,830
+   Accounts payable and accrued expenses                                                                 168,028                107,366
+   Accrued interest payable                                                                               55,489                 65,896
+   Lease liabilities                                                                                     316,838                329,130
+   Other liabilities                                                                                     335,664                345,064
+   Security deposits                                                                                      60,939                 60,480
+   Distributions payable                                                                                 232,737                232,262
+             Total liabilities                                                                         9,207,251              9,184,454
+
+Commitments and contingencies
+
+Redeemable Noncontrolling Interests – Operating Partnership                                              409,523                338,951
+Equity:
+   Shareholders’ equity:
+       Preferred Shares of beneficial interest, $0.01 par value;
+         100,000,000 shares authorized; 745,600 shares issued and
+         outstanding as of March 31, 2021 and December 31, 2020                                           37,280                 37,280
+       Common Shares of beneficial interest, $0.01 par value;
+         1,000,000,000 shares authorized; 372,917,413 shares issued
+         and outstanding as of March 31, 2021 and 372,302,000
+         shares issued and outstanding as of December 31, 2020                                             3,729                  3,723
+       Paid in capital                                                                                 9,083,346              9,128,599
+       Retained earnings                                                                               1,231,808              1,399,715
+       Accumulated other comprehensive income (loss)                                                     (41,363 )              (43,666 )
+          Total shareholders’ equity                                                                  10,314,800             10,525,651
+   Noncontrolling Interests:
+       Operating Partnership                                                                             234,969                233,162
+       Partially Owned Properties                                                                          2,472                  4,673
+          Total Noncontrolling Interests                                                                 237,441                237,835
+          Total equity                                                                                10,552,241             10,763,486
+          Total liabilities and equity                                                          $     20,169,015     $       20,286,891
+
+
+
+
+                                                                                                                                          7
+Table of Contents
+
+                                                               Equity Residential
+                                                               Portfolio Summary
+                                                              As of March 31, 2021
+
+                                                                                                                        % of
+                                                                                                                      Stabilized         Average
+                                                                                                Apartment             Budgeted            Rental
+                       Markets/Metro Areas                                 Properties             Units                  NOI               Rate
+
+Los Angeles                                                                              72            16,603                 21.5 % $            2,424
+Orange County                                                                            13             4,028                  5.4 %              2,205
+San Diego                                                                                11             2,706                  3.8 %              2,376
+Subtotal – Southern California                                                           96            23,337                 30.7 %              2,380
+
+San Francisco                                                                            48            12,707                 18.3 %              2,903
+Washington DC                                                                            47            14,731                 17.2 %              2,325
+Seattle                                                                                  46             9,454                 11.4 %              2,242
+New York                                                                                 37             9,606                 11.3 %              3,464
+Boston                                                                                   25             6,430                  9.4 %              2,853
+Denver                                                                                    5             1,624                  1.7 %              1,984
+
+Total                                                                                304               77,889                100.0 % $            2,597
+
+
+
+                                                                                              Properties                       Apartment Units
+
+Wholly Owned Properties                                                                                         287                              74,328
+Master-Leased Properties – Consolidated                                                                           1                                 162
+Partially Owned Properties – Consolidated                                                                        16                               3,399
+
+                                                                                                                304                              77,889
+
+Note: Projects under development are not included in the Portfolio Summary until construction has been completed.
+
+Note: The Company did not acquire or sell any assets during the first quarter of 2021.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                         8
+Table of Contents
+
+                                                                              Equity Residential
+
+                                                               First Quarter 2021 vs. First Quarter 2020
+                                               Same Store Results/Statistics Including 77,060 Same Store Apartment Units
+                                                                     $ in thousands (except for Average Rental Rate)
+
+                                             First Quarter 2021                                                                             First Quarter 2020
+                                             %            Non-             %                            %                                                      Non-
+                        Residential        Change      Residential       Change          Total        Change                            Residential          Residential     Total
+
+     Revenues         $     570,927      (1) (10.6%)   $    21,861 (2) (6.3%)        $    592,788     (10.5%)          Revenues         $      638,683       $    23,338   $ 662,021
+     Expenses         $     205,959            3.9%    $     6,093      3.4%         $    212,052       3.8%           Expenses         $      198,306       $     5,895   $ 204,201
+       NOI            $     364,968          (17.1%)   $    15,768     (9.6%)        $    380,736     (16.8%)            NOI            $      440,377       $    17,443   $ 457,820
+
+Average Rental Rate   $       2,601         (9.3%)                                                                Average Rental Rate   $         2,867
+Physical Occupancy             95.0 %       (1.4%)                                                                Physical Occupancy               96.4 %
+Turnover                         9.9 %       0.2%                                                                 Turnover                           9.7 %
+
+                                                              First Quarter 2021 vs. Fourth Quarter 2020
+                                               Same Store Results/Statistics Including 77,281 Same Store Apartment Units
+                                                                     $ in thousands (except for Average Rental Rate)
+
+                                             First Quarter 2021                                                                         Fourth Quarter 2020
+                                             %            Non-             %                            %                                                      Non-
+                        Residential        Change      Residential       Change          Total        Change                            Residential          Residential     Total
+
+     Revenues         $     572,443      (1) (2.3%)    $    21,861 (2) 9.4%          $    594,304      (1.9%)          Revenues         $      585,699       $    19,982   $ 605,681
+     Expenses         $     206,342           5.6%     $     6,095     9.2%          $    212,437       5.7%           Expenses         $      195,347       $     5,583   $ 200,930
+       NOI            $     366,101          (6.2%)    $    15,766     9.5%          $    381,867      (5.7%)            NOI            $      390,352       $    14,399   $ 404,751
+
+Average Rental Rate   $       2,600         (3.1%)                                                                Average Rental Rate   $         2,683
+Physical Occupancy             95.0 %        0.8%                                                                 Physical Occupancy               94.2 %
+Turnover                       10.0 %       (3.4%)                                                                Turnover                         13.4 %
+
+
+
+
+(1) See page 10 for Same Store Residential Revenues with Leasing Concessions reflected on a cash basis. See Additional Reconciliations and Definitions of Non-GAAP Financial
+    Measures and Other Terms for additional detail.
+
+(2) Changes in same store Non-Residential revenues for the periods presented are driven by the following:
+           •    First Quarter 2021 vs. First Quarter 2020 – Primarily deferral/abatement of rents, higher bad debt and lower parking income.
+           •    First Quarter 2021 vs. Fourth Quarter 2020 – Primarily higher receipts from retail tenants, lower bad debt and higher parking income.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                    9
+Table of Contents
+
+                                                                                          Equity Residential
+
+                                                             Same Store Residential Revenues – GAAP to Cash Basis (1)
+                                                                                               $ in thousands
+
+                                                                                     First Quarter 2021 vs. First Quarter 2020                       First Quarter 2021 vs. Fourth Quarter 2020
+                                                                                       77,060 Same Store Apartment Units                                 77,281 Same Store Apartment Units
+                                                                                     Q1 2021                          Q1 2020                        Q1 2021                          Q4 2020
+Same Store Residential Revenues (GAAP Basis)                              $                    570,927      $                  638,683        $                 572,443      $                  585,699
+Leasing Concessions amortized                                                                   11,640                           1,147                           11,703                           8,302
+Leasing Concessions granted (2)                                                                (16,989 )                        (1,904 )                        (17,038 )                       (16,762 )
+Same Store Residential Revenues with Leasing
+ Concessions on a cash basis                                              $                     565,578        $                   637,926    $                567,108         $                577,239
+
+% change - GAAP revenue                                                                             (10.6 %)                                                         (2.3 %)
+
+% change - cash revenue                                                                             (11.3 %)                                                         (1.8 %)
+
+(1)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional detail.
+(2)   Monthly Leasing Concessions granted began to decline in March 2021. Leasing Concessions granted in February, March and April (preliminary) 2021 are $6.1 million, $4.9 million and $3.6 million,
+      respectively.
+
+
+                                                             Same Store Resident/Tenant Accounts Receivable Balances
+                                                                   Including 77,060 Same Store Apartment Units
+                                                                                               $ in thousands
+
+                                                                                                 Residential                                                        Non-Residential
+Balance Sheet (Other assets):                                             March 31, 2021                           December 31, 2020              March 31, 2021                  December 31, 2020
+Resident/tenant accounts receivable balances                      $                         37,590         $                       31,180     $                     6,554    $                     7,340
+Allowance for doubtful accounts                                                            (31,596 )                              (23,873 )                        (5,724 )                       (6,527 )
+    Net receivable balances                                       $                          5,994     (1) $                        7,307     $                       830    $                       813
+
+Straight-line receivable balances                                 $                        25,096      (2) $                       19,747     $                    13,392      $                  13,399
+
+(1)   The Company held same store Residential security deposits approximating 31.9% of the net receivable balance at March 31, 2021.
+(2)   Total same store Residential Leasing Concessions granted in the first quarter of 2021 were approximately $17.0 million. The straight-line receivable balance of $25.1 million reflects Residential
+      Leasing Concessions that the Company expects will be primarily recognized as a reduction of rental revenues for the remainder of 2021 and the first quarter of 2022.
+
+
+                                                                              Same Store Residential Bad Debt
+                                                                        Including 77,060 Same Store Apartment Units
+                                                                                               $ in thousands
+
+
+Income Statement (Rental income):                 Q1 2021             Q4 2020             Q1 2020
+Bad Debt, Net                                 $       13,689     $        13,199      $        3,687
+% of Same Store Residential Revenues                     2.4 %               2.3 %               0.6 %
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                                      10
+Table of Contents
+
+                                                                                        Equity Residential
+                                                                         First Quarter 2021 vs. First Quarter 2020
+                                                                    Same Store Residential Results/Statistics by Market
+
+                                                                                                                                            Increase (Decrease) from Prior Year's Quarter
+                                                                                      Q1 2021
+                                                         Q1 2021         Q1 2021     Weighted
+                                                           % of          Average      Average                                                                          Average
+                                         Apartment        Actual          Rental      Physical        Q1 2021                                                           Rental          Physical
+           Markets/Metro Areas             Units           NOI             Rate     Occupancy %       Turnover       Revenues           Expenses         NOI             Rate          Occupancy       Turnover
+
+Los Angeles                                  16,533           20.9 % $      2,423           95.8 %         10.1 %         (8.1 %)             1.1 %        (12.2 %)          (7.9 %)         (0.2 %)       (1.0 %)
+Orange County                                 4,028            5.3 %        2,205           97.0 %          7.8 %         (3.2 %)             2.7 %         (4.9 %)          (3.3 %)          0.2 %        (1.2 %)
+San Diego                                     2,706            3.9 %        2,376           97.2 %         10.5 %         (0.2 %)             1.2 %         (0.6 %)          (0.6 %)          0.4 %        (0.8 %)
+Subtotal – Southern California               23,267           30.1 %        2,380           96.2 %          9.7 %         (6.5 %)             1.3 %         (9.6 %)          (6.4 %)         (0.1 %)       (1.1 %)
+
+San Francisco                                12,707           19.5 %        2,903           93.8 %         11.4 %        (15.7 %)             4.7 %        (22.6 %)         (13.1 %)         (2.9 %)        1.7 %
+Washington DC                                14,569           17.6 %        2,325           95.9 %          9.7 %         (5.5 %)             4.0 %         (9.6 %)          (5.2 %)         (0.3 %)        1.1 %
+New York                                      9,606           11.0 %        3,464           91.4 %          8.3 %        (16.9 %)             4.4 %        (34.0 %)         (12.2 %)         (5.3 %)        1.1 %
+Seattle                                       8,941           10.7 %        2,258           95.7 %         11.1 %        (10.3 %)             6.0 %        (16.5 %)          (9.0 %)         (1.4 %)        0.0 %
+Boston                                        6,346            9.4 %        2,852           95.3 %          8.9 %        (10.8 %)             4.9 %        (17.2 %)         (10.3 %)         (0.5 %)       (0.2 %)
+Denver                                        1,624            1.7 %        1,984           96.1 %         12.3 %         (2.7 %)             9.5 %         (7.7 %)          (3.4 %)          0.6 %        (2.1 %)
+
+Total                                        77,060          100.0 % $      2,601           95.0 %           9.9 %       (10.6 %) (1)         3.9 %        (17.1 %)          (9.3 %)         (1.4 %)        0.2 %
+
+
+(1)     With Leasing Concessions reflected on a cash basis, Same Store Residential Revenues decreased 11.3% in the first quarter of 2021 compared to the first quarter of 2020. See page 10 for additional
+        detail and reconciliations.
+
+Note: The above table reflects Residential same store results only. Residential operations account for approximately 96.2% of total revenues for the quarter ended March 31, 2021.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                                                 11
+Table of Contents
+
+                                                                                      Equity Residential
+                                                                     First Quarter 2021 vs. Fourth Quarter 2020
+                                                                  Same Store Residential Results/Statistics by Market
+
+                                                                                                                                              Increase (Decrease) from Prior Quarter
+                                                                                     Q1 2021
+                                                      Q1 2021          Q1 2021      Weighted
+                                                        % of           Average       Average                                                                          Average
+                                       Apartment       Actual           Rental       Physical       Q1 2021                                                            Rental           Physical
+           Markets/Metro Areas           Units          NOI              Rate      Occupancy %      Turnover       Revenues            Expenses        NOI              Rate           Occupancy       Turnover
+
+Los Angeles                                16,533           20.8 % $      2,423            95.8 %         10.1 %         (1.4 %)             3.5 %         (3.7 %)          (1.4 %)           0.0 %        (3.6 %)
+Orange County                               4,028            5.3 %        2,205            97.0 %          7.8 %         (0.6 %)             5.5 %         (2.4 %)          (0.8 %)           0.2 %        (2.9 %)
+San Diego                                   2,706            3.9 %        2,376            97.2 %         10.5 %          0.0 %              3.3 %         (1.0 %)           0.1 %           (0.1 %)       (0.9 %)
+Subtotal – Southern California             23,267           30.0 %        2,380            96.2 %          9.7 %         (1.1 %)             3.7 %         (3.1 %)          (1.1 %)           0.1 %        (3.2 %)
+
+San Francisco                              12,707           19.4 %        2,903            93.8 %         11.4 %         (3.7 %)             6.6 %         (7.8 %)          (4.9 %)          1.1 %         (4.3 %)
+Washington DC                              14,569           17.6 %        2,325            95.9 %          9.7 %         (2.1 %)             6.1 %         (5.8 %)          (2.6 %)          0.5 %         (3.1 %)
+New York                                    9,606           11.0 %        3,464            91.4 %          8.3 %         (2.4 %)             5.8 %        (11.3 %)          (4.2 %)          1.6 %         (3.5 %)
+Seattle                                     9,078           10.8 %        2,255            95.7 %         11.1 %         (3.4 %)             5.6 %         (7.2 %)          (4.6 %)          1.2 %         (3.0 %)
+Boston                                      6,430            9.5 %        2,853            95.3 %          8.9 %         (2.1 %)             6.8 %         (6.1 %)          (3.6 %)          1.4 %         (4.0 %)
+Denver                                      1,624            1.7 %        1,984            96.1 %         12.3 %          0.1 %             11.6 %         (4.6 %)          (0.9 %)          1.0 %         (3.6 %)
+
+Total                                      77,281          100.0 % $      2,600            95.0 %         10.0 %         (2.3 %) (1)         5.6 %         (6.2 %)          (3.1 %)          0.8 %         (3.4 %)
+
+
+(1)     With Leasing Concessions reflected on a cash basis, Same Store Residential Revenues decreased 1.8% in the first quarter of 2021 compared to the fourth quarter of 2020. See page 10 for
+        additional detail and reconciliations.
+
+Note: The above table reflects Residential same store results only. Residential operations account for approximately 96.2% of total revenues for the quarter ended March 31, 2021.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                                                 12
+Table of Contents
+
+                                                                                        Equity Residential
+                                                              Same Store Residential Net Effective Lease Pricing Statistics
+                                                                       For 77,060 Same Store Apartment Units
+
+                                                                  New Lease Change (1)                            Renewal Rate Achieved (1)                                Blended Rate (1)
+                  Markets/Metro Areas                       Q1 2021                 Q4 2020                   Q1 2021                  Q4 2020                   Q1 2021                      Q4 2020
+
+Los Angeles                                                           (7.6 %)                   (8.9 %)                  (0.2 %)                  (0.5 %)                   (4.0 %)                      (4.6 %)
+Orange County                                                          0.1 %                    (2.8 %)                   3.0 %                    2.1 %                     1.7 %                        0.0 %
+San Diego                                                              2.1 %                    (0.1 %)                   3.9 %                    2.5 %                     3.1 %                        1.4 %
+Subtotal – Southern California                                        (5.5 %)                   (7.3 %)                   0.8 %                    0.3 %                    (2.3 %)                      (3.3 %)
+
+San Francisco                                                        (22.0 %)                 (26.8 %)                   (9.9 %)                  (7.2 %)                  (17.3 %)                     (19.1 %)
+Washington DC                                                        (14.4 %)                 (18.6 %)                   (2.9 %)                  (1.9 %)                   (9.0 %)                     (11.5 %)
+New York                                                             (28.0 %)                 (27.1 %)                   (9.3 %)                  (6.5 %)                  (20.5 %)                     (18.5 %)
+Seattle                                                              (20.7 %)                 (26.8 %)                  (10.1 %)                  (6.6 %)                  (15.9 %)                     (19.2 %)
+Boston                                                               (20.4 %)                 (27.0 %)                   (7.6 %)                  (5.0 %)                  (14.8 %)                     (18.3 %)
+Denver                                                                (7.1 %)                 (10.4 %)                    3.5 %                    1.6 %                    (3.5 %)                      (6.2 %)
+
+Total                                                                (17.7 %)                 (20.5 %)                   (5.1 %)                  (3.4 %)                  (12.1 %)                     (13.0 %)
+
+
+(1)     See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for definitions. See page 3 for April 2021 preliminary data.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                                           13
+Table of Contents
+
+                                                                Equity Residential
+
+                                          First Quarter 2021 vs. First Quarter 2020
+                      Total Same Store Operating Expenses Including 77,060 Same Store Apartment Units
+                                                        $ in thousands
+
+                                                                                                                                                     % of
+                                                                                                                                                   Q1 2021
+                                                                                                                $              %                   Operating
+                                                                        Q1 2021           Q1 2020           Change (1)       Change                Expenses
+Real estate taxes                                                   $      90,767     $      88,323     $         2,444              2.8 %               42.8 %
+On-site payroll                                                            42,993            43,009                 (16 )            0.0 %               20.3 %
+Utilities                                                                  29,945            27,674               2,271              8.2 %               14.1 %
+Repairs and maintenance                                                    25,835            23,439               2,396             10.2 %               12.2 %
+Insurance                                                                   7,040             6,321                 719             11.4 %                3.3 %
+Leasing and advertising                                                     2,803             2,337                 466             19.9 %                1.3 %
+Other on-site operating expenses                                           12,669            13,098                (429 )           (3.3 %)               6.0 %
+Total Same Store Operating Expenses (2)
+(includes Residential and Non-Residential)                          $     212,052     $     204,201     $         7,851               3.8 %             100.0 %
+
+
+
+
+(1)   The quarter-over-quarter changes were primarily affected by the following factors:
+
+      Real estate taxes – Increase is lower than prior expectations due to lower rates and assessed values.
+      On-site payroll – Improved sales and service staff utilization from various technology initiatives offset other general payroll pressures.
+
+      Utilities – Increase driven by higher usage of water, sewer and trash.
+
+      Repairs and maintenance – Increase primarily driven by non-comparable items like greater snowfall on the East Coast and higher turnover
+      expense from accelerated leasing as well as increases in minimum wage on contract services.
+
+      Insurance – Increase due to higher premiums on property insurance renewal due to challenging conditions in the insurance market.
+      Leasing and advertising – Increase due primarily to increased digital advertising and selective use of outside broker fees on targeted leasing
+      activity.
+
+      Other on-site operating expenses – Decrease primarily driven by lower ground lease costs due to a lease modification at one property.
+(2)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                              14
+Table of Contents
+
+                                                             Equity Residential
+
+                                                    Debt Summary as of March 31, 2021
+                                                                   ($ in thousands)
+
+                                                                                                                                         Weighted
+                                                                                                                      Weighted           Average
+                                                                                   Debt                               Average            Maturities
+                                                                               Balances (1)       % of Total          Rates (1)           (years)
+Secured                                                                       $    2,270,700               28.3 %               3.18 %            6.1
+Unsecured                                                                          5,766,856               71.7 %               3.49 %           10.0
+        Total                                                                 $    8,037,556             100.0 %                3.40 %            8.9
+Fixed Rate Debt:
+    Secured – Conventional                                                    $    1,899,917               23.7 %               3.70 %            4.7
+    Unsecured – Public                                                             5,337,103               66.4 %               3.77 %           10.8
+        Fixed Rate Debt                                                            7,237,020               90.1 %               3.75 %            9.1
+Floating Rate Debt:
+    Secured – Conventional                                                             40,546               0.5 %               2.38 %            1.2
+    Secured – Tax Exempt                                                              330,237               4.1 %               0.45 %           15.4
+    Unsecured – Revolving Credit Facility                                                  —                 —                    —               3.6
+    Unsecured – Commercial Paper Program (2)                                          429,753               5.3 %               0.30 %             —
+        Floating Rate Debt                                                            800,536               9.9 %               0.45 %            6.7
+Total                                                                         $    8,037,556             100.0 %                3.40 %            8.9
+
+(1)     See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+(2)     At March 31, 2021, the weighted average maturity of commercial paper outstanding was 69 days. The weighted average amount outstanding for
+        the quarter ended March 31, 2021 was approximately $457.3 million.
+
+Note: The Company capitalized interest of approximately $3.8 million and $1.8 million during the quarters ended March 31, 2021 and 2020, respectively.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                     15
+Table of Contents
+
+                                                            Equity Residential
+
+                                             Debt Maturity Schedule as of March 31, 2021
+                                                                    ($ in thousands)
+
+                                                                                                                         Weighted          Weighted
+                                                                                                                     Average Coupons       Average
+                                                       Fixed             Floating                                        on Fixed         Coupons on
+                       Year                            Rate                Rate           Total       % of Total       Rate Debt (1)     Total Debt (1)
+                       2021                         $     5,593      $     430,000 (2) $ 435,593             5.4 %              3.27 %             0.32 %
+                       2022                             264,185             40,846        305,031            3.8 %              3.25 %             3.12 %
+                       2023                           1,325,588              3,500      1,329,088           16.4 %              3.74 %             3.73 %
+                       2024                                  —               6,100          6,100            0.1 %               N/A               0.06 %
+                       2025                             450,000              8,200        458,200            5.6 %              3.38 %             3.32 %
+                       2026                             592,025              9,000        601,025            7.4 %              3.58 %             3.53 %
+                       2027                             400,000              9,800        409,800            5.0 %              3.25 %             3.17 %
+                       2028                             900,000             10,700        910,700           11.2 %              3.79 %             3.75 %
+                       2029                             888,120             11,500        899,620           11.1 %              3.30 %             3.26 %
+                       2030                           1,095,000             12,600      1,107,600           13.6 %              2.55 %             2.52 %
+                      2031+                           1,379,350            275,535      1,654,885           20.4 %              4.37 %             3.66 %
+                     Subtotal                         7,299,861            817,781      8,117,642          100.0 %              3.55 %             3.23 %
+Deferred Financing Costs and Unamortized (Discount)     (62,841 )          (17,245 )      (80,086 )          N/A                 N/A               N/A
+
+                      Total                         $ 7,237,020      $     800,536     $ 8,037,556         100.0 %              3.55 %             3.23 %
+
+
+(1)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+(2)   Represents principal outstanding on the Company’s commercial paper program.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                     16
+Table of Contents
+
+                                                            Equity Residential
+
+                                             Selected Unsecured Public Debt Covenants
+
+                                                                                                    March 31,            December 31,
+                                                                                                      2021                   2020
+Debt to Adjusted Total Assets (not to exceed 60%)                                                    30.4%                  30.5%
+Secured Debt to Adjusted Total Assets (not to exceed 40%)                                             9.4%                   9.6%
+Consolidated Income Available for Debt Service to
+ Maximum Annual Service Charges
+ (must be at least 1.5 to 1)                                                                           5.30                   5.42
+Total Unencumbered Assets to Unsecured Debt
+ (must be at least 125%)                                                                             454.1%                 458.3%
+
+Note: These selected covenants represent the most restrictive financial covenants relating to ERP Operating Limited Partnership's ("ERPOP")
+outstanding public debt securities. Equity Residential is the general partner of ERPOP.
+
+
+
+                                                            Selected Credit Ratios
+
+                                                                                                    March 31,            December 31,
+                                                                                                      2021                   2020
+Total debt to Normalized EBITDAre                                                                    5.29x                  4.99x
+Net debt to Normalized EBITDAre                                                                       5.25x                  4.96x
+Unencumbered NOI as a % of total NOI                                                                  87.5%                 86.6%
+
+Note: See Normalized EBITDAre Reconciliations for detail.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                       17
+Table of Contents
+
+                                                                          Equity Residential
+
+                                                                  Capital Structure as of March 31, 2021
+                                                    (Amounts in thousands except for share/unit and per share amounts)
+
+   Secured Debt                                                                                                       $    2,270,700                   28.3 %
+   Unsecured Debt                                                                                                          5,766,856                   71.7 %
+Total Debt                                                                                                                 8,037,556                  100.0 %               22.5 %
+
+   Common Shares (includes Restricted Shares)                                     372,917,413               96.4 %
+   Units (includes OP Units and Restricted Units)                                  14,042,374                3.6 %
+Total Shares and Units                                                            386,959,787              100.0 %
+Common Share Price at March 31, 2021                                          $         71.63
+                                                                                                                          27,717,930                   99.9 %
+Perpetual Preferred Equity (see below)                                                                                        37,280                    0.1 %
+Total Equity                                                                                                              27,755,210                  100.0 %               77.5 %
+
+Total Market Capitalization                                                                                           $   35,792,766                                       100.0 %
+
+
+                                                         Perpetual Preferred Equity as of March 31, 2021
+                                                      (Amounts in thousands except for share and per share amounts)
+
+                                                                                                                                   Annual                        Annual
+                                                                              Outstanding              Liquidation                Dividend                      Dividend
+                       Series                          Call Date                Shares                    Value                   Per Share                     Amount
+Preferred Shares:
+    8.29% Series K                                     12/10/26                        745,600    $              37,280    $                  4.145      $                 3,091
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                              18
+Table of Contents
+
+                                                                          Equity Residential
+                                                                       Common Share and Unit
+                                                                Weighted Average Amounts Outstanding
+
+                                                                                                       Q1 2021           Q1 2020
+
+Weighted Average Amounts Outstanding for Net Income Purposes:
+   Common Shares - basic                                                                                   372,279,711       371,582,086
+   Shares issuable from assumed conversion/vesting of:
+                 - OP Units                                                                                 13,050,142        13,003,900
+                 - long-term compensation shares/units                                                       1,586,077         2,363,095
+   Total Common Shares and Units - diluted                                                                 386,915,930       386,949,081
+
+Weighted Average Amounts Outstanding for FFO and Normalized FFO Purposes:
+   Common Shares - basic                                                                                   372,279,711       371,582,086
+   OP Units - basic                                                                                         13,050,142        13,003,900
+   Total Common Shares and OP Units - basic                                                                385,329,853       384,585,986
+   Shares issuable from assumed conversion/vesting of:
+                 - long-term compensation shares/units                                                       1,586,077         2,363,095
+   Total Common Shares and Units - diluted                                                                 386,915,930       386,949,081
+
+Period Ending Amounts Outstanding:
+   Common Shares (includes Restricted Shares)                                                              372,917,413       372,104,054
+   Units (includes OP Units and Restricted Units)                                                           14,042,374        13,932,433
+   Total Shares and Units                                                                                  386,959,787       386,036,487
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                      19
+Table of Contents
+
+                                                                                       Equity Residential
+                                                                      Development and Lease-Up Projects as of March 31, 2021
+                                                                           (Amounts in thousands except for project and apartment unit amounts)
+
+                                                                                                                        Total
+                                                                                             Total           Total      Book
+                                                                               No. of      Budgeted          Book     Value Not                                                  Estimated/Actual
+                                                                             Apartment      Capital          Value    Placed in         Total       Percentage     Initial          Completion Stabilization   Percentage Percentage
+Projects                                                       Location        Units         Cost           to Date    Service          Debt        Completed    Occupancy             Date        Date          Leased    Occupied
+
+Projects Under Development - Wholly Owned:
+Alcott Apartments (fka West End Tower)                      Boston, MA              470    $ 409,749    $ 310,132     $ 310,132     $           —      78%        Q3 2021            Q4 2021      Q1 2023           —          —
+The Edge (fka 4885 Edgemoor Lane) (A)                       Bethesda, MD            154       75,271       62,007        62,007                 —      86%        Q3 2021            Q3 2021      Q3 2022           —          —
+
+  Projects Under Development - Wholly Owned                                         624      485,020        372,139       372,139               —
+
+Projects Under Development - Partially Owned:
+Aero Apartments (B)                                         Alameda, CA             200      117,794        103,871       103,871       40,546         92%        Q2 2021            Q2 2021      Q2 2022         3%           —
+
+  Projects Under Development - Partially Owned                                      200      117,794        103,871       103,871       40,546
+
+Total Projects Under Development                                                    824    $ 602,814    $ 476,010     $ 476,010     $   40,546
+
+Land Held for Development                                                           N/A          N/A    $    88,360   $    88,360   $           —
+
+                                                                                                                                                       Total
+                                                                                                                                                     Budgeted
+                                                                                                                                                      Capital      Q1 2021
+NOI CONTRIBUTION FROM DEVELOPMENT PROJECTS                                                                                                             Cost         NOI
+Projects Under Development                                                                                                                          $ 602,814    $       (57 )
+
+(A)   The Edge – The land under this project is subject to a long-term ground lease. This project is adjacent to an existing apartment property owned by the Company.
+
+(B)   Aero Apartments – This development project is owned 90% by the Company and 10% by a third party partner in a joint venture consolidated by the Company. Construction is being partially funded with a construction loan that
+      is non-recourse to the Company. The joint venture partner has funded $4.7 million for its allocated share of the project equity and serves as the developer of the project.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                                                                  20
+Table of Contents
+
+                                                            Equity Residential
+                                                   Capital Expenditures to Real Estate
+                                                  For the Quarter Ended March 31, 2021
+                                  (Amounts in thousands except for apartment unit and per apartment unit amounts)
+
+
+                                                           Same Store            Non-Same Store                              Same Store Avg.
+                                                            Properties           Properties/Other          Total            Per Apartment Unit
+
+       Total Apartment Units                                        77,060                    829                  77,889
+
+       Building Improvements                           $            15,976   $                  38   $             16,014   $             207
+
+       Renovation Expenditures (1)                                   5,261                      —                   5,261                  68
+
+       Replacements                                                  7,381                      23                  7,404                  96
+
+       Capital Expenditures to Real Estate (2)         $            28,618   $                  61   $             28,679   $             371
+
+(1)   Renovation Expenditures on 222 same store apartment units for the quarter ended March 31, 2021 approximated $23,701 per apartment unit
+      renovated.
+
+(2)   See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for additional details.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                21
+Table of Contents
+
+                                                                                             Equity Residential
+                                                                                    Normalized EBITDAre Reconciliations
+                                                                                              (Amounts in thousands)
+
+                                                                                                      Trailing Twelve Months                      2021                                2020
+                                                                                             March 31, 2021           December 31, 2020            Q1            Q4             Q3            Q2              Q1
+Net income                                                                               $              690,194     $            962,501        $  60,364     $ 262,984      $  95,365     $ 271,481       $ 332,671
+Interest expense incurred, net                                                                          346,841                  365,073           67,358       116,724         80,874        81,885          85,590
+Amortization of deferred financing costs                                                                   9,083                    8,939           2,185         2,686          2,101         2,111           2,041
+Amortization of above/below market lease intangibles                                                       4,392                    4,391           1,098         1,098          1,098         1,098           1,097
+Depreciation                                                                                            808,372                  820,832          199,962       201,829        200,605       205,976         212,422
+Income and other tax expense (benefit)                                                                       952                      852             153           350            262           187              53
+EBITDA                                                                                                1,859,834                   2,162,588       331,120       585,671        380,305        562,738        633,874
+Net (gain) loss on sales of real estate properties                                                     (323,787 )                  (531,807 )          43       (179,589 )           25       (144,266 )    (207,977 )
+Net (gain) loss on sales of unconsolidated entities - operating assets                                   (1,640 )                    (1,636 )          (4 )         (636 )       (1,000 )           —             —
+EBITDAre                                                                                              1,534,407                   1,629,145       331,159       405,446        379,330        418,472        425,897
+Write-off of pursuit costs (other expenses)                                                               6,573                       6,869         1,331          2,005         1,586           1,651         1,627
+(Income) loss from investments in unconsolidated entities - operations                                    5,378                       4,920         1,615          1,475         1,246           1,042         1,157
+Net (gain) loss on sales of land parcels                                                                (34,239 )                   (34,234 )          (5 )      (34,234 )          —               —             —
+Insurance/litigation settlement or reserve income (interest and other income)                            (2,570 )                    (4,152 )          —          (1,800 )          (3 )          (767 )      (1,582 )
+Insurance/litigation/environmental settlement or reserve expense (other expenses)                           756                      (1,293 )       2,212             —            500          (1,956 )         163
+Advocacy contributions (other expenses)                                                                  10,591                      11,062            30          6,981         1,728           1,852           501
+Other                                                                                                      (832 )                      (965 )         133            (15 )        (429 )          (521 )          —
+Normalized EBITDAre                                                                      $            1,520,064     $             1,611,352     $ 336,475     $ 379,858      $ 383,958      $ 419,773      $ 427,763
+
+Balance Sheet Items:                                                                         March 31, 2021             December 31, 2020
+Total debt                                                                               $            8,037,556     $             8,044,256
+Cash and cash equivalents                                                                               (35,453 )                   (42,591 )
+Mortgage principal reserves/sinking funds                                                               (15,360 )                   (14,168 )
+Net debt                                                                                 $            7,986,743     $             7,987,497
+
+
+Note:    EBITDA, EBITDAre and Normalized EBITDAre do not include any adjustments for the Company’s share of partially owned unconsolidated entities or the minority partner’s share of partially owned
+         consolidated entities due to the immaterial size of the Company’s partially owned portfolio.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                                                 22
+Table of Contents
+430
+
+
+
+
+                                                                                  Equity Residential
+                                                                        Adjustments from FFO to Normalized FFO
+                                                                                (Amounts in thousands)
+
+                                                                                                                                                   Quarter Ended March 31,
+                                                                                                                                 2021                       2020                      Variance
+Impairment – non-operating assets                                                                                       $                   —       $                   —      $                    —
+
+Write-off of pursuit costs (other expenses)                                                                                              1,331                      1,627                         (296 )
+
+Write-off of unamortized deferred financing costs (interest expense)                                                                       264                          —                          264
+Debt extinguishment and preferred share redemption (gains) losses                                                                          264                          —                          264
+
+Net (gain) loss on sales of land parcels                                                                                                    (5 )                       —                            (5 )
+(Income) loss from investments in unconsolidated entities ─ non-operating assets                                                           726                        441                          285
+Other                                                                                                                                      133                         —                           133
+Non-operating asset (gains) losses                                                                                                         854                        441                          413
+
+Insurance/litigation settlement or reserve income (interest and other income)                                                               —                       (1,582 )                     1,582
+Insurance/litigation/environmental settlement or reserve expense (other expenses)                                                        2,212                         163                       2,049
+Advocacy contributions (other expenses)                                                                                                     30                         501                        (471 )
+Other miscellaneous items                                                                                                                2,242                        (918 )                     3,160
+
+Adjustments from FFO to Normalized FFO                                                                                  $                4,691      $               1,150      $                 3,541
+
+Note: See Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms for the definitions of non-GAAP financial measures and other terms as well as the reconciliations of
+EPS to FFO per share and Normalized FFO per share.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                                                                                    23
+Table of Contents
+
+                                                         Equity Residential
+                                             Normalized FFO Guidance and Assumptions
+
+The guidance/projections provided below are based on current expectations and are forward-looking. All guidance is given on a Normalized
+FFO basis. Therefore, certain items excluded from Normalized FFO, such as debt extinguishment costs/prepayment penalties and the write-off
+of pursuit costs, are not included in the estimates provided on this page. See Additional Reconciliations and Definitions of Non-GAAP Financial
+Measures and Other Terms for the definitions of non-GAAP financial measures and other terms as well as the reconciliations of EPS to FFO per
+share and Normalized FFO per share.
+
+                                                                             Q2 2021            Revised Full Year 2021   Previous Full Year 2021
+
+2021 Normalized FFO Guidance (per share diluted)
+
+   Expected Normalized FFO Per Share                                      $0.67 to $0.71             $2.70 to $2.80          $2.60 to $2.80
+
+2021 Same Store Assumptions (includes Residential and Non-Residential)
+
+   Physical Occupancy                                                                                95.0% to 96.0%          94.8% to 95.8%
+   Revenue change (1)                                                                               (8.0%) to (6.0%)        (9.0%) to (7.0%)
+   Expense change                                                                                     3.0% to 4.0%            3.0% to 4.0%
+   NOI change (2)                                                                                  (13.0%) to (11.0%)      (15.0%) to (12.0%)
+
+2021 Transaction Assumptions
+
+The Company expects consolidated rental acquisitions to approximately equal consolidated rental dispositions.
+
+2021 Debt Assumptions
+
+   Weighted average debt outstanding                                                                $8.1B to $8.3B           $8.1B to $8.3B
+   Interest expense, net (on a Normalized FFO basis)                                              $270.0M to $276.5M       $270.0M to $276.5M
+   Capitalized interest                                                                            $14.5M to $16.5M         $14.5M to $16.5M
+
+2021 Capital Expenditures to Real Estate Assumptions for Same Store Properties (3)
+
+   Capital Expenditures to Real Estate for Same Store Properties                                        $150.0M                 $150.0M
+   Capital Expenditures to Real Estate per Same Store Apartment Unit                                     $1,950                  $1,950
+
+2021 Other Guidance Assumptions
+
+   Property management expense                                                                    $96.5M to $98.5M         $96.5M to $98.5M
+   General and administrative expense                                                             $53.0M to $55.0M         $53.0M to $55.0M
+   Debt offerings                                                                                No amounts budgeted      No amounts budgeted
+   Weighted average Common Shares and Units - Diluted                                                  386.8M                   386.8M
+
+
+
+(1) Revenue change is reflected on a GAAP basis. Revenue change would be approximately (7.0%) to (5.0%) on a cash basis.
+
+(2) Approximately 25 basis point change in NOI percentage = $0.01 per share change in EPS/FFO per share/Normalized FFO per share.
+
+(3) During 2021, the Company expects to spend approximately $25.0 million for apartment unit Renovation Expenditures on approximately
+    1,250 same store apartment units at an average cost of approximately $20,000 per apartment unit renovated, which is included in the
+    Capital Expenditures to Real Estate assumptions noted above.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                               24
+Table of Contents
+
+                                                  Equity Residential
+           Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms
+                         (Amounts in thousands except per share and per apartment unit data)
+                                            (All per share data is diluted)
+
+This Earnings Release and Supplemental Financial Information includes certain non-GAAP financial measures and other terms that
+management believes are helpful in understanding our business. The definitions and calculations of these non-GAAP financial
+measures and other terms may differ from the definitions and methodologies used by other real estate investment trusts (“REIT”) and,
+accordingly, may not be comparable. These non-GAAP financial measures should not be considered as an alternative to net earnings
+or any other measurement of performance computed in accordance with accounting principles generally accepted in the United States
+(“GAAP”) or as an alternative to cash flows from specific operating, investing or financing activities. Furthermore, these non-GAAP
+financial measures are not intended to be a measure of cash flow or liquidity.
+
+Acquisition Capitalization Rate or Cap Rate – NOI that the Company anticipates receiving in the next 12 months (or the year two or
+three stabilized NOI for properties that are in lease-up at acquisition) less an estimate of property management costs/management fees
+allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on the size and income streams of the asset) and
+less an estimate for in-the-unit replacement capital expenditures (generally ranging from $100-$450 per apartment unit depending on
+the age and condition of the asset) divided by the gross purchase price of the asset. The weighted average Acquisition Cap Rate for
+acquired properties is weighted based on the projected NOI streams and the relative purchase price for each respective property.
+
+Average Rental Rate – Total Residential rental revenues reflected on a straight-line basis in accordance with GAAP divided by the
+weighted average occupied apartment units for the reporting period presented.
+
+Bad Debt, Net – Reduction in rental income due to bad debt write-offs and reserves, net of amounts collected on previously written-off
+or reserved accounts.
+
+Blended Rate – The weighted average of New Lease Change and Renewal Rate Achieved.
+
+Capital Expenditures to Real Estate:
+   Building Improvements – Includes roof replacement, paving, building mechanical equipment systems, exterior siding and painting,
+   major landscaping, furniture, fixtures and equipment for amenities and common areas, vehicles and office and maintenance
+   equipment.
+
+   Renovation Expenditures – Apartment unit renovation costs (primarily kitchens and baths) designed to reposition these units for
+   higher rental levels in their respective markets.
+
+   Replacements – Includes appliances, mechanical equipment, fixtures and flooring (including hardwood and carpeting).
+
+Debt Balances:
+   Commercial Paper Program – The Company may borrow up to a maximum of $1.0 billion under its commercial paper program
+   subject to market conditions. The notes bear interest at various floating rates.
+
+   Revolving Credit Facility – The Company’s $2.5 billion unsecured revolving credit facility matures November 1, 2024. The interest
+   rate on advances under the facility will generally be LIBOR plus a spread (currently 0.775%), or based on bids received from the
+   lending group, and an annual facility fee (currently 0.125%). Both the spread and the facility fee are dependent on the Company’s
+   senior unsecured credit rating. In addition, the Company limits its utilization of the facility in order to maintain liquidity to support its
+   $1.0 billion commercial paper program along with certain other obligations. The following table presents the availability on the
+   Company’s unsecured revolving credit facility:
+
+                                                                                             March 31, 2021
+                               Unsecured revolving credit facility commitment            $            2,500,000
+                               Commercial paper balance outstanding                                    (430,000 )
+                               Unsecured revolving credit facility balance outstanding                       —
+                               Other restricted amounts                                                (100,699 )
+                               Unsecured revolving credit facility availability          $            1,969,301
+
+Debt Covenant Compliance – Our unsecured debt includes certain financial and operating covenants including, among other things,
+maintenance of certain financial ratios. These provisions are contained in the indentures applicable to each notes payable or the credit
+agreement for our line of credit. The Debt Covenant Compliance ratios that are provided show the Company's compliance with certain
+covenants governing our public unsecured debt. These covenants generally reflect our most restrictive financial covenants. The
+Company was in compliance with its unsecured debt covenants for all periods presented.
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                           25
+Table of Contents
+                                                  Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                        (Amounts in thousands except per share and per apartment unit data)
+                                            (All per share data is diluted)
+
+Development Yield – NOI that the Company anticipates receiving in the next 12 months following stabilization less an estimate of
+property management costs/management fees allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on
+the size and income streams of the asset) and less an estimate for in-the-unit replacement capital expenditures (generally ranging from
+$50-$150 per apartment unit depending on the type of asset) divided by the Total Budgeted Capital Cost of the asset. The weighted
+average Development Yield for development properties is weighted based on the projected NOI streams and the relative Total
+Budgeted Capital Cost for each respective property.
+
+Disposition Yield – NOI that the Company anticipates giving up in the next 12 months less an estimate of property management
+costs/management fees allocated to the project (generally ranging from 2.0% to 4.0% of revenues depending on the size and income
+streams of the asset) and less an estimate for in-the-unit replacement capital expenditures (generally ranging from $100-$450 per
+apartment unit depending on the age and condition of the asset) divided by the gross sales price of the asset. The weighted average
+Disposition Yield for sold properties is weighted based on the projected NOI streams and the relative sales price for each respective
+property.
+
+Earnings Per Share ("EPS") – Net income per share calculated in accordance with GAAP. Expected EPS is calculated on a basis
+consistent with actual EPS. Due to the uncertain timing and extent of property dispositions and the resulting gains/losses on sales,
+actual EPS could differ materially from expected EPS.
+
+EBITDA for Real Estate and Normalized EBITDA for Real Estate:
+   Earnings Before Interest, Taxes, Depreciation and Amortization for Real Estate (“EBITDAre”) – The National Association of
+   Real Estate Investment Trusts (“Nareit”) defines EBITDAre (September 2017 White Paper) as net income (computed in accordance
+   with GAAP) before interest expense, income taxes, depreciation and amortization expense, and further adjusted for gains and
+   losses from sales of depreciated operating properties, impairment write-downs of depreciated operating properties, impairment
+   write-downs of investments in unconsolidated entities caused by a decrease in value of depreciated operating properties within the
+   joint venture and adjustments to reflect the Company’s share of EBITDAre of investments in unconsolidated entities.
+
+   The Company believes that EBITDAre is useful to investors, creditors and rating agencies as a supplemental measure of the
+   Company’s ability to incur and service debt because it is a recognized measure of performance by the real estate industry, and by
+   excluding gains or losses related to sales or impairment of depreciated operating properties, EBITDAre can help compare the
+   Company’s credit strength between periods or as compared to different companies.
+
+   Normalized Earnings Before Interest, Taxes, Depreciation and Amortization for Real Estate (“Normalized EBITDAre”) –
+   Represents net income (computed in accordance with GAAP) before interest expense, income taxes, depreciation and amortization
+   expense, and further adjusted for non-comparable items. Normalized EBITDAre, total debt to Normalized EBITDAre and net debt to
+   Normalized EBITDAre are important metrics in evaluating the credit strength of the Company and its ability to service its debt
+   obligations. The Company believes that Normalized EBITDAre, total debt to Normalized EBITDAre, and net debt to Normalized
+   EBITDAre are useful to investors, creditors and rating agencies because they allow investors to compare the Company’s credit
+   strength to prior reporting periods and to other companies without the effect of items that by their nature are not comparable from
+   period to period and tend to obscure the Company’s actual credit quality.
+
+Economic Gain (Loss) – Economic Gain (Loss) is calculated as the net gain (loss) on sales of real estate properties in accordance
+with GAAP, excluding accumulated depreciation. The Company generally considers Economic Gain (Loss) to be an appropriate
+supplemental measure to net gain (loss) on sales of real estate properties in accordance with GAAP because it is one indication of the
+gross value created by the Company's acquisition, development, renovation, management and ultimate sale of a property and because
+it helps investors to understand the relationship between the cash proceeds from a sale and the cash invested in the sold property. The
+following table presents a reconciliation of net gain (loss) on sales of real estate properties in accordance with GAAP to Economic Gain
+(Loss):
+
+                                                                               Quarter Ended March 31, 2021
+                    Net Gain (Loss) on Sales of Real Estate Properties   $                                     (43 )
+                    Accumulated Depreciation Gain                                                               —
+                    Economic Gain (Loss)                                 $                                     (43 )
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                    26
+Table of Contents
+                                                  Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                        (Amounts in thousands except per share and per apartment unit data)
+                                            (All per share data is diluted)
+
+FFO and Normalized FFO:
+  Funds From Operations (“FFO”) – Nareit defines FFO (December 2018 White Paper) as net income (computed in accordance
+  with GAAP), excluding gains or losses from sales and impairment write-downs of depreciable real estate and land when connected
+  to the main business of a REIT, impairment write-downs of investments in entities when the impairment is directly attributable to
+  decreases in the value of depreciable real estate held by the entity and depreciation and amortization related to real estate.
+  Adjustments for partially owned consolidated and unconsolidated partnerships and joint ventures are calculated to reflect FFO on
+  the same basis. Expected FFO per share is calculated on a basis consistent with actual FFO per share and is considered an
+  appropriate supplemental measure of expected operating performance when compared to expected EPS.
+
+   The Company believes that FFO and FFO available to Common Shares and Units are helpful to investors as supplemental
+   measures of the operating performance of a real estate company, because they are recognized measures of performance by the
+   real estate industry and by excluding gains or losses from sales and impairment write-downs of depreciable real estate and
+   excluding depreciation related to real estate (which can vary among owners of identical assets in similar condition based on
+   historical cost accounting and useful life estimates), FFO and FFO available to Common Shares and Units can help compare the
+   operating performance of a company’s real estate between periods or as compared to different companies.
+
+   Normalized Funds From Operations ("Normalized FFO") – Normalized FFO begins with FFO and excludes:
+      •    the impact of any expenses relating to non-operating asset impairment;
+      •    pursuit cost write-offs;
+      •    gains and losses from early debt extinguishment and preferred share redemptions;
+      •    gains and losses from non-operating assets; and
+      •    other miscellaneous items.
+
+   Expected Normalized FFO per share is calculated on a basis consistent with actual Normalized FFO per share and is considered an
+   appropriate supplemental measure of expected operating performance when compared to expected EPS.
+
+   The Company believes that Normalized FFO and Normalized FFO available to Common Shares and Units are helpful to investors
+   as supplemental measures of the operating performance of a real estate company because they allow investors to compare the
+   Company's operating performance to its performance in prior reporting periods and to the operating performance of other real estate
+   companies without the effect of items that by their nature are not comparable from period to period and tend to obscure the
+   Company's actual operating results.
+
+   FFO, FFO available to Common Shares and Units, Normalized FFO and Normalized FFO available to Common Shares and Units
+   do not represent net income, net income available to Common Shares or net cash flows from operating activities in accordance with
+   GAAP. Therefore, FFO, FFO available to Common Shares and Units, Normalized FFO and Normalized FFO available to Common
+   Shares and Units should not be exclusively considered as alternatives to net income, net income available to Common Shares or
+   net cash flows from operating activities as determined by GAAP or as a measure of liquidity. The Company's calculation of FFO,
+   FFO available to Common Shares and Units, Normalized FFO and Normalized FFO available to Common Shares and Units may
+   differ from other real estate companies due to, among other items, variations in cost capitalization policies for capital expenditures
+   and, accordingly, may not be comparable to such other real estate companies.
+
+   FFO available to Common Shares and Units and Normalized FFO available to Common Shares and Units are calculated on a basis
+   consistent with net income available to Common Shares and reflects adjustments to net income for preferred distributions and
+   premiums on redemption of preferred shares in accordance with GAAP. The equity positions of various individuals and entities that
+   contributed their properties to the Operating Partnership in exchange for OP Units are collectively referred to as the "Noncontrolling
+   Interests – Operating Partnership". Subject to certain restrictions, the Noncontrolling Interests – Operating Partnership may
+   exchange their OP Units for Common Shares on a one-for-one basis.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                    27
+Table of Contents
+                                                  Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                        (Amounts in thousands except per share and per apartment unit data)
+                                            (All per share data is diluted)
+
+The following table presents reconciliations of EPS to FFO per share and Normalized FFO per share for Consolidated Statements of
+Funds From Operations and Normalized Funds From Operations.
+
+                                                          Actual                 Actual               Expected          Expected
+                                                         Q1 2021                Q1 2020                Q2 2021            2021
+                                                        Per Share              Per Share              Per Share         Per Share
+EPS – Diluted                                         $          0.15        $           0.83       $0.66 to $0.70    $2.57 to $2.67
+Depreciation expense                                             0.52                    0.54             0.51              2.03
+Net (gain) loss on sales                                           —                    (0.51 )          (0.51)            (1.93)
+Impairment – operating assets                                      —                       —               —                 —
+FFO per share – Diluted                                           0.67                   0.86          0.66 to 0.70    2.67 to 2.77
+Impairment – non-operating assets                                   —                      —                —                —
+Write-off of pursuit costs                                          —                    0.01              0.01             0.01
+Debt extinguishment and preferred share
+  redemption (gains) losses                                         —                      —                —                —
+Non-operating asset (gains) losses                                  —                      —                —               0.01
+Other miscellaneous items                                         0.01                     —                —               0.01
+Normalized FFO per share – Diluted                    $           0.68       $           0.87       $0.67 to $0.71    $2.70 to $2.80
+
+Lease-Up NOI – Represents NOI for development properties: (i) in various stages of lease-up; and (ii) where lease-up has been
+completed but the properties were not stabilized (defined as having achieved 90% occupancy for three consecutive months) for all of
+the current and comparable periods presented.
+
+Leasing Concessions – Reflects upfront discounts on both new move-in and renewal leases on a straight-line basis.
+
+Net Operating Income (“NOI”) – NOI is the Company’s primary financial measure for evaluating each of its apartment properties. NOI
+is defined as rental income less direct property operating expenses (including real estate taxes and insurance). The Company believes
+that NOI is helpful to investors as a supplemental measure of its operating performance because it is a direct measure of the actual
+operating results of the Company's apartment properties. NOI does not include an allocation of property management expenses either
+in the current or comparable periods. Rental income for all leases and operating expense for ground leases (for both same store and
+non-same store properties) are reflected on a straight-line basis in accordance with GAAP for the current and comparable periods.
+
+The following tables present reconciliations of operating income per the consolidated statements of operations to NOI, along with rental
+income, operating expenses and NOI per the consolidated statements of operations allocated between same store and non-same
+store/other results (see Same Store Results):
+                                                                                        Quarter Ended March 31,
+                                                                                     2021                     2020
+       Operating income                                                  $                135,560    $                 422,085
+       Adjustments:
+          Property management                                                                 26,130                    27,709
+          General and administrative                                                          15,383                    14,518
+          Depreciation                                                                       199,962                   212,422
+          Net (gain) loss on sales of real estate
+            properties                                                                            43                  (207,977 )
+       Total NOI                                                         $                   377,078       $           468,757
+       Rental income:
+          Same store                                                     $                   592,788       $           662,021
+          Non-same store/other                                                                 4,814                    20,284
+       Total rental income                                                                   597,602                   682,305
+       Operating expenses:
+          Same store                                                                         212,052                   204,201
+          Non-same store/other                                                                 8,472                     9,347
+       Total operating expenses                                                              220,524                   213,548
+       NOI:
+          Same store                                                                         380,736                   457,820
+          Non-same store/other                                                                (3,658 )                  10,937
+       Total NOI                                                         $                   377,078       $           468,757
+
+
+1st Quarter 2021 Earnings Release                                                                                                      28
+Table of Contents
+                                                  Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                        (Amounts in thousands except per share and per apartment unit data)
+                                            (All per share data is diluted)
+
+New Lease Change – The net effective change in rent (inclusive of Leasing Concessions) for a lease with a new or transferring
+resident compared to the rent for the prior lease of the identical apartment unit, regardless of lease term.
+
+Non-Residential – Consists of revenues and expenses from retail and public parking garage operations.
+
+Non-Same Store Properties – For annual comparisons, primarily includes all properties acquired during 2020 and 2021, plus any
+properties in lease-up and not stabilized as of January 1, 2020.
+
+Percentage of Residents Renewing – Leases renewed expressed as a percentage of total renewal offers extended during the
+reporting period.
+
+Physical Occupancy – The weighted average occupied apartment units for the reporting period divided by the average of total
+apartment units available for rent for the reporting period.
+
+Pricing Trend – Weighted average of 12-month base rent including amenity amount less Leasing Concessions on 12-month signed
+leases for the reporting period.
+
+Renewal Rate Achieved – The net effective change in rent (inclusive of Leasing Concessions) for a new lease on an apartment unit
+where the lease has been renewed as compared to the rent for the prior lease of the identical apartment unit, regardless of lease term.
+
+Residential – Consists of multifamily apartment revenues and expenses.
+
+Same Store Operating Expenses:
+  On-site Payroll – Includes payroll and related expenses for on-site personnel including property managers, leasing consultants,
+  and maintenance staff.
+
+   Other On-site Operating Expenses – Includes ground lease costs and administrative costs such as office supplies, telephone and
+   data charges and association and business licensing fees.
+
+   Repairs and Maintenance – Includes general maintenance costs, apartment unit turnover costs including interior painting, routine
+   landscaping, security, exterminating, fire protection, snow removal, elevator, roof and parking lot repairs and other miscellaneous
+   building repair and maintenance costs.
+
+   Utilities – Represents gross expenses prior to any recoveries under the Resident Utility Billing System (“RUBS”). Recoveries are
+   reflected in rental income.
+Same Store Properties – For annual comparisons, primarily includes all properties acquired or completed that are stabilized prior to
+January 1, 2020, less properties subsequently sold. Properties are included in Same Store when they are stabilized for all of the
+current and comparable periods presented.
+
+Same Store Residential Revenues – Revenues from our Same Store Properties presented on a GAAP basis which reflects the impact
+of Leasing Concessions on a straight-line basis.
+
+Same Store Residential Revenues with Leasing Concessions on a cash basis is presented in Same Store Results and is considered by
+the Company to be a supplemental measure to Same Store Residential Revenues in conformity with GAAP to help investors evaluate
+the impact of both current and historical Leasing Concessions on GAAP-based Same Store Residential Revenues and to more readily
+enable comparisons to revenue as reported by other companies. Same Store Residential Revenues with Leasing Concessions on a
+cash basis reflects the impact of Leasing Concessions used in the period and allows an investor to understand the historical trend in
+cash Leasing Concessions.
+
+% of Stabilized Budgeted NOI – Represents original budgeted 2021 NOI for stabilized properties and projected annual NOI at
+stabilization (defined as having achieved 90% occupancy for three consecutive months) for properties that are in lease-up.
+
+Total Budgeted Capital Cost – Estimated remaining cost for projects under development and/or developed plus all capitalized costs
+incurred to date, including land acquisition costs, construction costs, capitalized real estate taxes and insurance, capitalized interest
+and loan fees, permits, professional fees, allocated development overhead and other regulatory fees, plus any estimates of costs
+remaining to be funded for all projects, all in accordance with GAAP.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                     29
+Table of Contents
+                                                  Equity Residential
+    Additional Reconciliations and Definitions of Non-GAAP Financial Measures and Other Terms – Continued
+                        (Amounts in thousands except per share and per apartment unit data)
+                                            (All per share data is diluted)
+
+Total Market Capitalization – The aggregate of the market value of the Company’s outstanding common shares, including restricted
+shares, the market value of the Company’s operating partnership units outstanding, including restricted units (based on the market
+value of the Company’s common shares) and the outstanding principal balance of debt. The Company believes this is a useful
+measure of a real estate operating company’s long-term liquidity and balance sheet strength, because it shows an approximate
+relationship between a company’s total debt and the current total market value of its assets based on the current price at which the
+Company’s common shares trade. However, because this measure of leverage changes with fluctuations in the Company’s share
+price, which occur regularly, this measure may change even when the Company’s earnings, interest and debt levels remain stable.
+
+Traffic – Consists of an expression of interest in an apartment by completing an in-person tour, self-guided tour or virtual tour that may
+result in an application to lease.
+Transaction Accretion (Dilution) – Represents the spread between the Acquisition Cap Rate and the Disposition Yield.
+
+Turnover – Total Residential move-outs (including inter-property and intra-property transfers) divided by total Residential apartment
+units.
+
+Unencumbered NOI % – Represents NOI generated by consolidated real estate assets unencumbered by outstanding secured debt
+as a percentage of total NOI generated by all of the Company's consolidated real estate assets.
+
+Unlevered Internal Rate of Return (“IRR”) – The Unlevered IRR on sold properties is the compound annual rate of return calculated
+by the Company based on the timing and amount of: (i) the gross purchase price of the property plus any direct acquisition costs
+incurred by the Company; (ii) total revenues earned during the Company’s ownership period; (iii) total direct property operating
+expenses (including real estate taxes and insurance) incurred during the Company’s ownership period; (iv) capital expenditures
+incurred during the Company’s ownership period; and (v) the gross sales price of the property net of selling costs.
+
+The calculation of the Unlevered IRR does not include an adjustment for the Company’s property management expense, general and
+administrative expense or interest expense (including loan assumption costs and other loan-related costs). Therefore, the Unlevered
+IRR is not a substitute for net income as a measure of our performance. Management believes that the Unlevered IRR achieved during
+the period a property is owned by the Company is useful because it is one indication of the gross value created by the Company’s
+acquisition, development, renovation, management and ultimate sale of a property, before the impact of Company overhead. The
+Unlevered IRR achieved on the properties as cited in this release should not be viewed as an indication of the gross value created with
+respect to other properties owned by the Company, and the Company does not represent that it will achieve similar Unlevered IRRs
+upon the disposition of other properties. The weighted average Unlevered IRR for sold properties is weighted based on all cash flows
+over the investment period for each respective property, including net sales proceeds.
+
+Weighted Average Coupons – Contractual interest rate for each debt instrument weighted by principal balances as of March 31,
+2021. In case of debt for which fair value hedges are in place, the rate payable under the corresponding derivatives is used in lieu of
+the contractual interest rate.
+
+Weighted Average Rates – Interest expense for each debt instrument for the quarter ended March 31, 2021 weighted by its average
+principal balance for the same period. Interest expense includes amortization of premiums, discounts and other comprehensive income
+on debt and related derivative instruments. In case of debt for which derivatives are in place, the income or expense recognized under
+the corresponding derivatives is included in the total interest expense for the period.
+
+
+
+
+1st Quarter 2021 Earnings Release                                                                                                      30
+
