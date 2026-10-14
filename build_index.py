@@ -63,14 +63,9 @@ def company(claim):
 
 
 def question_for(claim):
-    s = claim["subject"].lower()
-    if "occupancy" in s:
-        return 6
-    if "ffo" in s or "net operating income" in s:
-        return 5
-    if "debt" in s or "liquidity" in s:
-        return 8
-    return None
+    """The question number stored on the claim, if any."""
+    q = claim.get("question")
+    return int(q) if str(q).isdigit() else None
 
 
 def quarter_key(claim):
@@ -87,9 +82,15 @@ def quarter_key(claim):
 
 
 def series(claims, kind):
-    """{company: {quarter: claim}} for 'ffo' or 'occ', verified claims only."""
+    """{company: {quarter: claim}} for 'ffo' or 'occ', verified claims only.
+
+    Only company-wide trend claims (question 9) are charted, so a market-level
+    figure such as San Francisco occupancy never replaces a company's point.
+    """
     out = {c: {} for c in COMPANIES}
     for c in claims:
+        if question_for(c) != 9:
+            continue
         s = c["subject"].lower()
         is_kind = ("occupancy" in s) if kind == "occ" else ("ffo" in s)
         k = quarter_key(c)

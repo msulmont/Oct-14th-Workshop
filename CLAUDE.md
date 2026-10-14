@@ -44,9 +44,13 @@ Each claim in `claims.json` looks like this:
   "value": "2.6",
   "unit": "percent",
   "period": "August 2026",
-  "quote": "the exact sentence from the capture that contains the number"
+  "quote": "the exact sentence from the capture that contains the number",
+  "question": 1
 }
 ```
+
+- `question` is the number of the question in `questions.md` that the claim
+  answers. `build_index.py` uses it to group claims on the page.
 
 - Copy the quote character for character from the file in `captures/`. Never
   reword, shorten the middle of, or fix a quote.

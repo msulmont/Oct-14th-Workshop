@@ -1,14 +1,16 @@
 # Topic
 
-How U.S. Real Estate Investment Trusts (REITs) are performing in 2026.
+What public apartment REITs' filings tell a merchant multifamily developer in San Francisco about Bay Area rents, new supply, building costs, buyers and capital (2020 to 2026).
 
 # Questions
 
-1. What is the total return of U.S. REITs (e.g., the FTSE Nareit All Equity REITs index) year-to-date in 2026, and over the last 12 months?
-2. How does that return compare with the S&P 500 over the same period?
-3. What is the average REIT dividend yield, and how does it compare with the 10-year Treasury yield?
-4. Which REIT sectors (data centers, industrial, apartments, office, retail, healthcare, self-storage, cell towers) had the highest and lowest returns this year, and by how much?
-5. How fast are REIT earnings (funds from operations, or FFO) growing compared with a year ago?
-6. What is the average occupancy rate for REIT properties, overall or by sector?
-7. Are REITs trading above or below the value of their properties (premium or discount to net asset value), and by what percentage?
-8. How much debt do REITs carry (leverage ratio), and what share of it is at fixed rates?
+1. How fast are apartment rents and revenues growing in San Francisco and the other Bay Area counties compared with a year ago?
+2. What are occupancy levels in Bay Area apartment markets?
+3. How much new multifamily supply is expected in San Francisco, Oakland and San Jose in 2026 and 2027?
+4. What does it cost to build apartments in the Bay Area, and what rents do REITs expect on their new projects?
+5. What prices are REITs getting when they sell Bay Area apartments?
+6. Are REITs buying or selling right now: stock buybacks, property sales and acquisitions?
+7. How fast are apartment operating costs (property taxes, utilities, insurance) growing?
+8. What returns do REITs earn on preferred equity and loans to other developers?
+9. How are the REITs' earnings, occupancy and debt trending overall?
+10. What does the AvalonBay and Equity Residential merger create, and what could it mean for Bay Area buyers?
